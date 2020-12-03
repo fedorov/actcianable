@@ -38,5 +38,5 @@ jobs:
     - name: Run collections scraper
       run: |
         python --version
-        python scrapers/collections.py
+        python scrapers/fail.py
         cat output/collections.py
