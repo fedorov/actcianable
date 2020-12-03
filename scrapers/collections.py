@@ -1,7 +1,6 @@
-from collections import Counter
+#from collections import Counter
 
 
-'''
 import requests
 
 
@@ -53,4 +52,3 @@ print(len(rows))
 
 with open("output/collections.json", "w") as f:
   f.write(json.dumps(table, indent=2))
-'''
