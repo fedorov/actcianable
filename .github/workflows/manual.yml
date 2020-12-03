@@ -29,7 +29,7 @@ jobs:
         pip install tabulate
         pip install backoff
         ls .
-    - run: |
-        echo "Hello ${{ github.event.inputs.name }}!"
-        echo "- in ${{ github.event.inputs.home }}!"
-        git clone https://github.com/thp/urlwatch.git
+    - name: Run collections scraper
+      run: |
+        python scrapers/collections.py
+        cat output/collections.py
