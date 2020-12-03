@@ -1,4 +1,11 @@
+from collections import Counter
+
+
+'''
 import requests
+
+
+
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 
@@ -46,3 +53,4 @@ print(len(rows))
 
 with open("output/collections.json", "w") as f:
   f.write(json.dumps(table, indent=2))
+'''
