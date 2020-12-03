@@ -28,7 +28,6 @@ jobs:
         pip install bs4
         pip install tabulate
         pip install backoff
-        pip install json
         ls .
     - run: |
         echo "Hello ${{ github.event.inputs.name }}!"
