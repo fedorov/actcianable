@@ -1,3 +1,31 @@
+[
+  {
+    "Collection": "Medical Imaging Data Resource Center - RSNA International COVID Radiology Database Release 1a - Chest CT Covid+",
+    "DOI": "https://doi.org/10.7937/VTW4-X588",
+    "CancerType": "COVID-19 (non-cancer)",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "110",
+    "ImageTypes": "CT",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2020-12-18"
+  },
+  {
+    "Collection": "Breast Cancer Screening - Digital Breast Tomosynthesis",
+    "DOI": "https://doi.org/10.7937/e4wt-cd02",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "693",
+    "ImageTypes": "DBT",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2020-12-14"
+  },
+  {
     "Collection": "QIN-PROSTATE-Repeatability",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.MR1CKGND",
     "CancerType": "Prostate Cancer",
@@ -47,7 +75,7 @@
     "SupportingData": "Image Analyses",
     "Access": "Public",
     "Status": "Complete",
-    "Updated": "2020-10-16"
+    "Updated": "2020-12-23"
   },
   {
     "Collection": "Prostate-MRI-US-Biopsy",
@@ -1520,7 +1548,7 @@
   },
   {
     "Collection": "QIBA CT-1C",
-    "DOI": "https://doi.org/ 10.7937/K9/TCIA.2016.YxgR4blU",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YxgR4blU",
     "CancerType": "Phantom",
     "Location": "Phantom",
     "Species": "Human",
