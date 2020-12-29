@@ -1,13 +1,17 @@
-$.getJSON("output/collections.json", function(json) {
-    //console.log(json); // this will show the info it in firebug console
+//$.getJSON("output/collections.json", function(json) {
+$.getJSON("https://raw.githubusercontent.com/fedorov/actcianable/master/output/collections.json", function(json) {
     var $table = $('#collectionsTable');
-    const collections = JSON.parse(json);
+    //const collections = JSON.parse(json);
     $(function () {
         $('#collectionsTable').bootstrapTable({
-            data: collections
+            data: json
         });
     });
 });
+
+function LinkFormatter(value, row, index) {
+  return "<a href='"+row.url+"'>"+value+"</a>";
+}
 
 /*
 
