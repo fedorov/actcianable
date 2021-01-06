@@ -9,9 +9,21 @@ $.getJSON("https://raw.githubusercontent.com/fedorov/actcianable/master/output/c
     });
 });
 
+$.getJSON("https://raw.githubusercontent.com/fedorov/actcianable/master/output/analysis_collections.json", function(json) {
+    var $table = $('#analysisCollectionsTable');
+    //const collections = JSON.parse(json);
+    $(function () {
+        $('#analysisCollectionsTable').bootstrapTable({
+            data: json
+        });
+    });
+});
+
+/*
+
 function LinkFormatter(value, row, index) {
   return "<a href='"+row.url+"'>"+value+"</a>";
-}
+}*/
 
 /*
 
