@@ -1,5 +1,31 @@
 [
   {
+    "Collection": "Breast Cancer Screening - Digital Breast Tomosynthesis",
+    "DOI": "https://doi.org/10.7937/e4wt-cd02",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "810",
+    "ImageTypes": "DBT",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-01-04"
+  },
+  {
+    "Collection": "Lung-PET-CT-Dx",
+    "DOI": "http://doi.org/10.7937/TCIA.2020.NNC2-0461",
+    "CancerType": "Lung Cancer",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "363",
+    "ImageTypes": "CT, PT",
+    "SupportingData": "Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2020-12-23"
+  },
+  {
     "Collection": "Medical Imaging Data Resource Center - RSNA International COVID Radiology Database Release 1a - Chest CT Covid+",
     "DOI": "https://doi.org/10.7937/VTW4-X588",
     "CancerType": "COVID-19 (non-cancer)",
@@ -11,19 +37,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2020-12-18"
-  },
-  {
-    "Collection": "Breast Cancer Screening - Digital Breast Tomosynthesis",
-    "DOI": "https://doi.org/10.7937/e4wt-cd02",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "693",
-    "ImageTypes": "DBT",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-12-14"
   },
   {
     "Collection": "QIN-PROSTATE-Repeatability",
@@ -63,19 +76,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2020-10-19"
-  },
-  {
-    "Collection": "Lung-PET-CT-Dx",
-    "DOI": "http://doi.org/10.7937/TCIA.2020.NNC2-0461",
-    "CancerType": "Lung Cancer",
-    "Location": "Lung",
-    "Species": "Human",
-    "Subjects": "363",
-    "ImageTypes": "CT, PT",
-    "SupportingData": "Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2020-12-23"
   },
   {
     "Collection": "Prostate-MRI-US-Biopsy",
