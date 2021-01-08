@@ -1,6 +1,6 @@
 [
   {
-    "Collection": "Breast Cancer Screening - Digital Breast Tomosynthesis",
+    "Collection": "Breast Cancer Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "CancerType": "Breast Cancer",
     "Location": "Breast",
@@ -26,7 +26,7 @@
     "Updated": "2020-12-23"
   },
   {
-    "Collection": "Medical Imaging Data Resource Center - RSNA International COVID Radiology Database Release 1a - Chest CT Covid+",
+    "Collection": "MIDRC-RICORD-1a",
     "DOI": "https://doi.org/10.7937/VTW4-X588",
     "CancerType": "COVID-19 (non-cancer)",
     "Location": "Lung",
