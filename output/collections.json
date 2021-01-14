@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "ICDC-Glioma (GLIOMA01)",
+    "DOI": "https://doi.org/10.7937/TCIA.SVQT-Q016",
+    "CancerType": "Glioma",
+    "Location": "Head",
+    "Species": "Canine",
+    "Subjects": "78",
+    "ImageTypes": "MR, Pathology",
+    "SupportingData": "Genomics",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-01-12"
+  },
+  {
     "Collection": "Breast Cancer Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "CancerType": "Breast Cancer",
@@ -468,7 +481,7 @@
     "Updated": "2020-02-04"
   },
   {
-    "Collection": "Acrin-FLT-Breast (ACRIN 6688)",
+    "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
     "CancerType": "Breast Cancer",
     "Location": "Breast",
@@ -572,7 +585,7 @@
     "Updated": "2019-09-30"
   },
   {
-    "Collection": "Acrin-FMISO-Brain (ACRIN 6684)",
+    "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.vohlekok",
     "CancerType": "Glioblastoma",
     "Location": "Brain",
