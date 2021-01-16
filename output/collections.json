@@ -1,5 +1,31 @@
 [
   {
+    "Collection": "Breast Cancer Screening-DBT",
+    "DOI": "https://doi.org/10.7937/e4wt-cd02",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "985",
+    "ImageTypes": "DBT",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-01-15"
+  },
+  {
+    "Collection": "MIDRC-RICORD-1c",
+    "DOI": "https://doi.org/10.7937/91ah-v663",
+    "CancerType": "COVID-19 (non-cancer)",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "361",
+    "ImageTypes": "CR, DX",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-01-15"
+  },
+  {
     "Collection": "MIDRC-RICORD-1a",
     "DOI": "https://doi.org/10.7937/VTW4-X588",
     "CancerType": "COVID-19 (non-cancer)",
@@ -24,19 +50,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2021-01-12"
-  },
-  {
-    "Collection": "Breast Cancer Screening-DBT",
-    "DOI": "https://doi.org/10.7937/e4wt-cd02",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "810",
-    "ImageTypes": "DBT",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2021-01-04"
   },
   {
     "Collection": "Lung-PET-CT-Dx",
