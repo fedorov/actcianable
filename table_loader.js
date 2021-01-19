@@ -1,5 +1,5 @@
 //$.getJSON("output/collections.json", function(json) {
-$.getJSON("https://raw.githubusercontent.com/fedorov/actcianable/master/output/collections.json", function(json) {
+/*$.getJSON("https://raw.githubusercontent.com/fedorov/actcianable/master/output/collections.json", function(json) {
     var $table = $('#collectionsTable');
     //const collections = JSON.parse(json);
     $(function () {
@@ -8,14 +8,14 @@ $.getJSON("https://raw.githubusercontent.com/fedorov/actcianable/master/output/c
         });
     });
 });
+*/
 
 
 
-/*
 
 function LinkFormatter(value, row, index) {
-  return "<a href='"+row.url+"'>"+value+"</a>";
-}*/
+  return "<a href='"+value+"'>DOI</a>";
+}
 
 /*
 
