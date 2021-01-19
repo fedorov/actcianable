@@ -46,4 +46,4 @@ jobs:
         signoff: false
         branch: example-patches
         delete-branch: true
-        title: ${{ steps.date.outputs.date }}
+        title: Collections details updated
