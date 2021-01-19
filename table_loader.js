@@ -14,7 +14,7 @@
 
 
 function LinkFormatter(value, row, index) {
-  return "<a href='"+value+"'>DOI</a>";
+  return "<a href='"+value+"'>link</a>";
 }
 
 /*
