@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "CPTAC-LSCC",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
+    "CancerType": "Squamous Cell Carcinoma",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "212",
+    "ImageTypes": "CT, CR, DX, NM, PT, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-01-23"
+  },
+  {
     "Collection": "Breast Cancer Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "CancerType": "Breast Cancer",
@@ -255,19 +268,6 @@
     "Subjects": "112",
     "ImageTypes": "CT, MR, SC, Pathology",
     "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-06-30"
-  },
-  {
-    "Collection": "CPTAC-LSCC",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
-    "CancerType": "Squamous Cell Carcinoma",
-    "Location": "Lung",
-    "Species": "Human",
-    "Subjects": "212",
-    "ImageTypes": "CT, CR, DX, NM, PT, Pathology",
-    "SupportingData": "Clinical",
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2020-06-30"
