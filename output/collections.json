@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "MIDI",
+    "DOI": "https://doi.org/10.7937/s17z-r072",
+    "CancerType": "Various",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "21",
+    "ImageTypes": "CR, CT, DX, MG, MR, PT",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-01-31"
+  },
+  {
     "Collection": "CPTAC-LSCC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
     "CancerType": "Squamous Cell Carcinoma",
