@@ -1,6 +1,45 @@
 [
   {
-    "Collection": "MIDI",
+    "Collection": "CPTAC-BRCA",
+    "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "134",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-02-02"
+  },
+  {
+    "Collection": "CPTAC-COAD",
+    "DOI": "http://doi.org/10.7937/TCIA.YZWQ-ZZ63",
+    "CancerType": "Colon Cancer",
+    "Location": "Colon",
+    "Species": "Human",
+    "Subjects": "106",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-02-02"
+  },
+  {
+    "Collection": "CPTAC-OV",
+    "DOI": "http://doi.org/10.7937/TCIA.ZS4A-JD58",
+    "CancerType": "Ovarian Cancer",
+    "Location": "Ovary",
+    "Species": "Human",
+    "Subjects": "102",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-02-02"
+  },
+  {
+    "Collection": "Medical Imaging De-Identification Initiative (MIDI)",
     "DOI": "https://doi.org/10.7937/s17z-r072",
     "CancerType": "Various",
     "Location": "Various",
