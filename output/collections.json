@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "MIDRC-RICORD-1b",
+    "DOI": "https://doi.org/10.7937/31V8-4A40",
+    "CancerType": "COVID-19 (non-cancer)",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "117",
+    "ImageTypes": "CT",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-02-05"
+  },
+  {
     "Collection": "CPTAC-BRCA",
     "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
     "CancerType": "Breast Cancer",
