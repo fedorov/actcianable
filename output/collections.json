@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Vestibular-Schwannoma-SEG",
+    "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
+    "CancerType": "Vestibular Schwannoma (non-cancer)",
+    "Location": "Ear",
+    "Species": "Human",
+    "Subjects": "242",
+    "ImageTypes": "MR, RTSTRUCT, RTPLAN, RTDOSE",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-02-26"
+  },
+  {
     "Collection": "MIDRC-RICORD-1b",
     "DOI": "https://doi.org/10.7937/31V8-4A40",
     "CancerType": "COVID-19 (non-cancer)",
