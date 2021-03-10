@@ -39,6 +39,19 @@
     "Updated": "2021-02-05"
   },
   {
+    "Collection": "CPTAC-PDA",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
+    "CancerType": "Ductal Adenocarcinoma",
+    "Location": "Pancreas",
+    "Species": "Human",
+    "Subjects": "168",
+    "ImageTypes": "CR, CT, DX, MR, PT, RF, US, XA, Pathology",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-02-04"
+  },
+  {
     "Collection": "CPTAC-BRCA",
     "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
     "CancerType": "Breast Cancer",
@@ -502,19 +515,6 @@
     "Subjects": "250",
     "ImageTypes": "CT, MR, PT, CR, DX, SR, Pathology",
     "SupportingData": "Proteomics, Clinical, Genomics",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-03-31"
-  },
-  {
-    "Collection": "CPTAC-PDA",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
-    "CancerType": "Ductal Adenocarcinoma",
-    "Location": "Pancreas",
-    "Species": "Human",
-    "Subjects": "168",
-    "ImageTypes": "CT, MR, DX, PT, XA, CR, US, Pathology",
-    "SupportingData": "Clinical",
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2020-03-31"
