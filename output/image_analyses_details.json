@@ -1,0 +1,128 @@
+[
+  {
+    "Collection": "NSCLC-Radiomics",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "QIN-HeadNeck",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "CRC_FFPE-CODEX_CellNeighs",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "HNSCC",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Head-Neck-PET-CT",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "NSCLC-Radiogenomics",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "TCGA-LIHC",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "TCGA-LUAD",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "ISPY1 (ACRIN 6657)",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Breast-MRI-NACT-Pilot",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Soft-tissue-Sarcoma",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "TCGA-BRCA",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "LungCT-Diagnosis",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "TCGA-OV",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "TCGA-KIRC",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "TCGA-LGG",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "QIN Breast DCE-MRI",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "TCGA-GBM",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "SPIE-AAPM Lung CT Challenge",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Breast Diagnosis",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "REMBRANDT",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": ""
+  }
+]

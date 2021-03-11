@@ -29,6 +29,14 @@ table = soup.find(id="tablepress-9")
 
 rows = table.find_all("tr")
 
+
+analysis_details = []
+with open("output/image_analyses_details.json") as analysis_details_file:
+  analysis_details = json.load(analysis_details_file)
+
+print("analysis details:")
+print(analysis_details)
+
 table = []
 header = "Collection,DOI,CancerType,Location,Species,Subjects,ImageTypes,SupportingData,Access,Status,Updated".split(",")
 
@@ -46,9 +54,14 @@ for row in rows:
   if len(trow):
     table = table + [trow]
 
-#print(tabulate(table, headers=header))
+    if trow["SupportingData"].find("Image Analyses")>0:
+      if trow["Collection"] not in [ i["Collection"] for i in analysis_details]:
+        analysis_details.append({"Collection": trow["Collection"], "Format":"", "DICOMstatus": "", "Comment": ""})
 
 print(len(rows))
 
 with open("output/collections.json", "w") as f:
   f.write(json.dumps(table, indent=2))
+
+with open("output/image_analyses_details.json", "w") as f:
+  f.write(json.dumps(analysis_details, indent=2))
