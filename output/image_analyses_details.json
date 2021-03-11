@@ -46,8 +46,7 @@
     "Format": "AIM,",
     "CollectionType": "original",
     "DICOMstatus": "not done",
-    "Comment": "AIM objects contain semantic annotation of the findings, and also spatial localization of the
-    finding using TwoDimensionCircle markup type."
+    "Comment": "AIM objects contain semantic annotation of the findings, and also spatial localization of the finding using TwoDimensionCircle markup type."
   },
   {
     "Collection": "TCGA-LIHC",
