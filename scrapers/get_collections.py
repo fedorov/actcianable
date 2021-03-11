@@ -54,7 +54,7 @@ for row in rows:
   if len(trow):
     table = table + [trow]
 
-    if trow["SupportingData"].find("Image Analyses")>0:
+    if trow["SupportingData"].find("Image Analyses")>=0:
       if trow["Collection"] not in [ i["Collection"] for i in analysis_details]:
         analysis_details.append({"Collection": trow["Collection"], "DOI":trow["DOI"], "Format":"", "CollectionType": "original", "DICOMstatus": "", "Comment": ""})
 
