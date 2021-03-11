@@ -2,148 +2,171 @@
   {
     "Collection": "NSCLC-Radiomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.PF0M9REI",
-    "Format": "",
-    "DICOMstatus": "",
+    "Format": "RTSTRUCT, SEG",
+    "CollectionType": "original",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "QIN-HeadNeck",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
-    "Format": "",
-    "DICOMstatus": "",
+    "Format": "SEG",
+    "AnalysisCollection": "no",
+    "CollectionType": "original",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "CRC_FFPE-CODEX_CellNeighs",
     "DOI": "http://doi.org/10.7937/TCIA.2020.FQN0-0326",
-    "Format": "",
+    "Format": "?",
+    "CollectionType": "original",
     "DICOMstatus": "",
-    "Comment": ""
+    "Comment": "not clear what, if any, analyses are included"
   },
   {
     "Collection": "HNSCC",
     "DOI": "http://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
-    "Format": "",
+    "Format": "?",
+    "CollectionType": "original",
     "DICOMstatus": "",
-    "Comment": ""
+    "Comment": "Not clear what analyses results are available, none explicitly linked from the collection page. After communication with the helpdesk, turns out this collection is not curated completely yet, although it is marked as Completed on the TCIA front page."
   },
   {
     "Collection": "Head-Neck-PET-CT",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.8oje5q00",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "RTSTRUCT",
+    "CollectionType": "original",
+    "DICOMstatus": "can be improved?",
+    "Comment": "Mapping from GTV contour name to the type of the contour is available in a mapping spreadsheet, so potentially can be further harmonized."
   },
   {
     "Collection": "NSCLC-Radiogenomics",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "AIM,",
+    "CollectionType": "original",
+    "DICOMstatus": "not done",
+    "Comment": "AIM objects contain semantic annotation of the findings, and also spatial localization of the
+    finding using TwoDimensionCircle markup type."
   },
   {
     "Collection": "TCGA-LIHC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "SR",
+    "CollectionType": "original",
+    "DICOMstatus": "done?",
+    "Comment": "Analysis results probably refer to the CCC 2017 annotations, available in a separate collection."
   },
   {
     "Collection": "TCGA-LUAD",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
     "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "CollectionType": "original",
+    "DICOMstatus": "n/a",
+    "Comment": "Radiology refers to CCC 2017 annotations. Pathology analysis results are TIL maps, stored in RGB PNG. All analyses live in analysis results collections"
   },
   {
     "Collection": "ISPY1 (ACRIN 6657)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK",
-    "Format": "",
-    "DICOMstatus": "",
+    "Format": "SEG",
+    "CollectionType": "original",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "Breast-MRI-NACT-Pilot",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.QHSYHJKY",
-    "Format": "",
-    "DICOMstatus": "",
+    "Format": "SEG",
+    "CollectionType": "original",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "Soft-tissue-Sarcoma",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
-    "Format": "",
-    "DICOMstatus": "",
+    "Format": "RTSTRUCT",
+    "CollectionType": "original",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "TCGA-BRCA",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
     "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "CollectionType": "original",
+    "DICOMstatus": "n/a",
+    "Comment": "all analyses live in analysis results collections"
   },
   {
     "Collection": "LungCT-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "Excel",
+    "CollectionType": "original",
+    "DICOMstatus": "not done",
+    "Comment": "Excel spreadsheet contains details about representative tumor slices (SOPInstanceUID, InstanceNuber, ImagePositionPatient)."
   },
   {
     "Collection": "TCGA-OV",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
     "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "CollectionType": "original",
+    "DICOMstatus": "n/a",
+    "Comment": "All analyses live in analysis results collections."
   },
   {
     "Collection": "TCGA-KIRC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
     "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "CollectionType": "original",
+    "DICOMstatus": "n/a",
+    "Comment": "All analyses live in analysis results collections."
   },
   {
     "Collection": "TCGA-LGG",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
     "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "CollectionType": "original",
+    "DICOMstatus": "n/a",
+    "Comment": "All analyses live in analysis results collections."
   },
   {
     "Collection": "QIN Breast DCE-MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "Matlab, NIfTI, Excel",
+    "CollectionType": "original",
+    "DICOMstatus": "not done",
+    "Comment": "By analysis results are probably meant the Matlab and NIfTI representations of the 4D DCE series. There is also AIF shared as Excel spreadsheet."
   },
   {
     "Collection": "TCGA-GBM",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
     "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "CollectionType": "original",
+    "DICOMstatus": "n/a",
+    "Comment": "All analyses live in analysis results collections."
   },
   {
     "Collection": "SPIE-AAPM Lung CT Challenge",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "Excel",
+    "CollectionType": "original",
+    "DICOMstatus": "not done",
+    "Comment": "Location of the nodule center and number of slice (after sorting slices by InstanceNumber), and the diagnosis for the individual nodules."
   },
   {
     "Collection": "Breast Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "Excel",
+    "CollectionType": "original",
+    "DICOMstatus": "not done",
+    "Comment": "Pathology and radiology report text."
   },
   {
     "Collection": "REMBRANDT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
-    "Format": "",
-    "DICOMstatus": "",
-    "Comment": ""
+    "Format": "Excel",
+    "CollectionType": "original",
+    "DICOMstatus": "not done",
+    "Comment": "Qualitative assessment of brain tumor images following VASARI template."
   }
 ]
