@@ -219,138 +219,138 @@
   {
     "Collection": "Pelvic-Reference-Data",
     "DOI": "http://doi.org/10.7937/TCIA.2019.woskq5oo",
-    "Format": "",
+    "Format": "Excel",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Transformation matrices, landmarks."
   },
   {
     "Collection": "CC-Radiomics-Phantom-3",
     "DOI": "http://doi.org/10.7937/tcia.2019.j71i4fah",
-    "Format": "",
+    "Format": "Excel, RTSTRUCT",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "done?",
+    "Comment": "Excel contains acquisition parameters, since per authors, the ones in DICOM may be incorrect."
   },
   {
     "Collection": "MiMM_SBILab",
     "DOI": "http://doi.org/10.7937/tcia.2019.pnn6aypl",
-    "Format": "",
+    "Format": "PDF",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "PDF link is broken, but presumably PDF contains \"Annotated plasma cell images\"."
   },
   {
     "Collection": "LCTSC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.3r3fvz08",
-    "Format": "",
+    "Format": "RTSTRUCT",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "Osteosarcoma Tumor Assessment",
     "DOI": "http://doi.org/10.7937/tcia.2019.bvhjhdas",
-    "Format": "",
+    "Format": "CSV",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Various image-extracted features. The images are labelled as Non-Tumor, Viable Tumor and Necrosis according to the predominant cancer type in each image, but not obvious how this was recorded (perhaps need to download images first)."
   },
   {
     "Collection": "Brain-Tumor-Progression",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.15quzvnb",
-    "Format": "",
+    "Format": "MR",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "done",
+    "Comment": "Presumably, analysis results here refer to the generation of perfusion image and co-registration of invididual series. No non-DICOM artifacts are referenced."
   },
   {
     "Collection": "HNSCC-3DCT-RT",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.13upr2xf",
-    "Format": "",
+    "Format": "RT",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "LGG-1p19qDeletion",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.dwehtz9v",
-    "Format": "",
+    "Format": "NIfTI, SEG",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "CBIS-DDSM",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY",
-    "Format": "",
+    "Format": "MG?",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "?",
+    "Comment": "Characteristics and perhaps mask for the mass finding. Need to download and investigate more."
   },
   {
     "Collection": "QIN LUNG CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NPGZYZBZ",
-    "Format": "",
+    "Format": "n/a",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "done?",
+    "Comment": "No non-image artifacts linked from the collection page. Presumably, this one is marked as analysis results because it was shared for a challenge, and there are analysis results collections accompanying it."
   },
   {
     "Collection": "CC-Radiomics-Phantom",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.zuzrml5b",
-    "Format": "",
+    "Format": "RTSTRUCT",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "PROSTATEx",
     "DOI": "http://doi.org/10.7937/K9TCIA.2017.MURS5CL",
-    "Format": "",
+    "Format": "CSV, MHD",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Fiducials annotated in IJK, Ktrans maps in MHD, reference thumbnails with lesion annotations."
   },
   {
     "Collection": "Prostate Fused-MRI-Pathology",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2016.TLPMR1AM",
-    "Format": "",
+    "Format": "TIFF, Matlab",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Pseudo whole mounts obtained by stitching. Fused rad-path images in Matlab format."
   },
   {
     "Collection": "Pancreas-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.tNB1kqBU",
-    "Format": "",
+    "Format": "NIfTI",
     "CollectionType": "original",
     "DICOMstatus": "",
-    "Comment": ""
+    "Comment": "A medical student manually performed slice-by-slice segmentations of the pancreas as ground-truth and these were verified/modified by an experienced radiologist."
   },
   {
     "Collection": "4D-Lung",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ELN8YGLE",
-    "Format": "",
+    "Format": "RTSTRUCT",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "NRG-1308 (RTOG 1308)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.6fC8z46u",
-    "Format": "",
+    "Format": "RTSTRUCT",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "CT Lymph Nodes",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
-    "Format": "",
+    "Format": "txt, mps, NIfTI",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Points/linear measurements of nodes done using MITK. Volumetric annotations in NIfTI."
   },
   {
     "Collection": "Lung Phantom",
@@ -363,57 +363,57 @@
   {
     "Collection": "Prostate-3T",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.QJTV5IL5",
-    "Format": "",
+    "Format": "n/a",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "n/a",
     "Comment": ""
   },
   {
     "Collection": "Head-Neck Cetuximab (RTOG 0522)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7AKGJUPZ",
-    "Format": "",
+    "Format": "RTSTRUCT",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "Prostate-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
-    "Format": "",
+    "Format": "NRRD",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Prostate and surrounding structures segmentations."
   },
   {
     "Collection": "LIDC-IDRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX",
-    "Format": "",
+    "Format": "DICOM, XML",
     "CollectionType": "original",
-    "DICOMstatus": "",
+    "DICOMstatus": "done",
     "Comment": ""
   },
   {
     "Collection": "RIDER Lung CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.U1X8A5NR",
-    "Format": "",
+    "Format": "Excel",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Location of center lesion voxel."
   },
   {
     "Collection": "RIDER Phantom PET-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.8WG2KN4W",
-    "Format": "",
+    "Format": "DOC?",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "?",
+    "Comment": "Document describes the phantom imaged."
   },
   {
     "Collection": "CT Colonography (ACRIN 6664)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
-    "Format": "",
+    "Format": "Excel",
     "CollectionType": "original",
-    "DICOMstatus": "",
-    "Comment": ""
+    "DICOMstatus": "not done",
+    "Comment": "Polyp locations annotated. Will need to look at examples to assess feasibility of interpreting those."
   }
 ]
