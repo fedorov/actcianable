@@ -238,7 +238,7 @@
     "Format": "PDF",
     "CollectionType": "original",
     "DICOMstatus": "not done",
-    "Comment": "PDF link is broken, but presumably PDF contains \"Annotated plasma cell images\"."
+    "Comment": "PDF contains annotation of plasma cells via black arrows in each slide as pages of the document. No IDs of the images/slides are included in the PDF."
   },
   {
     "Collection": "LCTSC",
