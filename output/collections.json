@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Vestibular-Schwannoma-SEG",
+    "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
+    "CancerType": "Vestibular Schwannoma (non-cancer)",
+    "Location": "Ear",
+    "Species": "Human",
+    "Subjects": "242",
+    "ImageTypes": "MR, RTSTRUCT, RTPLAN, RTDOSE",
+    "SupportingData": "Image Analysis",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-03-17"
+  },
+  {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "http://doi.org/10.7937/Q1EE-J082",
     "CancerType": "Breast Cancer",
@@ -11,19 +24,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2021-03-05"
-  },
-  {
-    "Collection": "Vestibular-Schwannoma-SEG",
-    "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
-    "CancerType": "Vestibular Schwannoma (non-cancer)",
-    "Location": "Ear",
-    "Species": "Human",
-    "Subjects": "242",
-    "ImageTypes": "MR, RTSTRUCT, RTPLAN, RTDOSE",
-    "SupportingData": "",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2021-02-26"
   },
   {
     "Collection": "MIDRC-RICORD-1b",
