@@ -1,4 +1,4 @@
-# [Start Bootstrap - Bare](https://startbootstrap.com/template/bare/)
+# About
 
 [Bare](https://startbootstrap.com/template/bare/) is a bare HTML starter template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This template serves as a basic project boilerplate perfect for creating modern, responsive websites and applications.
 
