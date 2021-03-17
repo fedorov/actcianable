@@ -35,11 +35,14 @@
             <a class="nav-link" href="#">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#collectionsTable">Primary</a>
+            <a class="nav-link" href="#collections">Primary</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#analysisCollectionsTable">Analysis</a>
+            <a class="nav-link" href="#analysisCollections">Analysis</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#analysesDetails">Analyses details</a>
+          </li>          
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
           </li>
@@ -65,6 +68,7 @@
     </div>
   </div>
 
+  <h3 id="collections">Original collections</h3>
   <table id="collectionsTable" class="table table-sm" data-search="true" data-toggle="table"  data-url="output/collections.json">
       <thead>
           <tr>
@@ -83,6 +87,7 @@
       </thead>
   </table>
 
+  <h3 id="analysisCollections">Analysis collections</h3>
   <table id="analysisCollectionsTable" class="table table-sm" data-search="true" data-toggle="table"  data-url="output/analysis_collections.json">
       <thead>
           <tr>
@@ -98,6 +103,8 @@
       </thead>
   </table>
 
+
+  <h3 id="analysesDetails">Analyses details</h3>
   <table id="imageAnalysesDetailsTable" class="table table-sm" data-search="true" data-toggle="table"  data-url="output/image_analyses_view.json">
     <thead>
         <!-- ["Collection","DOI","Subjects","Updated","Format","DICOMstatus","Comment","CollectionType"] -->
