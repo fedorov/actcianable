@@ -23,7 +23,7 @@ with open('output/image_analyses_details.json', 'r') as f:
 #analyses_details_df.set_index('DOI').join(collections_df.set_index('DOI'))
 analyses_details_df.columns
 print("After")
-merged_df = analyses_details_df.merge(collections_df, on=['DOI'])[["Collection_x","DOI","Subjects","Updated","Format","DICOMstatus","Comment","CollectionType"]]
+merged_df = analyses_details_df.merge(collections_df, on=['DOI'])[["Collection_x","DOI","Subjects","Updated","Format","DICOMstatus","Comment","CollectionType", "DICOMtarget"]]
 
 print(merged_df.columns)
 merged_df.rename(columns={"Collection_x":"Collection"}, inplace=True)
