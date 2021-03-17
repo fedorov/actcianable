@@ -97,7 +97,7 @@
     "CollectionType": "original",
     "DICOMstatus": "can be improved",
     "DICOMtarget": "SEG",
-    "Comment": "Contours defining the 3D tumour region for each patient were manually drawn slice-by-slice on T2FS scans by an expert radiation oncologist. For patients with visible edema in the vicinity of the tumours (n = 32), two contours were drawn: one excluding the visible edema (\"GTV_Mass\") and one incorporating it (\"GTV_Edema\"). Contours were propagated to FDG-PET and T1 scans using rigid registration with the commercial software MIM® (MIM software Inc., Cleveland, OH). In this dataset, these contours are available as RTstruct DICOM objects for all scans of all patients."
+    "Comment": "Contours defining the 3D tumour region for each patient were manually drawn slice-by-slice on T2FS scans by an expert radiation oncologist. For patients with visible edema in the vicinity of the tumours (n = 32), two contours were drawn: one excluding the visible edema (\"GTV_Mass\") and one incorporating it (\"GTV_Edema\"). Contours were propagated to FDG-PET and T1 scans using rigid registration with the commercial software MIM\u00ae (MIM software Inc., Cleveland, OH). In this dataset, these contours are available as RTstruct DICOM objects for all scans of all patients."
   },
   {
     "Collection": "TCGA-BRCA",
@@ -420,7 +420,7 @@
     "Format": "RTSTRUCT",
     "CollectionType": "original",
     "DICOMstatus": "can be improved",
-    "DICOMtarget": "SEG",    
+    "DICOMtarget": "SEG",
     "Comment": ""
   },
   {
