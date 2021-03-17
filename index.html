@@ -98,11 +98,14 @@
       </thead>
   </table>
 
-  <table id="imageAnalysesDetailsTable" class="table table-sm" data-search="true" data-toggle="table"  data-url="output/image_analyses_details.json">
+  <table id="imageAnalysesDetailsTable" class="table table-sm" data-search="true" data-toggle="table"  data-url="output/image_analyses_view.json">
     <thead>
+        <!-- ["Collection","DOI","Subjects","Updated","Format","DICOMstatus","Comment","CollectionType"] -->
         <tr>
             <th data-field="Collection" data-sortable="true">Collection</th>
             <th data-field="DOI" data-sortable="true" data-formatter="LinkFormatter">DOI</th>
+            <th data-field="Subjects" data-sortable="true">Subjects</th>
+            <th data-field="Updated" data-sortable="true">Updated</th>
             <th data-field="Format" data-sortable="true">Format</th>
             <th data-field="CollectionType" data-sortable="true">Collection type containing analysis results</th>
             <th data-field="DICOMstatus" data-sortable="true">DICOM conversion status</th>

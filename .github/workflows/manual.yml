@@ -25,6 +25,7 @@ jobs:
         pip install beautifulsoup4==4.9.0
         pip install tabulate
         pip install backoff
+        pip install pandas
         python --version
         ls .
     - name: Run collections scraper
@@ -33,6 +34,7 @@ jobs:
         python scrapers/get_collections.py
         cat output/collections.json
         python scrapers/get_analysis_collections.py
+        python scrapers/make_views.py
     - name: Get current date
       id: date
       run: echo "name=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
