@@ -31,7 +31,6 @@ merged_df.rename(columns={"Collection_x":"Collection"}, inplace=True)
 print(merged_df.columns)
 
 with open('output/image_analyses_view.json', 'w') as f:
-  df_json = merged_df.to_json(orient='records')
-  df_json = df_json.replace('\/','/')
+  df_dict = merged_df.to_dict(orient='records')
+  df_json = json.dumps(df_dict, indent=2)
   f.write(df_json)
-
