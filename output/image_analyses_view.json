@@ -291,7 +291,7 @@
     "Subjects": 200,
     "Updated": "2019-10-28",
     "Format": "text",
-    "DICOMstatus": "",
+    "DICOMstatus": "?",
     "Comment": "[Slide-level] annotations are given in the file annotations.dat. In this file, the first column gives the name of the respective image file and the second column the morphological class assigned during the gold-standard annotation. If a single-cell image was re-annotated, the result of the first re-annotation process by a second independent annotator is given in the third column, and the result of the second re-annotation process after a time interval of 11 months by the same re-annotator in the fourth column. If a single-cell image was not re-annotated, the third and fourth column contain the value \"nan\".",
     "CollectionType": "original",
     "DICOMtarget": "Sup222?"
