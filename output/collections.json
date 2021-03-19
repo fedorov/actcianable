@@ -1163,7 +1163,7 @@
     "Location": "Brain",
     "Species": "Human",
     "Subjects": "39",
-    "ImageTypes": "MR, CT, Pathology",
+    "ImageTypes": "MR, Pathology",
     "SupportingData": "Clinical, Genomics",
     "Access": "Public",
     "Status": "Complete",
