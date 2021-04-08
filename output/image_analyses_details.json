@@ -483,6 +483,7 @@
     "Format": "Excel",
     "CollectionType": "original",
     "DICOMstatus": "not done",
+    "DICOMtarget": "SR TID1500 or SEG?",
     "Comment": "3d boxes defining region of interest, stored in row/col/slice coordinates."
   }
 ]
