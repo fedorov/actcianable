@@ -476,5 +476,13 @@
     "DICOMstatus": "not done",
     "DICOMtarget": "SEG, SR TID1500/SEG/qualitative",
     "Comment": ""
+  },
+  {
+    "Collection": "Duke-Breast-Cancer-MRI",
+    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "Comment": ""
   }
 ]
