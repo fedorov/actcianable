@@ -13,6 +13,12 @@ with open('output/image_analyses_details.json', 'r') as f:
   #print(cont)
   analyses_details_df = pd.read_json(f, orient='records')
 
+with open('output/status.json', 'r') as f:
+  #cont = f.read()
+  #print(cont)
+  #print(cont)
+  status_df = pd.read_json(f, orient='records')
+
 #print(analyses_details_df.columns)
 #print(collections_df.columns)
 
@@ -31,6 +37,12 @@ merged_df.rename(columns={"Collection_x":"Collection"}, inplace=True)
 print(merged_df.columns)
 
 with open('output/image_analyses_view.json', 'w') as f:
+  df_dict = merged_df.to_dict(orient='records')
+  df_json = json.dumps(df_dict, indent=2)
+  f.write(df_json)
+
+merged_df = collections_df.merge(idc_collection_status, on=["Collection"], how="left")[["Collection", "DOI", "Access", "some_date", "is_excluded"]]
+with open('output/status_view.json', 'w') as f:
   df_dict = merged_df.to_dict(orient='records')
   df_json = json.dumps(df_dict, indent=2)
   f.write(df_json)

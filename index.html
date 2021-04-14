@@ -42,7 +42,10 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#analysesDetails">Analyses details</a>
-          </li>          
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#status">Status</a>
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
           </li>
@@ -121,6 +124,18 @@
             <th data-field="Comment" data-sortable="true">Comment</th>
         </tr>
     </thead>
+</table>
+
+<h3 id="status">Status</h3>
+<table id="statusTable" class="table table-sm" data-search="true" data-toggle="table"  data-url="output/status_view.json">
+  <thead>
+      <tr>
+          <th data-field="Collection" data-sortable="true">Collection</th>
+          <th data-field="DOI" data-sortable="true" data-formatter="LinkFormatter">DOI</th>
+          <th data-field="Access" data-sortable="true">Access</th>
+          <th data-field="some_date" data-sortable="true">Some date</th>
+      </tr>
+  </thead>
 </table>
 
   <!-- Bootstrap core JavaScript -->
