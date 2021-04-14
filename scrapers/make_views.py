@@ -41,7 +41,7 @@ with open('output/image_analyses_view.json', 'w') as f:
   df_json = json.dumps(df_dict, indent=2)
   f.write(df_json)
 
-merged_df = collections_df.merge(status_df[["Collection", "some_date","is_excluded"]], on=["Collection"], how="left") [["Collection", "DOI", "Access", "some_date", "is_excluded"]]
+merged_df = collections_df.merge(status_df[["tcia_wiki_collection_id", "some_date","is_excluded"]], left_on=["Collection"], right_on=["tcia_wiki_collection_id"], how="left") [["Collection", "DOI", "Access", "some_date", "is_excluded"]]
 merged_df["is_excluded"] = merged_df["is_excluded"].astype(bool)
 
 
