@@ -41,7 +41,7 @@ with open('output/image_analyses_view.json', 'w') as f:
   df_json = json.dumps(df_dict, indent=2)
   f.write(df_json)
 
-merged_df = collections_df.merge(idc_collection_status, on=["Collection"], how="left")[["Collection", "DOI", "Access", "some_date", "is_excluded"]]
+merged_df = collections_df.merge(status_df, on=["Collection"], how="left")[["Collection", "DOI", "Access", "some_date", "is_excluded"]]
 with open('output/status_view.json', 'w') as f:
   df_dict = merged_df.to_dict(orient='records')
   df_json = json.dumps(df_dict, indent=2)
