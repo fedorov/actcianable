@@ -500,7 +500,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.j71i4fah",
     "Access": "Public",
     "Updated": "2019-07-24",
-    "some_date": "n/a",
+    "some_date": "2021-02-25",
     "is_excluded": true
   },
   {
@@ -580,7 +580,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.2019.4l24tz5g",
     "Access": "Public",
     "Updated": "2019-02-28",
-    "some_date": "n/a",
+    "some_date": "2021-02-25",
     "is_excluded": true
   },
   {
@@ -668,7 +668,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY",
     "Access": "Public",
     "Updated": "2017-09-27",
-    "some_date": "n/a",
+    "some_date": "2021-02-25",
     "is_excluded": true
   },
   {
@@ -692,7 +692,7 @@
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.zuzrml5b",
     "Access": "Public",
     "Updated": "2017-07-29",
-    "some_date": "n/a",
+    "some_date": "2021-02-25",
     "is_excluded": true
   },
   {
@@ -940,7 +940,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.ZPUKHCKB",
     "Access": "Public",
     "Updated": "2014-09-04",
-    "some_date": "n/a",
+    "some_date": "2021-02-27",
     "is_excluded": true
   },
   {
@@ -1044,7 +1044,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
     "Access": "Public",
     "Updated": "2013-01-30",
-    "some_date": "n/a",
+    "some_date": "2021-02-27",
     "is_excluded": true
   },
   {
@@ -1084,16 +1084,16 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.MI4QDDHU",
     "Access": "Public",
     "Updated": "2011-11-25",
-    "some_date": "n/a",
-    "is_excluded": true
+    "some_date": "2021-02-28",
+    "is_excluded": false
   },
   {
     "Collection": "RIDER Phantom PET-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.8WG2KN4W",
     "Access": "Public",
     "Updated": "2011-11-25",
-    "some_date": "n/a",
-    "is_excluded": true
+    "some_date": "2021-02-28",
+    "is_excluded": false
   },
   {
     "Collection": "Breast Diagnosis",
