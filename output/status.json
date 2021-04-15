@@ -84,6 +84,30 @@
     "is_excluded": false
   },
   {
+    "tcia_api_collection_id": "CBIS-DDSM",
+    "tcia_wiki_collection_id": "CBIS-DDSM",
+    "some_date": "2021-02-25",
+    "is_excluded": true
+  },
+  {
+    "tcia_api_collection_id": "CC-Radiomics-Phantom",
+    "tcia_wiki_collection_id": "CC-Radiomics-Phantom",
+    "some_date": "2021-02-25",
+    "is_excluded": true
+  },
+  {
+    "tcia_api_collection_id": "CC-Radiomics-Phantom-2",
+    "tcia_wiki_collection_id": "CC-Radiomics-Phantom-2",
+    "some_date": "2021-02-25",
+    "is_excluded": true
+  },
+  {
+    "tcia_api_collection_id": "CC-Radiomics-Phantom-3",
+    "tcia_wiki_collection_id": "CC-Radiomics-Phantom-3",
+    "some_date": "2021-02-25",
+    "is_excluded": true
+  },
+  {
     "tcia_api_collection_id": "COVID-19-AR",
     "tcia_wiki_collection_id": "COVID-19-AR",
     "some_date": "2021-02-25",
@@ -354,6 +378,12 @@
     "is_excluded": false
   },
   {
+    "tcia_api_collection_id": "PROSTATE-DIAGNOSIS",
+    "tcia_wiki_collection_id": "Prostate-Diagnosis",
+    "some_date": "2021-02-27",
+    "is_excluded": true
+  },
+  {
     "tcia_api_collection_id": "PROSTATE-MRI",
     "tcia_wiki_collection_id": "Prostate-MRI",
     "some_date": "2021-02-27",
@@ -432,6 +462,12 @@
     "is_excluded": false
   },
   {
+    "tcia_api_collection_id": "QIN PET Phantom",
+    "tcia_wiki_collection_id": "QIN PET Phantom",
+    "some_date": "2021-02-27",
+    "is_excluded": true
+  },
+  {
     "tcia_api_collection_id": "QIN-BRAIN-DSC-MRI",
     "tcia_wiki_collection_id": "QIN-BRAIN-DSC-MRI",
     "some_date": "2021-03-01",
@@ -482,6 +518,18 @@
   {
     "tcia_api_collection_id": "RIDER NEURO MRI",
     "tcia_wiki_collection_id": "RIDER Neuro MRI",
+    "some_date": "2021-02-28",
+    "is_excluded": false
+  },
+  {
+    "tcia_api_collection_id": "RIDER PHANTOM MRI",
+    "tcia_wiki_collection_id": "RIDER Phantom MRI",
+    "some_date": "2021-02-28",
+    "is_excluded": false
+  },
+  {
+    "tcia_api_collection_id": "RIDER PHANTOM PET-CT",
+    "tcia_wiki_collection_id": "RIDER Phantom PET-CT",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
