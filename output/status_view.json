@@ -3,6 +3,7 @@
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Access": "Public",
+    "Updated": "2021-04-06",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -10,6 +11,7 @@
     "Collection": "CMMD",
     "DOI": "https://doi.org/10.7937/tcia.eqde-4b16",
     "Access": "Public",
+    "Updated": "2021-04-06",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -17,6 +19,7 @@
     "Collection": "CALGB50303",
     "DOI": "https://doi.org/10.7937/CM65-A013",
     "Access": "Limited",
+    "Updated": "2021-03-30",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -24,6 +27,7 @@
     "Collection": "AHEP0731",
     "DOI": "https://doi.org/10.7937/F2DB-8826",
     "Access": "Limited",
+    "Updated": "2021-03-30",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -31,6 +35,7 @@
     "Collection": "Vestibular-Schwannoma-SEG",
     "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
     "Access": "Public",
+    "Updated": "2021-03-17",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
@@ -38,6 +43,7 @@
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "http://doi.org/10.7937/Q1EE-J082",
     "Access": "Limited",
+    "Updated": "2021-03-05",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -45,6 +51,7 @@
     "Collection": "MIDRC-RICORD-1b",
     "DOI": "https://doi.org/10.7937/31V8-4A40",
     "Access": "Public",
+    "Updated": "2021-02-05",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -52,6 +59,7 @@
     "Collection": "CPTAC-PDA",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
     "Access": "Public",
+    "Updated": "2021-02-04",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -59,6 +67,7 @@
     "Collection": "CPTAC-BRCA",
     "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
     "Access": "Public",
+    "Updated": "2021-02-02",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -66,6 +75,7 @@
     "Collection": "CPTAC-COAD",
     "DOI": "http://doi.org/10.7937/TCIA.YZWQ-ZZ63",
     "Access": "Public",
+    "Updated": "2021-02-02",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -73,6 +83,7 @@
     "Collection": "CPTAC-OV",
     "DOI": "http://doi.org/10.7937/TCIA.ZS4A-JD58",
     "Access": "Public",
+    "Updated": "2021-02-02",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -80,6 +91,7 @@
     "Collection": "Pseudo-PHI-DICOM-Data",
     "DOI": "https://doi.org/10.7937/s17z-r072",
     "Access": "Public",
+    "Updated": "2021-01-31",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -87,6 +99,7 @@
     "Collection": "CPTAC-LSCC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
     "Access": "Public",
+    "Updated": "2021-01-23",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -94,6 +107,7 @@
     "Collection": "Breast Cancer Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "Access": "Public",
+    "Updated": "2021-01-15",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -101,6 +115,7 @@
     "Collection": "MIDRC-RICORD-1c",
     "DOI": "https://doi.org/10.7937/91ah-v663",
     "Access": "Public",
+    "Updated": "2021-01-15",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -108,6 +123,7 @@
     "Collection": "MIDRC-RICORD-1a",
     "DOI": "https://doi.org/10.7937/VTW4-X588",
     "Access": "Public",
+    "Updated": "2021-01-14",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -115,6 +131,7 @@
     "Collection": "ICDC-Glioma (GLIOMA01)",
     "DOI": "https://doi.org/10.7937/TCIA.SVQT-Q016",
     "Access": "Public",
+    "Updated": "2021-01-12",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -122,6 +139,7 @@
     "Collection": "Lung-PET-CT-Dx",
     "DOI": "http://doi.org/10.7937/TCIA.2020.NNC2-0461",
     "Access": "Public",
+    "Updated": "2020-12-23",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -129,6 +147,7 @@
     "Collection": "QIN-PROSTATE-Repeatability",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.MR1CKGND",
     "Access": "Public",
+    "Updated": "2020-11-09",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -136,6 +155,7 @@
     "Collection": "NSCLC-Radiomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.PF0M9REI",
     "Access": "Public",
+    "Updated": "2020-10-22",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -143,6 +163,7 @@
     "Collection": "PDMR-833975-119-R",
     "DOI": "http://doi.org/10.7937/TCIA.0ECK-C338",
     "Access": "Public",
+    "Updated": "2020-10-19",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -150,6 +171,7 @@
     "Collection": "Prostate-MRI-US-Biopsy",
     "DOI": "https://doi.org/10.7937/TCIA.2020.A61IOC1A",
     "Access": "Public",
+    "Updated": "2020-09-17",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -157,6 +179,7 @@
     "Collection": "QIN-HeadNeck",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
     "Access": "Public",
+    "Updated": "2020-09-16",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -164,6 +187,7 @@
     "Collection": "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)",
     "DOI": "http://doi.org/10.7937/tcia.2019.zr1pjf4i",
     "Access": "Public",
+    "Updated": "2020-09-09",
     "some_date": "2021-02-24",
     "is_excluded": false
   },
@@ -171,6 +195,7 @@
     "Collection": "CRC_FFPE-CODEX_CellNeighs",
     "DOI": "http://doi.org/10.7937/TCIA.2020.FQN0-0326",
     "Access": "Public",
+    "Updated": "2020-09-04",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -178,6 +203,7 @@
     "Collection": "CT Images in COVID-19",
     "DOI": "http://doi.org/10.7937/tcia.2020.gqry-nc81",
     "Access": "Public",
+    "Updated": "2020-08-31",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -185,6 +211,7 @@
     "Collection": "NSCLC-Radiomics-Interobserver1",
     "DOI": "http://doi.org/10.7937/tcia.2019.cwvlpd26",
     "Access": "Public",
+    "Updated": "2020-08-31",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -192,6 +219,7 @@
     "Collection": "HNSCC-mIF-mIHC-comparison",
     "DOI": "http://doi.org/10.7937/TCIA.2020.T90F-WB82",
     "Access": "Public",
+    "Updated": "2020-07-31",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -199,6 +227,7 @@
     "Collection": "Head-Neck-Radiomics-HN1",
     "DOI": "http://doi.org/10.7937/tcia.2019.8kap372n",
     "Access": "Public",
+    "Updated": "2020-07-29",
     "some_date": "2021-03-01",
     "is_excluded": false
   },
@@ -206,6 +235,7 @@
     "Collection": "AAPM RT-MAC Grand Challenge 2019",
     "DOI": "http://doi.org/10.7937/tcia.2019.bcfjqfqb",
     "Access": "Public",
+    "Updated": "2020-07-21",
     "some_date": "2021-02-24",
     "is_excluded": false
   },
@@ -213,6 +243,7 @@
     "Collection": "COVID-19-AR",
     "DOI": "http://doi.org/10.7937/tcia.2020.py71-5978",
     "Access": "Public",
+    "Updated": "2020-07-15",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -220,6 +251,7 @@
     "Collection": "CPTAC-CM",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
     "Access": "Public",
+    "Updated": "2020-06-30",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -227,6 +259,7 @@
     "Collection": "CPTAC-HNSCC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
     "Access": "Public",
+    "Updated": "2020-06-30",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -234,6 +267,7 @@
     "Collection": "C4KC-KiTS",
     "DOI": "https://doi.org/10.7937/TCIA.2019.IX49E8NX",
     "Access": "Public",
+    "Updated": "2020-06-18",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -241,6 +275,7 @@
     "Collection": "PDMR-997537-175-T",
     "DOI": "http://doi.org/10.7937/TCIA.2020.BRY9-4N29",
     "Access": "Public",
+    "Updated": "2020-06-01",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -248,6 +283,7 @@
     "Collection": "PDMR-292921-168-R",
     "DOI": "http://doi.org/10.7937/TCIA.2020.PCAK-8Z10",
     "Access": "Public",
+    "Updated": "2020-06-01",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -255,6 +291,7 @@
     "Collection": "PDMR-425362-245-T",
     "DOI": "http://doi.org/10.7937/TCIA.2020.7YRS-7J97",
     "Access": "Public",
+    "Updated": "2020-06-01",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -262,6 +299,7 @@
     "Collection": "HNSCC",
     "DOI": "http://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
     "Access": "Public",
+    "Updated": "2020-04-29",
     "some_date": "2021-03-07",
     "is_excluded": false
   },
@@ -269,6 +307,7 @@
     "Collection": "CPTAC-AML",
     "DOI": "http://doi.org/10.7937/tcia.2019.b6foe619",
     "Access": "Public",
+    "Updated": "2020-04-28",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -276,6 +315,7 @@
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Access": "Public",
+    "Updated": "2020-04-22",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -283,6 +323,7 @@
     "Collection": "DRO Toolkit",
     "DOI": "https://doi.org/10.7937/t062-8262",
     "Access": "Public",
+    "Updated": "2020-04-13",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -290,6 +331,7 @@
     "Collection": "QIN GBM Treatment Response",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.nQF4gpn2",
     "Access": "Public",
+    "Updated": "2020-04-03",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -297,6 +339,7 @@
     "Collection": "CPTAC-LUAD",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
     "Access": "Public",
+    "Updated": "2020-03-31",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -304,6 +347,7 @@
     "Collection": "CPTAC-UCEC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
     "Access": "Public",
+    "Updated": "2020-03-31",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -311,6 +355,7 @@
     "Collection": "CPTAC-GBM",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
     "Access": "Public",
+    "Updated": "2020-03-31",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -318,6 +363,7 @@
     "Collection": "CPTAC-SAR",
     "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
     "Access": "Public",
+    "Updated": "2020-03-31",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -325,6 +371,7 @@
     "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
     "Access": "Limited",
+    "Updated": "2020-03-13",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -332,6 +379,7 @@
     "Collection": "OPC-Radiomics",
     "DOI": "http://doi.org/10.7937/tcia.2019.8dho2gls",
     "Access": "Public",
+    "Updated": "2020-02-27",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -339,6 +387,7 @@
     "Collection": "ACRIN-NSCLC-FDG-PET (ACRIN 6668)",
     "DOI": "http://doi.org/10.7937/tcia.2019.30ilqfcl",
     "Access": "Public",
+    "Updated": "2020-02-04",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -346,6 +395,7 @@
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
     "Access": "Public",
+    "Updated": "2020-01-24",
     "some_date": "2021-02-24",
     "is_excluded": false
   },
@@ -353,6 +403,7 @@
     "Collection": "QIN-Breast",
     "DOI": "https://doi.org/doi:10.7937/K9/TCIA.2016.21JUebH0",
     "Access": "Public",
+    "Updated": "2020-01-10",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -360,6 +411,7 @@
     "Collection": "CT-ORG",
     "DOI": "https://doi.org/10.7937/tcia.2019.tt7f4v7o",
     "Access": "Public",
+    "Updated": "2020-01-10",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -367,6 +419,7 @@
     "Collection": "Lung Fused-CT-Pathology",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
     "Access": "Public",
+    "Updated": "2019-11-15",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -374,6 +427,7 @@
     "Collection": "AML-Cytomorphology_LMU",
     "DOI": "http://doi.org/10.7937/tcia.2019.36f5o9ld",
     "Access": "Public",
+    "Updated": "2019-10-28",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -381,6 +435,7 @@
     "Collection": "Post-NAT-BRCA",
     "DOI": "http://doi.org/10.7937/TCIA.2019.4YIBTJNO",
     "Access": "Public",
+    "Updated": "2019-10-17",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -388,6 +443,7 @@
     "Collection": "PDMR-BL0293-F563",
     "DOI": "http://doi.org/10.7937/tcia.2019.b6u7wmqw",
     "Access": "Public",
+    "Updated": "2019-10-02",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -395,6 +451,7 @@
     "Collection": "CPTAC-CCRCC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
     "Access": "Public",
+    "Updated": "2019-09-30",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -402,6 +459,7 @@
     "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.vohlekok",
     "Access": "Public",
+    "Updated": "2019-09-16",
     "some_date": "2021-02-24",
     "is_excluded": false
   },
@@ -409,6 +467,7 @@
     "Collection": "Pelvic-Reference-Data",
     "DOI": "http://doi.org/10.7937/TCIA.2019.woskq5oo",
     "Access": "Public",
+    "Updated": "2019-09-13",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -416,6 +475,7 @@
     "Collection": "TCGA-BLCA",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
     "Access": "Public",
+    "Updated": "2019-08-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -423,6 +483,7 @@
     "Collection": "QIN-BRAIN-DSC-MRI",
     "DOI": "https://doi.org/doi:10.7937/K9/TCIA.2016.5DI84Js8",
     "Access": "Public",
+    "Updated": "2019-08-28",
     "some_date": "2021-03-01",
     "is_excluded": false
   },
@@ -430,6 +491,7 @@
     "Collection": "SLN-Breast",
     "DOI": "http://doi.org/10.7937/tcia.2019.3xbn2jcc",
     "Access": "Public",
+    "Updated": "2019-08-06",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -437,6 +499,7 @@
     "Collection": "CC-Radiomics-Phantom-3",
     "DOI": "http://doi.org/10.7937/tcia.2019.j71i4fah",
     "Access": "Public",
+    "Updated": "2019-07-24",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -444,6 +507,7 @@
     "Collection": "QIN-BREAST-02",
     "DOI": "http://doi.org/10.7937/TCIA.2019.4cfm06rr",
     "Access": "Limited",
+    "Updated": "2019-07-10",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -451,6 +515,7 @@
     "Collection": "C-NMC 2019",
     "DOI": "http://doi.org/10.7937/tcia.2019.dc64i46r",
     "Access": "Public",
+    "Updated": "2019-05-28",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -458,6 +523,7 @@
     "Collection": "SN-AM",
     "DOI": "http://doi.org/10.7937/tcia.2019.of2w8lxr",
     "Access": "Public",
+    "Updated": "2019-05-28",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -465,6 +531,7 @@
     "Collection": "MiMM_SBILab",
     "DOI": "http://doi.org/10.7937/tcia.2019.pnn6aypl",
     "Access": "Public",
+    "Updated": "2019-05-28",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -472,6 +539,7 @@
     "Collection": "LCTSC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.3r3fvz08",
     "Access": "Public",
+    "Updated": "2019-05-08",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -479,6 +547,7 @@
     "Collection": "Anti-PD-1 Lung",
     "DOI": "http://doi.org/10.7937/tcia.2019.zjjwb9ip",
     "Access": "Public",
+    "Updated": "2019-04-19",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -486,6 +555,7 @@
     "Collection": "NSCLC-Cetuximab (RTOG-0617)",
     "DOI": "http://doi.org/10.7937/TCIA.2018.jze75u7v",
     "Access": "Limited",
+    "Updated": "2019-04-15",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -493,6 +563,7 @@
     "Collection": "Osteosarcoma Tumor Assessment",
     "DOI": "http://doi.org/10.7937/tcia.2019.bvhjhdas",
     "Access": "Public",
+    "Updated": "2019-03-26",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -500,6 +571,7 @@
     "Collection": "VICTRE",
     "DOI": "https://doi.org/10.7937/TCIA.2019.ho23nxaw",
     "Access": "Public",
+    "Updated": "2019-03-08",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
@@ -507,6 +579,7 @@
     "Collection": "CC-Radiomics-Phantom-2",
     "DOI": "http://doi.org/10.7937/TCIA.2019.4l24tz5g",
     "Access": "Public",
+    "Updated": "2019-02-28",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -514,6 +587,7 @@
     "Collection": "Brain-Tumor-Progression",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.15quzvnb",
     "Access": "Public",
+    "Updated": "2019-02-05",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -521,6 +595,7 @@
     "Collection": "TCGA-UCEC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
     "Access": "Public",
+    "Updated": "2018-10-26",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -528,6 +603,7 @@
     "Collection": "TCGA-HNSC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
     "Access": "Public",
+    "Updated": "2018-08-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -535,6 +611,7 @@
     "Collection": "HNSCC-3DCT-RT",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.13upr2xf",
     "Access": "Public",
+    "Updated": "2018-08-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -542,6 +619,7 @@
     "Collection": "Anti-PD-1_MELANOMA",
     "DOI": "https://doi.org/10.7937/tcia.2019.1ae0qtcu",
     "Access": "Public",
+    "Updated": "2018-07-31",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -549,6 +627,7 @@
     "Collection": "MRI-DIR",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3f08iejt",
     "Access": "Public",
+    "Updated": "2018-06-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -556,6 +635,7 @@
     "Collection": "Head-Neck-PET-CT",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.8oje5q00",
     "Access": "Public",
+    "Updated": "2018-06-07",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -563,6 +643,7 @@
     "Collection": "APOLLO-1-VA",
     "DOI": "http://wiki.cancerimagingarchive.net/x/N4NyAQ",
     "Access": "Public",
+    "Updated": "2018-03-08",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -570,6 +651,7 @@
     "Collection": "NSCLC-Radiogenomics",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
     "Access": "Public",
+    "Updated": "2017-12-04",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -577,6 +659,7 @@
     "Collection": "LGG-1p19qDeletion",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.dwehtz9v",
     "Access": "Public",
+    "Updated": "2017-09-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -584,6 +667,7 @@
     "Collection": "CBIS-DDSM",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY",
     "Access": "Public",
+    "Updated": "2017-09-27",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -591,6 +675,7 @@
     "Collection": "Phantom FDA",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.ORBJKMUX",
     "Access": "Public",
+    "Updated": "2017-08-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -598,6 +683,7 @@
     "Collection": "QIN LUNG CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NPGZYZBZ",
     "Access": "Public",
+    "Updated": "2017-07-31",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -605,6 +691,7 @@
     "Collection": "CC-Radiomics-Phantom",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.zuzrml5b",
     "Access": "Public",
+    "Updated": "2017-07-29",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -612,6 +699,7 @@
     "Collection": "Mouse-Astrocytoma",
     "DOI": "http://doi.org/10.7937/K9TCIA.2017.SGW7CAQW",
     "Access": "Public",
+    "Updated": "2017-03-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -619,6 +707,7 @@
     "Collection": "PROSTATEx",
     "DOI": "http://doi.org/10.7937/K9TCIA.2017.MURS5CL",
     "Access": "Public",
+    "Updated": "2017-03-30",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -626,6 +715,7 @@
     "Collection": "TCGA-KIRP",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
     "Access": "Public",
+    "Updated": "2017-01-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -633,6 +723,7 @@
     "Collection": "TCGA-LIHC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
     "Access": "Public",
+    "Updated": "2017-01-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -640,6 +731,7 @@
     "Collection": "TCGA-LUAD",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
     "Access": "Public",
+    "Updated": "2017-01-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -647,6 +739,7 @@
     "Collection": "TCGA-LUSC",
     "DOI": "http://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
     "Access": "Public",
+    "Updated": "2017-01-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -654,6 +747,7 @@
     "Collection": "IvyGAP",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.XLwaN6nL",
     "Access": "Public",
+    "Updated": "2016-12-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -661,6 +755,7 @@
     "Collection": "Prostate Fused-MRI-Pathology",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2016.TLPMR1AM",
     "Access": "Public",
+    "Updated": "2016-11-30",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -668,6 +763,7 @@
     "Collection": "ISPY1 (ACRIN 6657)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK",
     "Access": "Public",
+    "Updated": "2016-08-31",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -675,6 +771,7 @@
     "Collection": "TCGA-PRAD",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
     "Access": "Public",
+    "Updated": "2016-08-29",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -682,6 +779,7 @@
     "Collection": "Pancreas-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.tNB1kqBU",
     "Access": "Public",
+    "Updated": "2016-03-22",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -689,6 +787,7 @@
     "Collection": "Breast-MRI-NACT-Pilot",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.QHSYHJKY",
     "Access": "Public",
+    "Updated": "2016-01-26",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -696,6 +795,7 @@
     "Collection": "4D-Lung",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ELN8YGLE",
     "Access": "Public",
+    "Updated": "2016-01-07",
     "some_date": "2021-02-24",
     "is_excluded": false
   },
@@ -703,6 +803,7 @@
     "Collection": "NRG-1308 (RTOG 1308)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.6fC8z46u",
     "Access": "Limited",
+    "Updated": "2015-09-14",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -710,6 +811,7 @@
     "Collection": "RIDER Neuro MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.VOSN3HN1",
     "Access": "Public",
+    "Updated": "2015-09-07",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
@@ -717,6 +819,7 @@
     "Collection": "Soft-tissue-Sarcoma",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
     "Access": "Public",
+    "Updated": "2015-06-01",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
@@ -724,6 +827,7 @@
     "Collection": "Mouse-Mammary",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.9P42KSE6",
     "Access": "Public",
+    "Updated": "2015-03-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -731,6 +835,7 @@
     "Collection": "CT Lymph Nodes",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
     "Access": "Public",
+    "Updated": "2015-03-16",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -738,6 +843,7 @@
     "Collection": "TCGA-THCA",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.9ZFRVF1B",
     "Access": "Public",
+    "Updated": "2014-12-31",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -745,6 +851,7 @@
     "Collection": "TCGA-BRCA",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
     "Access": "Public",
+    "Updated": "2014-12-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -752,6 +859,7 @@
     "Collection": "LungCT-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
     "Access": "Public",
+    "Updated": "2014-12-30",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -759,6 +867,7 @@
     "Collection": "TCGA-SARC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
     "Access": "Public",
+    "Updated": "2014-12-30",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -766,6 +875,7 @@
     "Collection": "TCGA-CESC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
     "Access": "Public",
+    "Updated": "2014-12-09",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -773,6 +883,7 @@
     "Collection": "TCGA-ESCA",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
     "Access": "Public",
+    "Updated": "2014-12-09",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -780,6 +891,7 @@
     "Collection": "TCGA-STAD",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
     "Access": "Public",
+    "Updated": "2014-12-09",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -787,6 +899,7 @@
     "Collection": "TCGA-OV",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
     "Access": "Public",
+    "Updated": "2014-11-05",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -794,6 +907,7 @@
     "Collection": "TCGA-COAD",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HJJHBOXZ",
     "Access": "Public",
+    "Updated": "2014-10-14",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -801,6 +915,7 @@
     "Collection": "TCGA-KIRC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
     "Access": "Public",
+    "Updated": "2014-10-09",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -808,6 +923,7 @@
     "Collection": "QIN-SARCOMA",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.fXL9sESs",
     "Access": "Limited",
+    "Updated": "2014-09-05",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -815,6 +931,7 @@
     "Collection": "TCGA-LGG",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
     "Access": "Public",
+    "Updated": "2014-09-04",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -822,6 +939,7 @@
     "Collection": "QIN PET Phantom",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.ZPUKHCKB",
     "Access": "Public",
+    "Updated": "2014-09-04",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -829,6 +947,7 @@
     "Collection": "QIN Breast DCE-MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
     "Access": "Public",
+    "Updated": "2014-07-31",
     "some_date": "2021-03-06",
     "is_excluded": false
   },
@@ -836,6 +955,7 @@
     "Collection": "NSCLC-Radiomics-Genomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
     "Access": "Public",
+    "Updated": "2014-07-02",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -843,6 +963,7 @@
     "Collection": "QIN Prostate",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.fADs26kG",
     "Access": "Limited",
+    "Updated": "2014-07-02",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -850,6 +971,7 @@
     "Collection": "Lung Phantom",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.08A1IXOO",
     "Access": "Public",
+    "Updated": "2014-06-19",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -857,6 +979,7 @@
     "Collection": "TCGA-KICH",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
     "Access": "Public",
+    "Updated": "2014-05-21",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -864,6 +987,7 @@
     "Collection": "TCGA-READ",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
     "Access": "Public",
+    "Updated": "2014-05-21",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -871,6 +995,7 @@
     "Collection": "TCGA-GBM",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
     "Access": "Public",
+    "Updated": "2014-05-08",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -878,6 +1003,7 @@
     "Collection": "SPIE-AAPM Lung CT Challenge",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
     "Access": "Public",
+    "Updated": "2014-01-02",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
@@ -885,6 +1011,7 @@
     "Collection": "Prostate-3T",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.QJTV5IL5",
     "Access": "Public",
+    "Updated": "2013-05-31",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -892,6 +1019,7 @@
     "Collection": "NaF Prostate",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.ISOQTHKO",
     "Access": "Public",
+    "Updated": "2013-04-23",
     "some_date": "2021-02-26",
     "is_excluded": false
   },
@@ -899,6 +1027,7 @@
     "Collection": "Head-Neck Cetuximab (RTOG 0522)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7AKGJUPZ",
     "Access": "Public",
+    "Updated": "2013-04-17",
     "some_date": "2021-03-01",
     "is_excluded": false
   },
@@ -906,6 +1035,7 @@
     "Collection": "National Lung Screening Trial (NLST)",
     "DOI": "http://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial",
     "Access": "Limited",
+    "Updated": "2013-03-01",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -913,6 +1043,7 @@
     "Collection": "Prostate-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
     "Access": "Public",
+    "Updated": "2013-01-30",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -920,6 +1051,7 @@
     "Collection": "LIDC-IDRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX",
     "Access": "Public",
+    "Updated": "2012-03-21",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -927,6 +1059,7 @@
     "Collection": "QIBA CT-1C",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YxgR4blU",
     "Access": "Public",
+    "Updated": "2011-11-28",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -934,6 +1067,7 @@
     "Collection": "RIDER Lung CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.U1X8A5NR",
     "Access": "Public",
+    "Updated": "2011-11-25",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
@@ -941,6 +1075,7 @@
     "Collection": "RIDER Lung PET-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.OFIP7TVM",
     "Access": "Public",
+    "Updated": "2011-11-25",
     "some_date": "2021-02-28",
     "is_excluded": false
   },
@@ -948,6 +1083,7 @@
     "Collection": "RIDER Phantom MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.MI4QDDHU",
     "Access": "Public",
+    "Updated": "2011-11-25",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -955,6 +1091,7 @@
     "Collection": "RIDER Phantom PET-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.8WG2KN4W",
     "Access": "Public",
+    "Updated": "2011-11-25",
     "some_date": NaN,
     "is_excluded": true
   },
@@ -962,6 +1099,7 @@
     "Collection": "Breast Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
     "Access": "Public",
+    "Updated": "2011-11-09",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -969,6 +1107,7 @@
     "Collection": "RIDER Breast MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.H1SXNUXL",
     "Access": "Public",
+    "Updated": "2011-11-08",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -976,6 +1115,7 @@
     "Collection": "REMBRANDT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
     "Access": "Public",
+    "Updated": "2011-11-03",
     "some_date": "2021-02-27",
     "is_excluded": false
   },
@@ -983,6 +1123,7 @@
     "Collection": "CT Colonography (ACRIN 6664)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
     "Access": "Public",
+    "Updated": "2011-10-31",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -990,6 +1131,7 @@
     "Collection": "Prostate-MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.6046GUDv",
     "Access": "Public",
+    "Updated": "2011-06-30",
     "some_date": "2021-02-27",
     "is_excluded": false
   }
