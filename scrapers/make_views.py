@@ -43,6 +43,7 @@ with open('output/image_analyses_view.json', 'w') as f:
 
 merged_df = collections_df.merge(status_df[["tcia_wiki_collection_id", "some_date","is_excluded"]], left_on=["Collection"], right_on=["tcia_wiki_collection_id"], how="left") [["Collection", "DOI", "Access", "Updated", "some_date", "is_excluded"]]
 merged_df["is_excluded"] = merged_df["is_excluded"].astype(bool)
+merged_df = merged_df.where(pd.notnull(merged_df), "n/a")
 
 
 print(merged_df.columns)

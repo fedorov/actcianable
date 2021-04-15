@@ -4,7 +4,7 @@
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Access": "Public",
     "Updated": "2021-04-06",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -12,7 +12,7 @@
     "DOI": "https://doi.org/10.7937/tcia.eqde-4b16",
     "Access": "Public",
     "Updated": "2021-04-06",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -20,7 +20,7 @@
     "DOI": "https://doi.org/10.7937/CM65-A013",
     "Access": "Limited",
     "Updated": "2021-03-30",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -28,7 +28,7 @@
     "DOI": "https://doi.org/10.7937/F2DB-8826",
     "Access": "Limited",
     "Updated": "2021-03-30",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -44,7 +44,7 @@
     "DOI": "http://doi.org/10.7937/Q1EE-J082",
     "Access": "Limited",
     "Updated": "2021-03-05",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -68,7 +68,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
     "Access": "Public",
     "Updated": "2021-02-02",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -76,7 +76,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.YZWQ-ZZ63",
     "Access": "Public",
     "Updated": "2021-02-02",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -84,7 +84,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.ZS4A-JD58",
     "Access": "Public",
     "Updated": "2021-02-02",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -196,7 +196,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.2020.FQN0-0326",
     "Access": "Public",
     "Updated": "2020-09-04",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -204,7 +204,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2020.gqry-nc81",
     "Access": "Public",
     "Updated": "2020-08-31",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -220,7 +220,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.2020.T90F-WB82",
     "Access": "Public",
     "Updated": "2020-07-31",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -308,7 +308,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.b6foe619",
     "Access": "Public",
     "Updated": "2020-04-28",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -316,7 +316,7 @@
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Access": "Public",
     "Updated": "2020-04-22",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -372,7 +372,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
     "Access": "Limited",
     "Updated": "2020-03-13",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -412,7 +412,7 @@
     "DOI": "https://doi.org/10.7937/tcia.2019.tt7f4v7o",
     "Access": "Public",
     "Updated": "2020-01-10",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -428,7 +428,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.36f5o9ld",
     "Access": "Public",
     "Updated": "2019-10-28",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -436,7 +436,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.2019.4YIBTJNO",
     "Access": "Public",
     "Updated": "2019-10-17",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -492,7 +492,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.3xbn2jcc",
     "Access": "Public",
     "Updated": "2019-08-06",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -500,7 +500,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.j71i4fah",
     "Access": "Public",
     "Updated": "2019-07-24",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -508,7 +508,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.2019.4cfm06rr",
     "Access": "Limited",
     "Updated": "2019-07-10",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -516,7 +516,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.dc64i46r",
     "Access": "Public",
     "Updated": "2019-05-28",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -524,7 +524,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.of2w8lxr",
     "Access": "Public",
     "Updated": "2019-05-28",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -532,7 +532,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.pnn6aypl",
     "Access": "Public",
     "Updated": "2019-05-28",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -556,7 +556,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.2018.jze75u7v",
     "Access": "Limited",
     "Updated": "2019-04-15",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -564,7 +564,7 @@
     "DOI": "http://doi.org/10.7937/tcia.2019.bvhjhdas",
     "Access": "Public",
     "Updated": "2019-03-26",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -580,7 +580,7 @@
     "DOI": "http://doi.org/10.7937/TCIA.2019.4l24tz5g",
     "Access": "Public",
     "Updated": "2019-02-28",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -668,7 +668,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY",
     "Access": "Public",
     "Updated": "2017-09-27",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -692,7 +692,7 @@
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.zuzrml5b",
     "Access": "Public",
     "Updated": "2017-07-29",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -804,7 +804,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.6fC8z46u",
     "Access": "Limited",
     "Updated": "2015-09-14",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -924,7 +924,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.fXL9sESs",
     "Access": "Limited",
     "Updated": "2014-09-05",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -940,7 +940,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.ZPUKHCKB",
     "Access": "Public",
     "Updated": "2014-09-04",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -964,7 +964,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.fADs26kG",
     "Access": "Limited",
     "Updated": "2014-07-02",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -1036,7 +1036,7 @@
     "DOI": "http://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial",
     "Access": "Limited",
     "Updated": "2013-03-01",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -1044,7 +1044,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
     "Access": "Public",
     "Updated": "2013-01-30",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -1084,7 +1084,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.MI4QDDHU",
     "Access": "Public",
     "Updated": "2011-11-25",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
@@ -1092,7 +1092,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.8WG2KN4W",
     "Access": "Public",
     "Updated": "2011-11-25",
-    "some_date": NaN,
+    "some_date": "n/a",
     "is_excluded": true
   },
   {
