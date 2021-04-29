@@ -592,5 +592,16 @@
     "Comment": "3d boxes defining region of interest, stored in row/col/slice coordinates.",
     "CollectionType": "original",
     "DICOMtarget": "SR TID1500 or SEG?"
+  },
+  {
+    "Collection": "QIBA-CT-Liver-Phantom",
+    "DOI": "https://doi.org/10.7937/TCIA.RMV0-9Y95",
+    "Subjects": 3,
+    "Updated": "2021-04-28",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
   }
 ]

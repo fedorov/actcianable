@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "QIBA-CT-Liver-Phantom",
+    "DOI": "https://doi.org/10.7937/TCIA.RMV0-9Y95",
+    "CancerType": "Phantom",
+    "Location": "Liver Phantom",
+    "Species": "Human",
+    "Subjects": "3",
+    "ImageTypes": "CT",
+    "SupportingData": "Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-04-28"
+  },
+  {
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "CancerType": "Breast Cancer",
