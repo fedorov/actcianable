@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "ACNS0332",
+    "DOI": "https://doi.org/10.7937/TCIA.582B-XZ89",
+    "Access": "Limited",
+    "Updated": "2021-05-04",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "QIBA-CT-Liver-Phantom",
     "DOI": "https://doi.org/10.7937/TCIA.RMV0-9Y95",
     "Access": "Public",
