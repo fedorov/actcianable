@@ -494,5 +494,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "Vestibular-Schwannoma-SEG",
+    "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
