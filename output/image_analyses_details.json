@@ -503,5 +503,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
+    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
