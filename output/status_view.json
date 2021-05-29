@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
+    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
+    "Access": "Public",
+    "Updated": "2021-05-28",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CT Images in COVID-19",
     "DOI": "http://doi.org/10.7937/tcia.2020.gqry-nc81",
     "Access": "Public",
