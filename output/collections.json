@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "NSCLC-Radiogenomics",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
+    "CancerType": "Non-small Cell Lung Cancer",
+    "Location": "Chest",
+    "Species": "Human",
+    "Subjects": "211",
+    "ImageTypes": "PT, CT, SEG",
+    "SupportingData": "Clinical, Image Analyses, Genomics",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-06-01"
+  },
+  {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
     "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
     "CancerType": "Breast Cancer",
@@ -1090,19 +1103,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2018-03-08"
-  },
-  {
-    "Collection": "NSCLC-Radiogenomics",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
-    "CancerType": "Non-small Cell Lung Cancer",
-    "Location": "Chest",
-    "Species": "Human",
-    "Subjects": "211",
-    "ImageTypes": "PT, CT, SEG",
-    "SupportingData": "Clinical, Image Analyses, Genomics",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2017-12-04"
   },
   {
     "Collection": "LGG-1p19qDeletion",

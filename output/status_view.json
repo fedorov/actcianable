@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "NSCLC-Radiogenomics",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
+    "Access": "Public",
+    "Updated": "2021-06-01",
+    "some_date": "2021-02-26",
+    "is_excluded": false
+  },
+  {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
     "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
     "Access": "Public",
@@ -669,14 +677,6 @@
     "Access": "Public",
     "Updated": "2018-03-08",
     "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "NSCLC-Radiogenomics",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
-    "Access": "Public",
-    "Updated": "2017-12-04",
-    "some_date": "2021-02-26",
     "is_excluded": false
   },
   {
