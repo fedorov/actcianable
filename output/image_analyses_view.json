@@ -58,7 +58,7 @@
     "Collection": "NSCLC-Radiogenomics",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
     "Subjects": "211",
-    "Updated": "2017-12-04",
+    "Updated": "2021-06-01",
     "Format": "AIM",
     "DICOMstatus": "not done",
     "Comment": "AIM objects contain semantic annotation of the findings, and also spatial localization of the finding using TwoDimensionCircle markup type.",
