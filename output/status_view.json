@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "Breast Cancer Screening-DBT",
+    "DOI": "https://doi.org/10.7937/e4wt-cd02",
+    "Access": "Public",
+    "Updated": "2021-06-08",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
     "Collection": "NSCLC-Radiogenomics",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
     "Access": "Public",
@@ -140,14 +148,6 @@
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
     "Access": "Public",
     "Updated": "2021-01-23",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "Breast Cancer Screening-DBT",
-    "DOI": "https://doi.org/10.7937/e4wt-cd02",
-    "Access": "Public",
-    "Updated": "2021-01-15",
     "some_date": "2021-02-25",
     "is_excluded": false
   },

@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Breast Cancer Screening-DBT",
+    "DOI": "https://doi.org/10.7937/e4wt-cd02",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "5060",
+    "ImageTypes": "DBT",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2021-06-08"
+  },
+  {
     "Collection": "NSCLC-Radiogenomics",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
     "CancerType": "Non-small Cell Lung Cancer",
@@ -232,19 +245,6 @@
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2021-01-23"
-  },
-  {
-    "Collection": "Breast Cancer Screening-DBT",
-    "DOI": "https://doi.org/10.7937/e4wt-cd02",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "985",
-    "ImageTypes": "DBT",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2021-01-15"
   },
   {
     "Collection": "MIDRC-RICORD-1c",
