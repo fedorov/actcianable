@@ -100,16 +100,6 @@
     "Updated": "2020-03-26"
   },
   {
-    "Collection": "Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2014..UA0JGPDG",
-    "CancerType": "Lung, Head-Neck",
-    "Location": "Lung, Head-Neck",
-    "Subjects": "701",
-    "Collections": "NSCLC-Radiomics, NSCLC-Radiomics-Genomics, Head-Neck-Radiomics-HN1, NSCLC-Radiomics-Interobserver1, RIDER Lung CT",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and radiomic features",
-    "Updated": "2020-03-23"
-  },
-  {
     "Collection": "RIDER Lung CT Segmentation Labels from: Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach",
     "DOI": "https://doi.org/10.7937/tcia.2020.jit9grk8",
     "CancerType": "Lung",
