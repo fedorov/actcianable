@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "B-mode ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
+    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
+    "CancerType": "Liver Cancer",
+    "Location": "Liver",
+    "Species": "Human",
+    "Subjects": "75",
+    "ImageTypes": "US (B-Mode)",
+    "SupportingData": "",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2021-07-28"
+  },
+  {
     "Collection": "Breast Cancer Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "CancerType": "Breast Cancer",
