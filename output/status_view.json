@@ -1,8 +1,8 @@
 [
   {
-    "Collection": "B-mode ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
+    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
-    "Access": "Limited",
+    "Access": "Public",
     "Updated": "2021-07-28",
     "some_date": "n/a",
     "is_excluded": true
