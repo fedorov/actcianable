@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "APOLLO-5-LSCC",
+    "DOI": "http://wiki.cancerimagingarchive.net/display/Public/APOLLO-5-LSCC",
+    "CancerType": "Lung Squamous Cell Carcinoma",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "7",
+    "ImageTypes": "CT, PET",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-08-10"
+  },
+  {
     "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
     "CancerType": "Liver Cancer",
@@ -1103,19 +1116,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2018-06-07"
-  },
-  {
-    "Collection": "APOLLO-1-VA",
-    "DOI": "http://wiki.cancerimagingarchive.net/x/N4NyAQ",
-    "CancerType": "Non-small Cell Lung Cancer",
-    "Location": "Lung",
-    "Species": "Human",
-    "Subjects": "7",
-    "ImageTypes": "CT, PT",
-    "SupportingData": "",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2018-03-08"
   },
   {
     "Collection": "LGG-1p19qDeletion",
