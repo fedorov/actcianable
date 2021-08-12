@@ -512,5 +512,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "COVID-19-NY-SBU",
+    "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
