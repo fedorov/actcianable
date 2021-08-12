@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "COVID-19-NY-SBU",
+    "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
+    "Access": "Public",
+    "Updated": "2021-08-11",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "APOLLO-5-LSCC",
     "DOI": "http://wiki.cancerimagingarchive.net/display/Public/APOLLO-5-LSCC",
     "Access": "Public",
