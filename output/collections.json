@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "COVID-19-NY-SBU",
+    "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
+    "CancerType": "COVID-19 (non-cancer)",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "1,384",
+    "ImageTypes": "CR,CT,DX,MR,NM,OT,PT,SR",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-08-11"
+  },
+  {
     "Collection": "APOLLO-5-LSCC",
     "DOI": "http://wiki.cancerimagingarchive.net/display/Public/APOLLO-5-LSCC",
     "CancerType": "Lung Squamous Cell Carcinoma",
