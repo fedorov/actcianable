@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
+    "CancerType": "Head and Neck Squamous Cell Carcinoma",
+    "Location": "Head-Neck",
+    "Species": "Human",
+    "Subjects": "260",
+    "ImageTypes": "CT, PT, MR, NM",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-08-20"
+  },
+  {
     "Collection": "COVID-19-NY-SBU",
     "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
     "CancerType": "COVID-19 (non-cancer)",
@@ -687,19 +700,6 @@
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2020-03-31"
-  },
-  {
-    "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
-    "CancerType": "Head and Neck Squamous Cell Carcinoma",
-    "Location": "Head-Neck",
-    "Species": "Human",
-    "Subjects": "260",
-    "ImageTypes": "CT, PT, MR, NM",
-    "SupportingData": "Clinical",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2020-03-13"
   },
   {
     "Collection": "OPC-Radiomics",
