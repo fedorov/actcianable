@@ -1,6 +1,6 @@
 [
   {
-    "Collection": "PROSTATEx Zone Segmentations",
+    "Collection": "PROSTATEx Zone Segmentations (PROSTATEx-Seg-Zones)",
     "DOI": "https://doi.org/10.7937/tcia.nbb4-4655",
     "CancerType": "Prostate",
     "Location": "Prostate",
@@ -10,7 +10,7 @@
     "Updated": "2020-11-30"
   },
   {
-    "Collection": "Multi-Institutional Paired Expert Segmentations and Radiomic Features of the Ivy GAP Dataset",
+    "Collection": "Multi-Institutional Paired Expert Segmentations and Radiomic Features of the Ivy GAP Dataset (IvyGAP-Radiomics)",
     "DOI": "https://doi.org/10.7937/9j41-7d44",
     "CancerType": "Glioblastoma",
     "Location": "Brain",
@@ -20,7 +20,7 @@
     "Updated": "2020-10-30"
   },
   {
-    "Collection": "High Resolution Prostate Segmentations for the ProstateX-Challenge",
+    "Collection": "High Resolution Prostate Segmentations for the ProstateX-Challenge (PROSTATEx-Seg-HiRes)",
     "DOI": "https://doi.org/10.7937/TCIA.2019.DEG7ZG1U",
     "CancerType": "Prostate",
     "Location": "Prostate",
@@ -40,7 +40,7 @@
     "Updated": "2020-07-31"
   },
   {
-    "Collection": "MRQy quality measures for TCIA MRI datasets",
+    "Collection": "MRQy quality measures for TCIA MRI datasets (MRQy-Quality-Measures)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2020.JHZ2-T694",
     "CancerType": "Glioblastoma, Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma",
     "Location": "Brain, Cervix",
@@ -50,7 +50,7 @@
     "Updated": "2020-07-22"
   },
   {
-    "Collection": "Standardization in Quantitative Imaging: A Multi-center Comparison of Radiomic Feature Values",
+    "Collection": "Standardization in Quantitative Imaging: A Multi-center Comparison of Radiomic Feature Values (Radiomic-Feature-Standards)",
     "DOI": "https://doi.org/10.7937/tcia.2020.9era-gg29",
     "CancerType": "Lung",
     "Location": "Chest",
@@ -60,7 +60,7 @@
     "Updated": "2020-06-09"
   },
   {
-    "Collection": "DICOM SR of clinical data and measurement for breast cancer collections to TCIA",
+    "Collection": "DICOM SR of clinical data and measurement for breast cancer collections to TCIA (DICOM-SR-Breast-Clinical)",
     "DOI": "https://doi.org/10.7937/TCIA.2019.wgllssg1",
     "CancerType": "Breast",
     "Location": "Breast",
@@ -70,7 +70,7 @@
     "Updated": "2020-05-28"
   },
   {
-    "Collection": "DICOM-SEG Conversions for TCGA-LGG and TCGA-GBM Segmentation Datasets",
+    "Collection": "DICOM-SEG Conversions for TCGA-LGG and TCGA-GBM Segmentation Datasets(DICOM-Glioma-SEG)",
     "DOI": "https://doi.org/10.7937/TCIA.2018.ow6ce3ml",
     "CancerType": "Glioblastoma, Low Grade Glioma",
     "Location": "Brain",
@@ -80,7 +80,7 @@
     "Updated": "2020-04-30"
   },
   {
-    "Collection": "Integration of CT-based Qualitative and Radiomic Features with Proteomic Variables in Patients with High-Grade Serous Ovarian Cancer: An Exploratory Analysis",
+    "Collection": "Integration of CT-based Qualitative and Radiomic Features with Proteomic Variables in Patients with High-Grade Serous Ovarian Cancer: An Exploratory Analysis (TCGA-OV-Proteogenomics)",
     "DOI": "https://doi.org/10.7937/TCIA.2019.9stoinf1",
     "CancerType": "Ovarian",
     "Location": "Ovary",
@@ -90,7 +90,7 @@
     "Updated": "2020-04-15"
   },
   {
-    "Collection": "Standardized representation of the TCIA LIDC-IDRI annotations using DICOM",
+    "Collection": "Standardized representation of the TCIA LIDC-IDRI annotations using DICOM (DICOM-LIDC-IDRI-Nodules)",
     "DOI": "https://doi.org/10.7937/TCIA.2018.h7umfurq",
     "CancerType": "Lung",
     "Location": "Chest",
@@ -100,7 +100,7 @@
     "Updated": "2020-03-26"
   },
   {
-    "Collection": "RIDER Lung CT Segmentation Labels from: Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach",
+    "Collection": "RIDER Lung CT Segmentation Labels from: Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach (RIDER-LungCT-Seg)",
     "DOI": "https://doi.org/10.7937/tcia.2020.jit9grk8",
     "CancerType": "Lung",
     "Location": "Chest",
@@ -110,7 +110,7 @@
     "Updated": "2020-02-13"
   },
   {
-    "Collection": "Dataset of Segmented Nuclei in Hematoxylin and Eosin Stained Histopathology Images",
+    "Collection": "Dataset of Segmented Nuclei in Hematoxylin and Eosin Stained Histopathology Images (Pan-Cancer-Nuclei-Seg)",
     "DOI": "https://doi.org/10.7937/tcia.2019.4a4dkp9u",
     "CancerType": "Bladder Urothelial Carcinoma, Breast Invasive Carcinoma, Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma, Glioblastoma Multiforme, Lung Adenocarcinoma, Lung Squamous Cell Carcinoma, Pancreatic Adenocarcinoma, Prostate Adenocarcinoma, Skin Cutaneous Melanoma, Uterine Corpus Endometrial Carcinoma, Colon Adenocarcinoma, Rectal Adenocarcinoma, Stomach Adenocarcinoma, Uveal Melanoma",
     "Location": "Bladder, Brain, Breast, Colon, Eye, Lung, Pancreas, Prostate, Rectum, Stomach, Uterus, Endometrium",
@@ -120,7 +120,7 @@
     "Updated": "2020-02-08"
   },
   {
-    "Collection": "Data from Head and Neck Cancer CT Atlas",
+    "Collection": "Data from Head and Neck Cancer CT Atlas (Head-Neck-CT-Atlas)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.umz8dv6s",
     "CancerType": "Head and Neck Squamous Cell Carcinoma",
     "Location": "Head-Neck",
@@ -130,7 +130,7 @@
     "Updated": "2019-07-11"
   },
   {
-    "Collection": "SDTM datasets of clinical data and measurements for selected cancer collections to TCIA",
+    "Collection": "SDTM datasets of clinical data and measurements for selected cancer collections to TCIA (DI-Cubed-Reports)",
     "DOI": "https://doi.org/10.7937/TCIA.2019.zfv154m9",
     "CancerType": "Breast, Glioblastoma",
     "Location": "Breast, Brain",
@@ -140,7 +140,7 @@
     "Updated": "2019-06-21"
   },
   {
-    "Collection": "Crowds Cure Cancer: Data collected at the RSNA 2018 annual meeting",
+    "Collection": "Crowds Cure Cancer: Data collected at the RSNA 2018 annual meeting (Crowds-Cure-2018)",
     "DOI": "https://doi.org/10.7937/TCIA.2019.yk0gm1eb",
     "CancerType": "Bladder Endothelial Carcinoma, Colon Adenocarcinoma, Glioblastoma Multiforme, Head and Neck Squamous Cell Carcinoma, Lung Squamous Cell Carcinoma, Melanoma, Non-small Cell Lung Cancer, Pancreatic Ductal Adenocarcinoma, Renal Clear Cell Carcinoma, Uterine Corpus Endometrial Carcinoma",
     "Location": "Bladder, Brain, Colon, Head-Neck, Kidney, Lung, Pancreas, Skin, Uterine Corpus",
@@ -150,7 +150,7 @@
     "Updated": "2019-05-30"
   },
   {
-    "Collection": "QIN multi-site collection of Lung CT data with Nodule Segmentations",
+    "Collection": "QIN multi-site collection of Lung CT data with Nodule Segmentations (QIN-LungCT-Seg)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.1BUVFJR7",
     "CancerType": "Lung",
     "Location": "Chest",
@@ -160,7 +160,7 @@
     "Updated": "2018-12-18"
   },
   {
-    "Collection": "Tumor-Infiltrating Lymphocytes Maps from TCGA H&E Whole Slide Pathology Images",
+    "Collection": "Tumor-Infiltrating Lymphocytes Maps from TCGA H&E Whole Slide Pathology Images (TIL-WSI-TCGA)",
     "DOI": "https://doi.org/10.7937/k9/tcia.2018.y75f9w1",
     "CancerType": "Bladder Urothelial Carcinoma, Breast Invasive Carcinoma, Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma, Colon Adenocarcinoma, Lung Adenocarcinoma, Lung Squamous Cell Carcinoma, Pancreatic Adenocarcinoma, Prostate Adenocarcinoma, Rectum Adenocarcinoma, Skin Cutaneous Melanoma, Stomach Adenocarcinoma, Uterine Corpus Endometrial Carcinoma, Uveal Melanoma",
     "Location": "Bladder, Breast, Pelvic Cervix, Chest, Colon, Eye, Lung, Pancreas, Prostate, Rectum, Skin, Stomach, Uterus",
@@ -170,7 +170,7 @@
     "Updated": "2018-12-17"
   },
   {
-    "Collection": "TCGA Breast Phenotype Research Group Data sets",
+    "Collection": "TCGA Breast Phenotype Research Group Data sets (TCGA-Breast-Radiogenomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.8SIPIY6G",
     "CancerType": "Breast",
     "Location": "Breast",
@@ -180,7 +180,7 @@
     "Updated": "2018-09-04"
   },
   {
-    "Collection": "Crowds Cure Cancer: Data collected at the RSNA 2017 annual meeting",
+    "Collection": "Crowds Cure Cancer: Data collected at the RSNA 2017 annual meeting (Crowds-Cure-2017)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.OW73VLO2",
     "CancerType": "Lung Adenocarcinoma, Renal Clear Cell, Liver, Ovarian",
     "Location": "Chest, Kidney, Liver, Ovary",
@@ -190,7 +190,7 @@
     "Updated": "2018-05-17"
   },
   {
-    "Collection": "Long and Short Survival in Adenocarcinoma Lung CTs",
+    "Collection": "Long and Short Survival in Adenocarcinoma Lung CTs (LUAD-CT-Survival)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.0tv7b9x1",
     "CancerType": "Lung Adenocarcinoma",
     "Location": "Chest",
@@ -200,7 +200,7 @@
     "Updated": "2017-08-11"
   },
   {
-    "Collection": "Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-GBM collection",
+    "Collection": "Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-GBM collection (BraTS-TCGA-GBM)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.KLXWJJ1Q",
     "CancerType": "Glioblastoma",
     "Location": "Brain",
@@ -210,7 +210,7 @@
     "Updated": "2017-07-17"
   },
   {
-    "Collection": "Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-LGG collection",
+    "Collection": "Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-LGG collection (BraTS-TCGA-LGG)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.GJQ7R0EF",
     "CancerType": "Low Grade Glioma",
     "Location": "Brain",
@@ -220,7 +220,7 @@
     "Updated": "2017-07-17"
   },
   {
-    "Collection": "ROI Masks Defining Low-Grade Glioma Tumor Regions In the TCGA-LGG Image Collection",
+    "Collection": "ROI Masks Defining Low-Grade Glioma Tumor Regions In the TCGA-LGG Image Collection (TCGA-LGG-Mask)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.BD7SGWCA",
     "CancerType": "Low Grade Glioma",
     "Location": "Brain",
@@ -230,7 +230,7 @@
     "Updated": "2017-03-17"
   },
   {
-    "Collection": "Imaging Features, and Correlations with Genomic and Clinical Data from the TCGA Ovarian Radiology Research Group",
+    "Collection": "Imaging Features, and Correlations with Genomic and Clinical Data from the TCGA Ovarian Radiology Research Group (TCGA-OV-Radiogenomics)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.PSJOXM47",
     "CancerType": "High-Grade Serous Ovarian Cancer",
     "Location": "Ovary",
@@ -240,7 +240,7 @@
     "Updated": "2016-08-02"
   },
   {
-    "Collection": "NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures",
+    "Collection": "NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures (ISBI-MR-Prostate-2013)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.zF0vlOPv",
     "CancerType": "Prostate",
     "Location": "Prostate",
@@ -250,7 +250,7 @@
     "Updated": "2015-08-20"
   },
   {
-    "Collection": "Radiogenomics of Clear Cell Renal Cell Carcinoma: Preliminary Findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Research Group",
+    "Collection": "Radiogenomics of Clear Cell Renal Cell Carcinoma: Preliminary Findings of The Cancer Genome Atlas-Renal Cell Carcinoma (TCGA-RCC) Research Group (TCGA-KIRC-Radiogenomics)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.K6M61GDW",
     "CancerType": "Renal Clear Cell Carcinoma",
     "Location": "Kidney",
@@ -260,7 +260,7 @@
     "Updated": "2015-05-28"
   },
   {
-    "Collection": "MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set",
+    "Collection": "MR Imaging Predictors of Molecular Profile and Survival: Multi-institutional Study of the TCGA Glioblastoma Data Set (TCGA-GBM-Radiogenomics)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.4HTXYRCN",
     "CancerType": "Glioblastoma",
     "Location": "Brain",
@@ -270,7 +270,7 @@
     "Updated": "2014-11-12"
   },
   {
-    "Collection": "Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features",
+    "Collection": "Glioblastoma multiforme: exploratory radiogenomic analysis by using quantitative image features (TCGA-GBM-QI-Radiogenomics)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.RJEFTJBU",
     "CancerType": "Glioblastoma",
     "Location": "Brain",
@@ -280,7 +280,7 @@
     "Updated": "2014-11-05"
   },
   {
-    "Collection": "Outcome Prediction in Patients with Glioblastoma by Using Imaging, Clinical, and Genomic Biomarkers: Focus on the Nonenhancing Component of the Tumor",
+    "Collection": "Outcome Prediction in Patients with Glioblastoma by Using Imaging, Clinical, and Genomic Biomarkers: Focus on the Nonenhancing Component of the Tumor (GBM-MR-NER-Outcomes)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.FAB7YRPZ",
     "CancerType": "Glioblastoma",
     "Location": "Brain",
