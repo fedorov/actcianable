@@ -1743,16 +1743,16 @@
   },
   {
     "Collection": "National Lung Screening Trial (NLST)",
-    "DOI": "http://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial",
+    "DOI": "https://doi.org/10.7937/TCIA.HMQ8-J677",
     "CancerType": "Lung Cancer",
     "Location": "Chest",
     "Species": "Human",
     "Subjects": "26254",
     "ImageTypes": "CT, Pathology",
     "SupportingData": "Clinical",
-    "Access": "Limited",
+    "Access": "Public",
     "Status": "Complete",
-    "Updated": "2013-03-01"
+    "Updated": "2021-09-24"
   },
   {
     "Collection": "Prostate-Diagnosis",
