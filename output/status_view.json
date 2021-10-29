@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "Pancreatic-CT-CBCT-SEG",
+    "DOI": "https://doi.org/10.7937/TCIA.ESHQ-4D90",
+    "Access": "Public",
+    "Updated": "2021-10-28",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "National Lung Screening Trial (NLST)",
+    "DOI": "https://doi.org/10.7937/TCIA.HMQ8-J677",
+    "Access": "Public",
+    "Updated": "2021-09-24",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
     "Access": "Public",
@@ -1070,14 +1086,6 @@
     "Updated": "2013-04-17",
     "some_date": "2021-03-01",
     "is_excluded": false
-  },
-  {
-    "Collection": "National Lung Screening Trial (NLST)",
-    "DOI": "https://doi.org/10.7937/TCIA.HMQ8-J677",
-    "Access": "Public",
-    "Updated": "2021-09-24",
-    "some_date": "n/a",
-    "is_excluded": true
   },
   {
     "Collection": "Prostate-Diagnosis",
