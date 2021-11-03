@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "NADT-Prostate",
+    "DOI": "https://doi.org/10.7937/TCIA.JHQD-FR46",
+    "CancerType": "Prostate Cancer",
+    "Location": "Prostate",
+    "Species": "Human",
+    "Subjects": "37",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-11-02"
+  },
+  {
     "Collection": "Pancreatic-CT-CBCT-SEG",
     "DOI": "https://doi.org/10.7937/TCIA.ESHQ-4D90",
     "CancerType": "Pancreatic Cancer",

@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "NADT-Prostate",
+    "DOI": "https://doi.org/10.7937/TCIA.JHQD-FR46",
+    "Access": "Public",
+    "Updated": "2021-11-02",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "Pancreatic-CT-CBCT-SEG",
     "DOI": "https://doi.org/10.7937/TCIA.ESHQ-4D90",
     "Access": "Public",
