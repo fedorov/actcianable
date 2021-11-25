@@ -1,5 +1,29 @@
 [
   {
+    "Collection": "APOLLO-5-THYM",
+    "DOI": "https://doi.org/10.7937/tcia.0pg4-nh82",
+    "Access": "Public",
+    "Updated": "2021-11-24",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "APOLLO-5-LUAD",
+    "DOI": "https://doi.org/10.7937/BDM9-4623",
+    "Access": "Public",
+    "Updated": "2021-11-24",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "APOLLO-5-ESCA",
+    "DOI": "https://doi.org/10.7937/n69a-7a26",
+    "Access": "Public",
+    "Updated": "2021-11-24",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "AREN0534",
     "DOI": "https://doi.org/10.7937/TCIA.5M9S-6Y97",
     "Access": "Limited",
