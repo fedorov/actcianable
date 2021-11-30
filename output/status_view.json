@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "APOLLO-5-PAAD",
+    "DOI": "https://doi.org/10.7937/tcia.1yeg-5740",
+    "Access": "Public",
+    "Updated": "2021-11-29",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "APOLLO-5-THYM",
     "DOI": "https://doi.org/10.7937/tcia.0pg4-nh82",
     "Access": "Public",
