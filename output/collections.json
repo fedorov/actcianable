@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Pediatric-CT-SEG",
+    "DOI": "https://doi.org/https://doi.org/10.7937/TCIA.X0H0-1706",
+    "CancerType": "Non-cancer",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "359",
+    "ImageTypes": "CT, RTSTRUCT",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-11-30"
+  },
+  {
     "Collection": "APOLLO-5-PAAD",
     "DOI": "https://doi.org/10.7937/tcia.1yeg-5740",
     "CancerType": "Pancreatic Adenocarcinoma",
