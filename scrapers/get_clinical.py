@@ -12,51 +12,14 @@ import hashlib
 def get_url(url):#, headers):
   return requests.get(url) #, headers=headers)
 
-
-def discover_format(purl, data_type):
-  data_format_str='NA'
-  if (purl.path.lower().find('.txt') >-1):
-    data_format_str='TXT'
-  elif (purl.path.lower().find('.xlsx') >-1):
-    data_format_str='XLSX'
-  elif (purl.path.lower().find('.xlsb') >-1):
-    data_format_str='XLSB'
-  elif (purl.path.lower().find('.xls') >-1):
-    data_format_str='XLS'
-  elif (purl.path.lower().find('/api/') >-1):
-    data_format_str='JSON'
-  elif (purl.path.lower().find('.csv') >-1):
-    data_format_str='CSV'
-  elif (data_type.lower().find('csv') > -1):
-    data_format_str='CSV'
-  elif (data_type.lower().find('txt') > -1):
-    data_format_str='TXT'
-  elif (data_type.lower().find('xls') > -1):
-    data_format_str='XLS'
-  elif (data_type.lower().find('api') > -1):
-    data_format_str='API'
-  elif (data_type.lower().find('json') > -1):
-    data_format_str='JSON'
-  return(data_format_str)
-
-'''
-# Set up logging to a file
-logging.basicConfig(filename="app.log", level=logging.DEBUG)
-logger = logging.getLogger(__name__)
-http.client.HTTPConnection.debuglevel = 1
-def print_to_log(*args):
-    logger.debug(" ".join(args))
-http.client.print = print_to_log
-'''
-
 notes={}
 try:
   with open("output/clinical_collections.json", "r") as f:
     current_clinical=json.load(f)
     for colec in current_clinical:
-      if 'notes' in current_clinical:
-        nm= current_clinical['Collection']
-        notes[nm]=current_clinical['notes']
+      if 'Notes' in colec:
+        nm = colec['Collection']
+        notes[nm] = colec['Notes']
 
 except IOError:
     print("clinical file not found")
