@@ -1,10 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-
 import backoff
-
 import json
+import os
+import hashlib
 
 @backoff.on_exception(backoff.expo,
                       requests.exceptions.RequestException,
@@ -14,107 +14,168 @@ def get_url(url):#, headers):
 
 
 def discover_format(purl, data_type):
-    data_format_str='NA'
+  data_format_str='NA'
+  if (purl.path.lower().find('.txt') >-1):
+    data_format_str='TXT'
+  elif (purl.path.lower().find('.xlsx') >-1):
+    data_format_str='XLSX'
+  elif (purl.path.lower().find('.xlsb') >-1):
+    data_format_str='XLSB'
+  elif (purl.path.lower().find('.xls') >-1):
+    data_format_str='XLS'
+  elif (purl.path.lower().find('/api/') >-1):
+    data_format_str='JSON'
+  elif (purl.path.lower().find('.csv') >-1):
+    data_format_str='CSV'
+  elif (data_type.lower().find('csv') > -1):
+    data_format_str='CSV'
+  elif (data_type.lower().find('txt') > -1):
+    data_format_str='TXT'
+  elif (data_type.lower().find('xls') > -1):
+    data_format_str='XLS'
+  elif (data_type.lower().find('api') > -1):
+    data_format_str='API'
+  elif (data_type.lower().find('json') > -1):
+    data_format_str='JSON'
+  return(data_format_str)
 
-    if (purl.path.lower().find('.txt') >-1):
-        data_format_str='TXT'
-    elif (purl.path.lower().find('.xlsx') >-1):
-        data_format_str='XLSX'
-    elif (purl.path.lower().find('.xlsb') >-1):
-        data_format_str='XLSB'
-    elif (purl.path.lower().find('.xls') >-1):
-        data_format_str='XLS'
-    elif (purl.path.lower().find('/api/') >-1):
-        data_format_str='JSON'
-    elif (purl.path.lower().find('.csv') >-1):
-        data_format_str='CSV'
-    elif (data_type.lower().find('csv') > -1):
-        data_format_str='CSV'
-    elif (data_type.lower().find('txt') > -1):
-        data_format_str='TXT'
-    elif (data_type.lower().find('xls') > -1):
-        data_format_str='XLS'
+'''
+# Set up logging to a file
+logging.basicConfig(filename="app.log", level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+http.client.HTTPConnection.debuglevel = 1
+def print_to_log(*args):
+    logger.debug(" ".join(args))
+http.client.print = print_to_log
+'''
 
-    elif (data_type.lower().find('api') > -1):
-        data_format_str='API'
-    elif (data_type.lower().find('json') > -1):
-        data_format_str='JSON'
+notes={}
+try:
+  with open("output/clinical_collections.json", "r") as f:
+    current_clinical=json.load(f)
+    for colec in current_clinical:
+      if 'notes' in current_clinical:
+        nm= current_clinical['Collection']
+        notes[nm]=current_clinical['notes']
 
-    return(data_format_str)
+except IOError:
+    print("clinical file not found")
 
 
+
+tcia= 'https://wiki.cancerimagingarchive.net'
 URL = 'https://www.cancerimagingarchive.net/collections/'
 page = get_url(URL)
-
 soup = BeautifulSoup(page.content, "html.parser")
-
 tableb = soup.find(id="tablepress-9").find('tbody')
-
-#print(table.prettify())
-
 rows = tableb.find_all("tr")
-#print("rows "+str(len(rows)))
-
-
 outTable = []
-header = "Collection,DOI,DataType,Format,Compression,IsExternal,Links,".split(",")
+
+header = "Collection,DOI,Format,External,Download,Filenames,Notes".split(",")
 
 for row in rows:
   trow = {}
-  #print(row.prettify())
   cols = row.find_all("td")
-  #print(str(len(cols)))
   collection_col = row.find('td',{'class':'column-1'})
   collection_name = collection_col.text.strip()
   collection_href = collection_col.find('a').attrs['href']
   if collection_href.startswith('//'):
       collection_href = 'https:' + collection_href
-      colrequest = requests.get(collection_href)
-      content = colrequest.content
-      collection_html = BeautifulSoup(content, 'html.parser')
-      data_access_rows = collection_html.find('div',{'name':'Data Access'}).find('tbody').find_all('tr')
-      for da_row in data_access_rows:
-          tds= da_row.find_all('td')
-          if (len(tds)>0):
-              data_type =tds[0].text.strip()
-              linkArr=tds[1].find_all('a', href=True)
-              if (data_type.lower().find('clinical')>-1):
-                  trow={}
-                  trow[header[0]] = collection_name
-                  trow[header[1]] = collection_href
-                  comp='None'
-                  external='false'
-                  data_format_str='NA'
 
-                  #Usually there is only one download link per row in data tables. Often there is another link to a data portal
-                  downloadLinks=[]
-                  linkArr = tds[1].find_all('a', href=True)
-                  for link in linkArr:
-                      url=link.attrs['href']
-                      if (len(linkArr) == 1) or (url.lower().find('download')>-1):
-                          downloadLinks.append(url)
-                          purl=urlparse(url)
-                          if (purl.hostname is not None) and (purl.hostname.find('cancerimagingarchive')==-1):
-                              external = 'true'
-                              data_format_str=discover_format(purl,data_type)
-                  downloadLinksH=['<a href="'+link+'">'+link+'</a>' for link in downloadLinks]
-                  downloadLinkStr = '<br>'.join(downloadLinksH)
+  colrequest = requests.get(collection_href, timeout=30)
+  content = colrequest.content
+  collection_html = BeautifulSoup(content, 'html.parser')
+  data_access_rows = collection_html.find('div',{'name':'Data Access'}).find('tbody').find_all('tr')
+  clinical_found = False
+  some_clinical_downloadable = False
+  some_clinical_not_downloadable = False
+  some_clinical_external = False
+  data_formats = set()
+  filenms = []
+  for da_row in data_access_rows:
+    tds= da_row.find_all('td')
+    if (len(tds)>0):
+      data_type =tds[0].text.strip()
 
-                  if (downloadLinkStr.find('cancerimagingarchive')==-1):
-                       external = 'true'
+      # data_type reported as 'clinical' in the 'Data Type' column means there is clinical data
+      if (data_type.lower().find('clinical')>-1):
 
-                  trow[header[2]]=data_type
-                  trow[header[3]]=data_format_str
-                  trow[header[4]]=comp
-                  trow[header[5]]=external
-                  trow[header[6]]=downloadLinkStr
-                  if len(trow):
-                      outTable= outTable + [trow]
-                                                           
+        clinical_found = True
+        print(collection_name+" "+data_type)
+        hrefArr = tds[1].find_all('a', href=True)
+        for href in hrefArr:
+          download_file_found_in_row=False
+          filenm=''
+          url = href.attrs['href']
+          purl = urlparse(url)
+          #add tcia hostname to internal links
+          if purl.hostname is None:
+            url = tcia + url
+            purl = urlparse(url)
+          # some download urls links not on tcia
+          if (purl.hostname.find('cancerimagingarchive') == -1):
+            some_clinical_external = True
+          # check header before trying to download file
+          head_info = requests.head(url, timeout=5)
+          # if the 'download' link does not include a 'Content-Disposition' header this likely means that the link does NOT resolve to a downloadable file but to a web portal or json content
+          if ('Content-Disposition' in head_info.headers) and (head_info.headers['Content-Disposition'].find('filename=') > -1):
+            some_clinical_downloadable = True
+            download_file_found_in_row = True
+            filenm = head_info.headers['Content-Disposition'].split("filename=")[1].replace('"', '')
+            ext = os.path.splitext(filenm)[1].lower()
+            data_formats.add(ext)
+          elif ('Content-Type' in head_info.headers) and (head_info.headers['Content-Type'].find('json')>-1):
+            some_clinical_downloadable = True
+            download_file_found_in_row = True
+            filenm = url.replace('https://','')
+            filenm = filenm.replace('http://', '')
+            filenm = filenm.replace('/', '_')
+            data_formats.add('.json')
+          if download_file_found_in_row:
+            resp = requests.get(url)
+            md5=hashlib.md5(resp.content).hexdigest()
+            filenms.append('<a href="'+url+'">'+filenm+'</a>: '+md5)
+            dirname=collection_name.replace('/','_')
+            path='output/clinical_files/'+dirname
+            if not os.path.exists(path):
+                os.makedirs(path)
+            with open(path+'/'+filenm, 'wb') as f:
+              f.write(resp.content)
+          else:
+              some_clinical_not_avail = True
+
+  if clinical_found:
+    data_formats_list=list(data_formats)
+    data_formats_list.sort()
+    data_format_str= ", ".join(data_formats_list)
+    filenms.sort()
+    filenm_str= ", ".join(filenms)
+    avail=""
+    if some_clinical_downloadable:
+      if some_clinical_not_downloadable:
+        avail="partial"
+      else:
+        avail="yes"
+    else:
+      avail="no"
+    trow[header[0]] = collection_name
+    trow[header[1]] = collection_href
+    trow[header[2]]=data_format_str
+    trow[header[3]]=some_clinical_external
+    trow[header[4]] = avail
+    trow[header[5]] = filenm_str
+    if collection_name in notes:
+      trow[header[6]] = notes[collection_name]
+    else:
+      trow[header[6]] = ''
+
+  if len(trow):
+    outTable= outTable + [trow]
+
 print(len(outTable))
 with open("output/clinical_collections.json", "w") as f:
-  f.write(json.dumps(outTable, indent=2))                        
-                    
-                
+  f.write(json.dumps(outTable, indent=2))
+
+
 
 

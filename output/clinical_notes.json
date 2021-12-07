@@ -1,0 +1,35 @@
+{
+  "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)":"Links to page with 2 zip files, 'ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip' and 'ACRIN-DSC-MR-Brain TCIA Anonymized.zip'. Both catalogues are similar. They each have maybe a dozen CSV files, a PDF and an xlsx file. Its not obvious how to resolve this data into a clinical data table ",
+  "ACRIN-FLT-Breast (ACRIN 6688)":"Leads to a download of one zip file which is similar to those in ACRIN-DSC-MR-Brain",
+  "ACRIN-FMISO-Brain (ACRIN 6684)":"Same as ACRIN-FLT-Breast (ACRIN 6688)",
+  "ACRIN-NSCLC-FDG-PET (ACRIN 6668)":"Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set",
+  "Breast Diagnosis":"an xls file with one sheet with clinical data but is pivoted (organized in columns) ",
+  "Breast-MRI-NACT-Pilot":"one xls file with 3 sheets. One has clinical data, the others have supporting data",
+  "C4KC-KiTS":"one csv file with clinical data",
+  "COVID-19-AR:"one xls file with two sheets. Both have clinical data in similar (but not identical) format for two different patient sets",
+  "CPTAC-CM":"links to a json string with clinical data ",
+  "CPTAC-SAR":"links to a json string with clinical data",
+  "HNSCC":"An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. The csv has similar data. It seems like they have similar data for different patients. xlsx data has one sheet with a data dictionary",
+  "HNSCC-3DCT-RT":"One xlsb file. I did not have an xlsb parser so I converted it to xls, AFAIK with no data loss. 8 sheets, each with different types of clinical data",
+  "Head-Neck-PET-CT":"One xlsx file with 5 sheets. Different patients, same clinical data on each",
+  "Head-Neck-Radiomics-HN1":"zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download ",
+  "ISPY1 (ACRIN 6657)":"xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser"
+  "IvyGAP":"not clinical data download links. Link resolve to portals. May be able to get data from there",
+  "Lung Fused-CT-Pathology":"One xlsx file with one sheet with clear clinical data",
+  "Lung-PET-CT-Dx":"One xlsx file with one sheet with clear clinical data",
+  "LungCT-Diagnosis":"Clinical data in a doc file! Can be parsed manually",
+  "MIDRC-RICORD-1a":"One xlsx file, one sheet with clear clinical data",
+  "MIDRC-RICORD-1b":"One xlsx file, one sheet with clear clinical data",
+  "MIDRC-RICORD-1c":"One xlsx file, one sheet with clear clinical data",
+  "NLSC Radiomics":"One csv file with clinical data" 
+  "NSCLC-Radiogenomics":"One csv file with clinical data",
+  "NSCLC-Radiomics-Genomics":"One xls file with one sheet with clinical data",
+  "NSCLC-Radiomics-Interobserver1":"one csv file with clinical data",
+  "National Lung Screening Trial (NLST)":"a zip file with many csv files with clinical data and rtf files with data dictionaries",
+  "OPC-Radiomics":"One xls file with one sheet with clinical data",
+  "QIN-HeadNeck":"one xlsx file with two sheets with similar clinical two for two patient sets",
+  "REMBRANDT":"One xlsx file with one sheet with clinical data",
+  "Soft-tissue-Sarcoma":"One xlsx file with two sheets with complimentary data",
+  "TCGA":"clinical and biomedical data in huge and confusing tar zip files. But I suppose we are not redoing TCGA clinical data"
+
+}

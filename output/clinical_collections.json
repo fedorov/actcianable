@@ -1,218 +1,632 @@
 [
   {
+    "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52763679/ACRIN%206685%20HB%20HNSCC%20FDG%20PET_CT%20TCIA%20Reviewed.zip?api=v2\">ACRIN 6685 HB HNSCC FDG PET_CT TCIA Reviewed.zip</a>: fa2eb32881a5d2744e4d1aae09d82482, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52763679/ACRIN%206685%20HNSCC%20FDG%20PET_CT%20TCIA%20Anonymized.zip?api=v2\">ACRIN 6685 HNSCC FDG PET_CT TCIA Anonymized.zip</a>: 0ee46a3b83d06b66775504b9144d38eb",
+    "Notes": ""
+  },
+  {
+    "Collection": "AREN0534",
+    "DOI": "https://doi.org/10.7937/TCIA.5M9S-6Y97",
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "NADT-Prostate",
+    "DOI": "https://doi.org/10.7937/TCIA.JHQD-FR46",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357374/Biopsy%20Clinical%20Data.xlsx?version=3&modificationDate=1634850586960&api=v2\">Biopsy Clinical Data.xlsx</a>: a83309fa642172042177ced583721fce",
+    "Notes": ""
+  },
+  {
+    "Collection": "National Lung Screening Trial (NLST)",
+    "DOI": "https://doi.org/10.7937/TCIA.HMQ8-J677",
+    "Format": ".zip",
+    "External": true,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/5800702/package-nlst-780.2021-05-28.zip?version=1&modificationDate=1633562878492&api=v2\">package-nlst-780.2021-05-28.zip</a>: 53bae727195a21a8b359ce71cd459e88",
+    "Notes": ""
+  },
+  {
+    "Collection": "COVID-19-NY-SBU",
+    "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv</a>: 5bd199f8743d1ffd55dc67a0b2477560, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv</a>: bb5b4e606e63ac85de7d821c7ea7bda4",
+    "Notes": ""
+  },
+  {
+    "Collection": "APOLLO-5-LSCC",
+    "DOI": "https://doi.org/10.7937/TCIA.QQ0G-EB24",
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
+    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?version=1&modificationDate=1628100506702&api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd",
+    "Notes": ""
+  },
+  {
     "Collection": "NSCLC-Radiogenomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
-    "DataType": "Clinical Data (csv)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/28672347/NSCLCR01Radiogenomic_DATA_LABELS_2018-05-22_1500-shifted.csv?version=1&modificationDate=1531967714295&api=v2\">/download/attachments/28672347/NSCLCR01Radiogenomic_DATA_LABELS_2018-05-22_1500-shifted.csv?version=1&modificationDate=1531967714295&api=v2</a>"
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/28672347/NSCLCR01Radiogenomic_DATA_LABELS_2018-05-22_1500-shifted.csv?version=1&modificationDate=1531967714295&api=v2\">NSCLCR01Radiogenomic_DATA_LABELS_2018-05-22_1500-shifted.csv</a>: f0f65ae858c3677432f3fcb99553b78a",
+    "Notes": ""
+  },
+  {
+    "Collection": "ACNS0332",
+    "DOI": "https://doi.org/10.7937/TCIA.582B-XZ89",
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "Duke-Breast-Cancer-MRI",
+    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226903/Clinical_and_Other_Features.xlsx?api=v2\">Clinical_and_Other_Features.xlsx</a>: 13d3a4833d945ff843453f8138517f65",
+    "Notes": ""
+  },
+  {
+    "Collection": "CMMD",
+    "DOI": "https://doi.org/10.7937/tcia.eqde-4b16",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230508/CMMD_clinicaldata_revision.xlsx?api=v2\">CMMD_clinicaldata_revision.xlsx</a>: 3ba151018efbc46e477eac9594c6a85c",
+    "Notes": ""
+  },
+  {
+    "Collection": "CALGB50303",
+    "DOI": "https://doi.org/10.7937/CM65-A013",
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "AHEP0731",
+    "DOI": "https://doi.org/10.7937/F2DB-8826",
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
   },
   {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "https://doi.org/10.7937/Q1EE-J082",
-    "DataType": "Clinical Data (csv)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": ""
+    "Format": "",
+    "External": false,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "MIDRC-RICORD-1b",
+    "DOI": "https://doi.org/10.7937/31V8-4A40",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/80969771/MIDRC-RICORD-1b%20Clinical%20Data%20Feb%202021.xlsx?api=v2\">MIDRC-RICORD-1b Clinical Data Feb 2021.xlsx</a>: 306dd01b3c494ca1ba4b0baaff0fa021",
+    "Notes": ""
+  },
+  {
+    "Collection": "MIDRC-RICORD-1c",
+    "DOI": "https://doi.org/10.7937/91ah-v663",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230281/MIDRC-RICORD-1c%20Clinical%20Data%20Jan%2013%202021%20.xlsx?api=v2\">MIDRC-RICORD-1c Clinical Data Jan 13 2021 .xlsx</a>: 7937f6fa1e896e8f823fd9332f844be2",
+    "Notes": ""
+  },
+  {
+    "Collection": "MIDRC-RICORD-1a",
+    "DOI": "https://doi.org/10.7937/VTW4-X588",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/80969742/MIDRC-RICORD-1a%20Clinical%20Data%20Jan%2013%202021.xlsx?api=v2\">MIDRC-RICORD-1a Clinical Data Jan 13 2021.xlsx</a>: bc54fcc302f85750face74726ad44d46",
+    "Notes": ""
   },
   {
     "Collection": "Lung-PET-CT-Dx",
     "DOI": "https://doi.org/10.7937/TCIA.2020.NNC2-0461",
-    "DataType": "Clinical Data (XLSX, 36 KB)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/70224216/statistics-clinical-20201221.xlsx?version=1&modificationDate=1608654729514&api=v2\">/download/attachments/70224216/statistics-clinical-20201221.xlsx?version=1&modificationDate=1608654729514&api=v2</a>"
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70224216/statistics-clinical-20201221.xlsx?version=1&modificationDate=1608654729514&api=v2\">statistics-clinical-20201221.xlsx</a>: a73ebe83f7c9b7f4c762822e9aeef922",
+    "Notes": ""
+  },
+  {
+    "Collection": "NSCLC-Radiomics",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.PF0M9REI",
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056854/NSCLC%20Radiomics%20Lung1.clinical-version3-Oct%202019.csv?version=1&modificationDate=1572013183040&api=v2\">NSCLC Radiomics Lung1.clinical-version3-Oct 2019.csv</a>: 2d2638a2ac1d34edc6535b59b6f71510",
+    "Notes": ""
+  },
+  {
+    "Collection": "QIN-HeadNeck",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6885289/Batch_01%20and%20Batch_02%20Clinical%20Data_aug242020.xlsx?api=v2\">Batch_01 and Batch_02 Clinical Data_aug242020.xlsx</a>: d4153ebae54461f4f27646d0f32d0db7",
+    "Notes": ""
   },
   {
     "Collection": "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)",
     "DOI": "https://doi.org/10.7937/tcia.2019.zr1pjf4i",
-    "DataType": "Clinical (XLS)",
-    "Format": "XLS",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"https://app.box.com/s/8prceftexo75oa53du7yym6teuwb0im9\">https://app.box.com/s/8prceftexo75oa53du7yym6teuwb0im9</a>"
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
   },
   {
     "Collection": "CRC_FFPE-CODEX_CellNeighs",
     "DOI": "https://doi.org/10.7937/TCIA.2020.FQN0-0326",
-    "DataType": "Clinical data (XLS, DOC)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/70227790/Multi-tumor_TMA_composition.xlsx?version=1&modificationDate=1596640676197&api=v2\">/download/attachments/70227790/Multi-tumor_TMA_composition.xlsx?version=1&modificationDate=1596640676197&api=v2</a><br><a href=\"/download/attachments/70227790/CRC_TMAs_patient_annotations.xlsx?version=1&modificationDate=1596640684172&api=v2\">/download/attachments/70227790/CRC_TMAs_patient_annotations.xlsx?version=1&modificationDate=1596640684172&api=v2</a>"
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70227790/CRC_TMAs_patient_annotations.xlsx?version=1&modificationDate=1596640684172&api=v2\">CRC_TMAs_patient_annotations.xlsx</a>: 9437a28a6e2811f6a8056e51673bcb42, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70227790/Multi-tumor_TMA_composition.xlsx?version=1&modificationDate=1596640676197&api=v2\">Multi-tumor_TMA_composition.xlsx</a>: 15116a8e2a4a1b653ddfe562d0d1396d",
+    "Notes": ""
   },
   {
     "Collection": "NSCLC-Radiomics-Interobserver1",
     "DOI": "https://doi.org/10.7937/tcia.2019.cwvlpd26",
-    "DataType": "Clinical Data (CSV)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/52756590/Interobserver1.clinical_updated_released_2019-June-17.csv?version=1&modificationDate=1560796626334&api=v2\">/download/attachments/52756590/Interobserver1.clinical_updated_released_2019-June-17.csv?version=1&modificationDate=1560796626334&api=v2</a>"
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52756590/Interobserver1.clinical_updated_released_2019-June-17.csv?version=1&modificationDate=1560796626334&api=v2\">Interobserver1.clinical_updated_released_2019-June-17.csv</a>: b14b7a077f995921c6874dacb5846eb7",
+    "Notes": ""
   },
   {
     "Collection": "Head-Neck-Radiomics-HN1",
     "DOI": "https://doi.org/10.7937/tcia.2019.8kap372n",
-    "DataType": "Clinical Data (CSV, zip)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/52762760/Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection%20July%2029%202020.zip?version=1&modificationDate=1596049703964&api=v2\">/download/attachments/52762760/Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection%20July%2029%202020.zip?version=1&modificationDate=1596049703964&api=v2</a>"
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52762760/Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection%20July%2029%202020.zip?version=1&modificationDate=1596049703964&api=v2\">Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip</a>: 763163e13605d970dac66360bbb19c2b",
+    "Notes": ""
   },
   {
     "Collection": "COVID-19-AR",
     "DOI": "https://doi.org/10.7937/tcia.2020.py71-5978",
-    "DataType": "Clinical data (CSV)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "false",
-    "Links": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226443/COVID-19%20AR%20Clinical%20Correlates%20July202020.xlsx?version=1&modificationDate=1594659431356&api=v2\">https://wiki.cancerimagingarchive.net/download/attachments/70226443/COVID-19%20AR%20Clinical%20Correlates%20July202020.xlsx?version=1&modificationDate=1594659431356&api=v2</a>"
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226443/COVID-19%20AR%20Clinical%20Correlates%20July202020.xlsx?version=1&modificationDate=1594659431356&api=v2\">COVID-19 AR Clinical Correlates July202020.xlsx</a>: 6f75681cca1fe7842f0c6832232b9b84",
+    "Notes": ""
   },
   {
     "Collection": "CPTAC-CM",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
-    "DataType": "Clinical Data API (JSON -\u00a0  more info)",
-    "Format": "JSON",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/CM\">https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/CM</a>"
+    "Format": ".json",
+    "External": true,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/CM\">https:__clinicalapi-cptac.esacinc.com_api_tcia_clinical_data_tumor_code_CM</a>: 41432816651bce479561612c0ed7ea27",
+    "Notes": ""
+  },
+  {
+    "Collection": "C4KC-KiTS",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.IX49E8NX",
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61081171/C4KC%20KiTS_Clinical%20Data_Version%201.csv?api=v2\">C4KC KiTS_Clinical Data_Version 1.csv</a>: 4849610af4f80bf6740d11a190364079",
+    "Notes": ""
   },
   {
     "Collection": "HNSCC",
     "DOI": "https://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
-    "DataType": "Clinical Data from \"Data from Head and Neck Cancer CT Atlas\" (XLS)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/24281354/Patient%20and%20Treatment%20Characteristics.xls?version=1&modificationDate=1531497278289&api=v2\">/download/attachments/24281354/Patient%20and%20Treatment%20Characteristics.xls?version=1&modificationDate=1531497278289&api=v2</a>"
-  },
-  {
-    "Collection": "HNSCC",
-    "DOI": "https://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
-    "DataType": "Clinical Data Dictionary from \"Data from Head and Neck Cancer CT Atlas\" (XLS)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/24281354/Field%20Descriptions%20for%20Patient%20and%20Treatment%20Characteristics.xlsx?version=1&modificationDate=1531497124879&api=v2\">/download/attachments/24281354/Field%20Descriptions%20for%20Patient%20and%20Treatment%20Characteristics.xlsx?version=1&modificationDate=1531497124879&api=v2</a>"
-  },
-  {
-    "Collection": "HNSCC",
-    "DOI": "https://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
-    "DataType": "Clinical Data from\u00a0\"Radiomics outcome prediction in Oropharyngeal cancer\" (XLS)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/33948240/HNSCC%20Clinical%20Data.csv?version=2&modificationDate=1585598244510&api=v2\">/download/attachments/33948240/HNSCC%20Clinical%20Data.csv?version=2&modificationDate=1585598244510&api=v2</a>"
+    "Format": ".csv, .xls, .xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Field%20Descriptions%20for%20Patient%20and%20Treatment%20Characteristics.xlsx?version=1&modificationDate=1531497124879&api=v2\">Field Descriptions for Patient and Treatment Characteristics.xlsx</a>: 4e2256214ff139b9f2eb860937037473, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Patient%20and%20Treatment%20Characteristics.xls?version=1&modificationDate=1531497278289&api=v2\">Patient and Treatment Characteristics.xls</a>: db5254d30ddb57e27ed7fc7d09875fb0, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948240/HNSCC%20Clinical%20Data.csv?version=2&modificationDate=1585598244510&api=v2\">HNSCC Clinical Data.csv</a>: 4f8074297ebd6426409d17962d8b9d59",
+    "Notes": ""
   },
   {
     "Collection": "CPTAC-AML",
     "DOI": "https://doi.org/10.7937/tcia.2019.b6foe619",
-    "DataType": "Clinical Data API (JSON -\u00a0  more info )",
-    "Format": "JSON",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/AML\">https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/AML</a>"
+    "Format": ".json",
+    "External": true,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/AML\">https:__clinicalapi-cptac.esacinc.com_api_tcia_clinical_data_tumor_code_AML</a>: 034e984fcf004f1fe8071a63b077beb5",
+    "Notes": ""
+  },
+  {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20V2.zip?version=2&modificationDate=1586360765050&api=v2\">Clinical Reports V2.zip</a>: 957c4339ab5df6832758807385d0f2c1",
+    "Notes": ""
+  },
+  {
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "Format": ".json",
+    "External": true,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/pancancer/clinical_data/tumor_code/SAR\">https:__clinicalapi-cptac.esacinc.com_api_pancancer_clinical_data_tumor_code_SAR</a>: bb775fdbc5f4a5b285e426bdfbac678f",
+    "Notes": ""
   },
   {
     "Collection": "OPC-Radiomics",
     "DOI": "https://doi.org/10.7937/tcia.2019.8dho2gls",
-    "DataType": "Clinical (e.g. patient demographics, outcomes)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/33948764/Clinical%20data%20list_OPC%20%28606%29%20v3.xlsx?version=1&modificationDate=1581359182229&api=v2\">/download/attachments/33948764/Clinical%20data%20list_OPC%20%28606%29%20v3.xlsx?version=1&modificationDate=1581359182229&api=v2</a>"
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948764/Clinical%20data%20list_OPC%20%28606%29%20v3.xlsx?version=1&modificationDate=1581359182229&api=v2\">Clinical data list_OPC (606) v3.xlsx</a>: cc241ff6cc6ff89ca18cad8bc53256a2",
+    "Notes": ""
   },
   {
     "Collection": "ACRIN-NSCLC-FDG-PET (ACRIN 6668)",
     "DOI": "https://doi.org/10.7937/tcia.2019.30ilqfcl",
-    "DataType": "Clinical, file set 1 (XLS, zip)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/39879162/ACRIN%206668%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%201.zip?version=1&modificationDate=1590499820066&api=v2\">/download/attachments/39879162/ACRIN%206668%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%201.zip?version=1&modificationDate=1590499820066&api=v2</a>"
-  },
-  {
-    "Collection": "ACRIN-NSCLC-FDG-PET (ACRIN 6668)",
-    "DOI": "https://doi.org/10.7937/tcia.2019.30ilqfcl",
-    "DataType": "Clinical, file set 2 (XLS)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/39879162/ACRIN%206668HB%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%202.zip?version=1&modificationDate=1590499781413&api=v2\">/download/attachments/39879162/ACRIN%206668HB%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%202.zip?version=1&modificationDate=1590499781413&api=v2</a>"
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879162/ACRIN%206668%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%201.zip?version=1&modificationDate=1590499820066&api=v2\">ACRIN 6668 NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 1.zip</a>: b34a9550c1c93fd7fb5d6fa487c5c9ee, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879162/ACRIN%206668HB%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%202.zip?version=1&modificationDate=1590499781413&api=v2\">ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 2.zip</a>: c7134f971b2b797a7a2fe2a8245728c6",
+    "Notes": ""
   },
   {
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
-    "DataType": "Clinical (XLS, zip, 192 KB)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "false",
-    "Links": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2\">https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2</a>"
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2\">ACRIN-FLT-Breast 6688 Clinical Data.zip</a>: b656297b7608cb50e4a1edf9629e7705",
+    "Notes": ""
   },
   {
     "Collection": "Lung Fused-CT-Pathology",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
-    "DataType": "Clinical data (XLSX)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/39878702/Lung%20Fused-CT-Pathology%20spreadsheet.xlsx?version=1&modificationDate=1532544176723&api=v2\">/download/attachments/39878702/Lung%20Fused-CT-Pathology%20spreadsheet.xlsx?version=1&modificationDate=1532544176723&api=v2</a>"
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39878702/Lung%20Fused-CT-Pathology%20spreadsheet.xlsx?version=1&modificationDate=1532544176723&api=v2\">Lung Fused-CT-Pathology spreadsheet.xlsx</a>: 32c331abf73bd2cabf819fb06fdcbdcf",
+    "Notes": ""
   },
   {
     "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.vohlekok",
-    "DataType": "Clinical (XLS, zip)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/33948305/ACRIN%20FMISO%20Brain%206684%20TCIA%20Anonymized.zip?version=1&modificationDate=1568654527692&api=v2\">/download/attachments/33948305/ACRIN%20FMISO%20Brain%206684%20TCIA%20Anonymized.zip?version=1&modificationDate=1568654527692&api=v2</a>"
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948305/ACRIN%20FMISO%20Brain%206684%20TCIA%20Anonymized.zip?version=1&modificationDate=1568654527692&api=v2\">ACRIN FMISO Brain 6684 TCIA Anonymized.zip</a>: 5f7938760dfd9ecdf637272c17344445",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-BLCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056367/gdc_download_clincal_blca.tar.gz?version=1&modificationDate=1590766883945&api=v2\">gdc_download_clincal_blca.tar.gz</a>: d514ad5b54eb578e5f7feac80b7f3833",
+    "Notes": ""
   },
   {
     "Collection": "QIN-BREAST-02",
     "DOI": "https://doi.org/10.7937/TCIA.2019.4cfm06rr",
-    "DataType": "Clinical Data (XLSX)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/52756887/QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx?version=1&modificationDate=1581525332526&api=v2\">/download/attachments/52756887/QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx?version=1&modificationDate=1581525332526&api=v2</a>"
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52756887/QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx?version=1&modificationDate=1581525332526&api=v2\">QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx</a>: 5959ff5cf06287c6dfb1007b030c63a7",
+    "Notes": ""
   },
   {
     "Collection": "NSCLC-Cetuximab (RTOG-0617)",
     "DOI": "https://doi.org/10.7937/TCIA.2018.jze75u7v",
-    "DataType": "Clinical Data on NCTN Data Archive",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"https://nctn-data-archive.nci.nih.gov/node/285\">https://nctn-data-archive.nci.nih.gov/node/285</a>"
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-UCEC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039602/gdc_download_clinical_ucec.tar.gz?version=1&modificationDate=1590775029596&api=v2\">gdc_download_clinical_ucec.tar.gz</a>: 359ff4cfc41eaf72d9d5677b02a29427",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-HNSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/11829589/gdc_download_clinical_hnsc.tar.gz?version=1&modificationDate=1590772486422&api=v2\">gdc_download_clinical_hnsc.tar.gz</a>: 9dc86b2e799ecda9c3d3f847f06b7dd4",
+    "Notes": ""
   },
   {
     "Collection": "HNSCC-3DCT-RT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.13upr2xf",
-    "DataType": "Clinical Data (xlsb, 34kb)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/39879146/MDPA%20Patient%20Data%20Final%20-%20Accepted.xlsb?version=1&modificationDate=1549495716390&api=v2\">/download/attachments/39879146/MDPA%20Patient%20Data%20Final%20-%20Accepted.xlsb?version=1&modificationDate=1549495716390&api=v2</a>"
+    "Format": ".xlsb",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879146/MDPA%20Patient%20Data%20Final%20-%20Accepted.xlsb?version=1&modificationDate=1549495716390&api=v2\">MDPA Patient Data Final - Accepted.xlsb</a>: fb78d68206332a4f5bb937ee0202eb8b",
+    "Notes": ""
   },
   {
     "Collection": "Head-Neck-PET-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.8oje5q00",
-    "DataType": "Clinical Data (XLS)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/24283867/INFOclinical_HN_Version2_30may2018.xlsx?version=1&modificationDate=1528212498494&api=v2\">/download/attachments/24283867/INFOclinical_HN_Version2_30may2018.xlsx?version=1&modificationDate=1528212498494&api=v2</a>"
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24283867/INFOclinical_HN_Version2_30may2018.xlsx?version=1&modificationDate=1528212498494&api=v2\">INFOclinical_HN_Version2_30may2018.xlsx</a>: ab58a52284d45dc1cc644754bcf5b107",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-KIRP",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/11829555/gdc_download_clinical_kirp.tar.gz?version=1&modificationDate=1590772871216&api=v2\">gdc_download_clinical_kirp.tar.gz</a>: 8b8a4a52704dd33be681df471cce04ab",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-LIHC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6885436/gdc_download_clinical_lihc.tar.gz?version=1&modificationDate=1590774070337&api=v2\">gdc_download_clinical_lihc.tar.gz</a>: 3abde6100828f8468b9211b184e8bec9",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-LUAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6881474/gdc_download_clinical_luad.tar.gz?version=1&modificationDate=1590774168840&api=v2\">gdc_download_clinical_luad.tar.gz</a>: 7d33f2520c24aeac468bca790952698c",
+    "Notes": ""
   },
   {
     "Collection": "TCGA-LUSC",
     "DOI": "https://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
-    "DataType": "Clinical Data (TXT)",
-    "Format": "NA",
-    "Compression": "None",
-    "IsExternal": "true",
-    "Links": "<a href=\"/download/attachments/16056484/gdc_download_clinical_lusc.tar.gz?version=1&modificationDate=1590774261961&api=v2\">/download/attachments/16056484/gdc_download_clinical_lusc.tar.gz?version=1&modificationDate=1590774261961&api=v2</a>"
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056484/gdc_download_clinical_lusc.tar.gz?version=1&modificationDate=1590774261961&api=v2\">gdc_download_clinical_lusc.tar.gz</a>: bc249d40b52e10fdaf4d8f2f6f0a8647",
+    "Notes": ""
+  },
+  {
+    "Collection": "IvyGAP",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.XLwaN6nL",
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "ISPY1 (ACRIN 6657)",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/20643859/I-SPY%201%20All%20Patient%20Clinical%20and%20Outcome%20Data.xlsx?version=1&modificationDate=1474583157883&api=v2\">I-SPY 1 All Patient Clinical and Outcome Data.xlsx</a>: 1dc4dd50a428d328b20f8af115eba5e6",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-PRAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6884022/gdc_download_clinical_prad.tar.gz?version=1&modificationDate=1590774478756&api=v2\">gdc_download_clinical_prad.tar.gz</a>: 072fade5a23ea380978536b53bcc0534",
+    "Notes": ""
+  },
+  {
+    "Collection": "Breast-MRI-NACT-Pilot",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.QHSYHJKY",
+    "Format": ".xls",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/22513764/SharedClinicalAndRFS.xls?version=2&modificationDate=1459899960400&api=v2\">SharedClinicalAndRFS.xls</a>: 6d25889fa3f410b16fcf73940d771cef",
+    "Notes": ""
+  },
+  {
+    "Collection": "Soft-tissue-Sarcoma",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/21266533/INFOclinical_STS.xlsx?version=1&modificationDate=1452628070860&api=v2\">INFOclinical_STS.xlsx</a>: e91b7ca8d97139b8e9f7c2e76c179227",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-THCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.9ZFRVF1B",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16712011/gdc_download_clinical_thca.tar.gz?version=1&modificationDate=1590774753394&api=v2\">gdc_download_clinical_thca.tar.gz</a>: ef950700e747e6710dee4a8876628d5f",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-BRCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539225/gdc_download_clinical_brca.tar.gz?version=1&modificationDate=1590767151599&api=v2\">gdc_download_clinical_brca.tar.gz</a>: 23ff2419c3be801d1a852fa1e09a00ef",
+    "Notes": ""
+  },
+  {
+    "Collection": "LungCT-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
+    "Format": ".docx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039728/LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx?version=1&modificationDate=1451937423913&api=v2\">LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx</a>: 435a152e3ce0e70330cd4cd40dbdf9b3",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-SARC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039714/gdc_download_clinical_sarc.tar.gz?version=1&modificationDate=1590774670693&api=v2\">gdc_download_clinical_sarc.tar.gz</a>: 9633e7e8930a4d2463088e621beccda8",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-CESC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039396/gdc_download_clinical_cesc.tar.gz?version=1&modificationDate=1590767336854&api=v2\">gdc_download_clinical_cesc.tar.gz</a>: 3084620142891177321ccf0de46c56fc",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-ESCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039398/gdc_download_clinical_esca.tar.gz?version=1&modificationDate=1590770178675&api=v2\">gdc_download_clinical_esca.tar.gz</a>: e060957933895e3f65e3265db11fbab3",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-STAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039400/gdc_download_clinical_stad.tar.gz?version=1&modificationDate=1590774931139&api=v2\">gdc_download_clinical_stad.tar.gz</a>: c5cc10ec4b316b52b67fdd41c6f0abc6",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-OV",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/7569497/gdc_download_clinical_ov.tar.gz?version=1&modificationDate=1590774363626&api=v2\">gdc_download_clinical_ov.tar.gz</a>: 32edbbd2fddacf0a4cf8c529a7db74b2",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-COAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HJJHBOXZ",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16712033/gdc_download_clinical_coad.tar.gz?version=1&modificationDate=1590769986035&api=v2\">gdc_download_clinical_coad.tar.gz</a>: f8a36b2f04ca9efa72ccdad94dd3d125",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-KIRC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/5800386/gdc_download_clinical_kirc.tar.gz?version=1&modificationDate=1590772768982&api=v2\">gdc_download_clinical_kirc.tar.gz</a>: 6e384156e440d0fc458d45f18a71e474",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-LGG",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/5309188/gdc_download_clinical_lgg.tar.gz?version=1&modificationDate=1590772985546&api=v2\">gdc_download_clinical_lgg.tar.gz</a>: 840339123f5f1a88c30d3e3cb59c364c",
+    "Notes": ""
+  },
+  {
+    "Collection": "NSCLC-Radiomics-Genomics",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
+    "Format": ".xls",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056856/Lung3.metadata.xls?version=1&modificationDate=1404237338168&api=v2\">Lung3.metadata.xls</a>: 615dcbbe21f1997c53075eda26d161e7",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-KICH",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056331/gdc_download_clinical_kich.tar.gz?version=1&modificationDate=1590772624962&api=v2\">gdc_download_clinical_kich.tar.gz</a>: 60ab3a303a9782a595a21690209b547b",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-READ",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16711737/gdc_download_clinical_read.tar.gz?version=1&modificationDate=1590774565005&api=v2\">gdc_download_clinical_read.tar.gz</a>: 16eb575525c7fcd3dbe519c69097841b",
+    "Notes": ""
+  },
+  {
+    "Collection": "TCGA-GBM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/1966258/gdc_download_clinical_gbm.tar.gz?api=v2\">gdc_download_clinical_gbm.tar.gz</a>: 9f6f4eaf54edac2318143e965d0d63e3",
+    "Notes": ""
+  },
+  {
+    "Collection": "Prostate-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3277254/ProstateDiagnosis_metadata-05-07-2012.xlsx?version=1&modificationDate=1336416623725&api=v2\">ProstateDiagnosis_metadata-05-07-2012.xlsx</a>: bc5a4fede88789b4002a54640da5063a",
+    "Notes": ""
+  },
+  {
+    "Collection": "Breast Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?version=1&modificationDate=1311002325320&api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
+    "Notes": ""
+  },
+  {
+    "Collection": "REMBRANDT",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
+    "Format": ".xlsx",
+    "External": true,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539229/clinical_2014-01-16.xlsx?version=2&modificationDate=1629237658680&api=v2\">clinical_2014-01-16.xlsx</a>: 425f1362f72fc34619c8166e13a7bdcb",
+    "Notes": ""
   }
 ]
