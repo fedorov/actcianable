@@ -64,7 +64,7 @@ for row in rows:
       if (data_type.lower().find('clinical')>-1):
 
         clinical_found = True
-        print(collection_name+" "+data_type)
+        #print(collection_name+" "+data_type)
         hrefArr = tds[1].find_all('a', href=True)
         for href in hrefArr:
           download_file_found_in_row=False
@@ -87,6 +87,7 @@ for row in rows:
             filenm = head_info.headers['Content-Disposition'].split("filename=")[1].replace('"', '')
             ext = os.path.splitext(filenm)[1].lower()
             data_formats.add(ext)
+          # clinical data may in a json resource
           elif ('Content-Type' in head_info.headers) and (head_info.headers['Content-Type'].find('json')>-1):
             some_clinical_downloadable = True
             download_file_found_in_row = True
@@ -135,7 +136,7 @@ for row in rows:
   if len(trow):
     outTable= outTable + [trow]
 
-print(len(outTable))
+#print(len(outTable))
 with open("output/clinical_collections.json", "w") as f:
   f.write(json.dumps(outTable, indent=2))
 
