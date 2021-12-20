@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "GLIS-RT",
+    "DOI": "https://doi.org/10.7937/TCIA.T905-ZQ20",
+    "CancerType": "Glioblastoma and Low-Grade Glioma",
+    "Location": "Brain ",
+    "Species": "Human",
+    "Subjects": "230",
+    "ImageTypes": "CT, MR, REG, RTSTRUCT",
+    "SupportingData": "",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2021-12-20"
+  },
+  {
     "Collection": "Ovarian Bevacizumab Response",
     "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
     "CancerType": "Ovarian Cancer",
