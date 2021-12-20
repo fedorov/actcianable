@@ -34,6 +34,7 @@ jobs:
         python scrapers/get_collections.py
         cat output/collections.json
         python scrapers/get_analysis_collections.py
+        python scrapers/get_clinical.py
         python scrapers/make_views.py
     - name: Get current date
       id: date
