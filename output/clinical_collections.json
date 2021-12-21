@@ -1,5 +1,14 @@
 [
   {
+    "Collection": "Ovarian Bevacizumab Response",
+    "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20CA125%20data.xlsx?version=1&modificationDate=1635173486180&api=v2\">Final CA125 data.xlsx</a>: b02ace8bdd63da7ab0d6596b2617bc30, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93",
+    "Notes": ""
+  },
+  {
     "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
     "Format": ".zip",
