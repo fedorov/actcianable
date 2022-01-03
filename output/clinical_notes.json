@@ -30,6 +30,7 @@
   "QIN-HeadNeck":"one xlsx file with two sheets with similar clinical two for two patient sets",
   "REMBRANDT":"One xlsx file with one sheet with clinical data",
   "Soft-tissue-Sarcoma":"One xlsx file with two sheets with complimentary data",
-  "TCGA":"clinical and biomedical data in huge and confusing tar zip files. But I suppose we are not redoing TCGA clinical data"
+  "TCGA":"clinical and biomedical data in huge and confusing tar zip files. But I suppose we are not redoing TCGA clinical data",
+  "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)": "Excel files in the zip files are saved in a format that doesn't parse (not easily, anyway) by pandas. Need to manually re-save into proper xls before parsing."
 
 }
