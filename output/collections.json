@@ -26,6 +26,19 @@
     "Updated": "2021-12-17"
   },
   {
+    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
+    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "385",
+    "ImageTypes": "MR, SEG",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2021-12-17"
+  },
+  {
     "Collection": " Bone Marrow Cytomorphology ",
     "DOI": "https://doi.org/10.7937/TCIA.AXH3-T579",
     "CancerType": "Leukemia & Lymphoma Cancers",
@@ -232,19 +245,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2021-06-01"
-  },
-  {
-    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
-    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "",
-    "ImageTypes": "MR",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2021-05-28"
   },
   {
     "Collection": "CT Images in COVID-19",
