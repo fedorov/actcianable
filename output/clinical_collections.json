@@ -108,8 +108,8 @@
     "Notes": ""
   },
   {
-    "Collection": "CALGB50303",
-    "DOI": "https://doi.org/10.7937/CM65-A013",
+    "Collection": "AHEP0731",
+    "DOI": "https://doi.org/10.7937/F2DB-8826",
     "Format": "",
     "External": true,
     "Download": "no",
@@ -117,8 +117,8 @@
     "Notes": ""
   },
   {
-    "Collection": "AHEP0731",
-    "DOI": "https://doi.org/10.7937/F2DB-8826",
+    "Collection": "CALGB50303",
+    "DOI": "https://doi.org/10.7937/CM65-A013",
     "Format": "",
     "External": true,
     "Download": "no",
@@ -396,6 +396,15 @@
     "Notes": "One xlsx file with 5 sheets. Different patients, same clinical data on each"
   },
   {
+    "Collection": "TCGA-LUAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
+    "Format": ".gz",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6881474/gdc_download_clinical_luad.tar.gz?version=1&modificationDate=1590774168840&api=v2\">gdc_download_clinical_luad.tar.gz</a>: 7d33f2520c24aeac468bca790952698c",
+    "Notes": ""
+  },
+  {
     "Collection": "TCGA-KIRP",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
     "Format": ".gz",
@@ -411,15 +420,6 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6885436/gdc_download_clinical_lihc.tar.gz?version=1&modificationDate=1590774070337&api=v2\">gdc_download_clinical_lihc.tar.gz</a>: 3abde6100828f8468b9211b184e8bec9",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-LUAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6881474/gdc_download_clinical_luad.tar.gz?version=1&modificationDate=1590774168840&api=v2\">gdc_download_clinical_luad.tar.gz</a>: 7d33f2520c24aeac468bca790952698c",
     "Notes": ""
   },
   {
@@ -495,15 +495,6 @@
     "Notes": ""
   },
   {
-    "Collection": "LungCT-Diagnosis",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
-    "Format": ".docx",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039728/LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx?version=1&modificationDate=1451937423913&api=v2\">LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx</a>: 435a152e3ce0e70330cd4cd40dbdf9b3",
-    "Notes": "Clinical data in a doc file! Can be parsed manually"
-  },
-  {
     "Collection": "TCGA-SARC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
     "Format": ".gz",
@@ -511,6 +502,15 @@
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039714/gdc_download_clinical_sarc.tar.gz?version=1&modificationDate=1590774670693&api=v2\">gdc_download_clinical_sarc.tar.gz</a>: 9633e7e8930a4d2463088e621beccda8",
     "Notes": ""
+  },
+  {
+    "Collection": "LungCT-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
+    "Format": ".docx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039728/LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx?version=1&modificationDate=1451937423913&api=v2\">LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx</a>: 435a152e3ce0e70330cd4cd40dbdf9b3",
+    "Notes": "Clinical data in a doc file! Can be parsed manually"
   },
   {
     "Collection": "TCGA-CESC",
