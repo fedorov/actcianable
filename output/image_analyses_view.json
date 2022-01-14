@@ -636,5 +636,16 @@
     "Comment": "",
     "CollectionType": "original",
     "DICOMtarget": ""
+  },
+  {
+    "Collection": "CATCH",
+    "DOI": "https://doi.org/10.7937/TCIA.2M93-FX66",
+    "Subjects": "282",
+    "Updated": "2022-01-13",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
   }
 ]

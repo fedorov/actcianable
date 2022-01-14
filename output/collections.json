@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "CATCH",
+    "DOI": "https://doi.org/10.7937/TCIA.2M93-FX66",
+    "CancerType": "Skin Cancer",
+    "Location": "Skin",
+    "Species": "Canine",
+    "Subjects": "282",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-01-13"
+  },
+  {
     "Collection": "GLIS-RT",
     "DOI": "https://doi.org/10.7937/TCIA.T905-ZQ20",
     "CancerType": "Glioblastoma and Low-Grade Glioma",
