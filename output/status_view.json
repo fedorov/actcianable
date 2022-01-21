@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "AREN0533",
+    "DOI": "https://doi.org/10.7937/SJEZ-CJ78",
+    "Access": "Limited",
+    "Updated": "2022-01-20",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CATCH",
     "DOI": "https://doi.org/10.7937/TCIA.2M93-FX66",
     "Access": "Public",
