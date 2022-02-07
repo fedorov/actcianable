@@ -1,0 +1,72 @@
+cn,PRE1,PRE2,PRE3,PRE4,PRE5,PRE6,PRE7,PRE11,PRE12,PRE13,PRE14,PRE15,PRE16,PRE17,PRE18,PRE19,PRE21,rec,PRe5d,PRe6d,PRe21d
+2,5,,,,2010,2011,"Per protocol, call patient 24 hours (+/-4 hours) after imaging in Visit 3.",4,,1,1,1,1,1,2,Visit 3 phone call,2011,339,19,301,301
+2,2,,88,calibration not performed according to protocol,2010,2011,Well counter calibration performed after date of imaging (*******),2,,2,2,1,1,1,1,,2011,339,6,300,300
+2,2,,88,calibration not performed according to protocol,2010,2011,PET Scanner calibration performed after date of imaging,2,,1,2,1,1,1,1,,2011,339,6,301,301
+2,2,,2,,2010,2010,equipment failure for MRS sequence failure to reconstruct and recover (software),4,,1,1,1,1,2,1,,2011,370,17,17,364
+2,5,,,,2010,2012,"for Visti 2, the administered activity in the syringe was 4.99mCi. Per protocol, the FMISO specified dose administration range is 5.103-6.237mCi.",2,,1,1,1,1,1,2,FMISO dose administration,2012,846,1,687,840
+2,5,,,,2010,2012,"For Visit 3, the administered activity in the syringe was 4.537mCi. Per protocol, the FMISO specified dose administration range is 5.103-6.237mCi.",4,,1,1,1,1,1,2,FMISO dose administration,2012,846,17,687,840
+2,2,,88,T1 Map sequence not done.,2010,2012,T1 Map sequence not performed per protocol specifications.,2,,1,1,1,1,2,1,,2012,846,1,687,840
+3,2,,2,,2010,2010,measurement failed and data is no good due to shim bx positioning error,4,,1,1,1,1,2,1,,2011,-164,27,27,200
+3,2,,1,,2010,2011,"incorrect flip angles were used for T1 mapping (we used 10, 20, 75) we should have used 2, 10, 15, 20 and 30",4,,1,1,1,1,2,1,,2011,200,27,199,200
+3,2,,1,,2010,2010,"incorrect flip angles were used  for T1 mapping (we used 10, 20, 75) we should have used 2, 10, 15, 20, and 30",2,,1,1,1,1,2,1,,2011,206,0,-166,200
+3,5,,,,2010,2010,Blood sampling was not completed due to vein collapse. AE form with details of the incidence has been submitted to ACRIN.,2,,2,1,1,1,1,1,,2011,259,0,0,259
+3,2,,1,,2010,2011,"The PET scan was initiated 95 minutes after injection of FMISO, whereas the protocol requires the injection to occur between 100 and 120 minutes after injection.",3,,1,2,1,1,1,1,,2011,259,3,234,259
+3,2,,88,PET emission scan data lost,2010,2010,PET emission scan data was lost due to a malfunction of the scanner which caused it to shut down after scan had been initiated,2,,1,2,1,1,1,1,,2011,259,0,0,259
+3,5,,,,2010,2012,Chemotherapy was administered prior to Visit 2A PET scanning.,3,,1,1,1,1,1,2,Chemotherapy dosing,2012,682,3,523,676
+3,5,,,,2010,2012,"Per the EX CRF for Visit 3, the administered activity was 6.81mCi. Participant weight per MR and TA CRF was 59.6kg therefore protocol specified dose range should be 5.364-6.556mCi.",4,,1,1,1,1,1,2,FMISO dose administration,2012,682,27,523,676
+3,2,,1,,2010,2012,"CRF indicated BOLD imaging was performed, but O2 saturation levels were not obtained per protocol specifications.",2,,1,1,1,1,2,1,,2012,682,0,523,676
+3,2,,1,,2010,2012,"CRF indicates BOLD imaging sequences were performed, but O2 saturation levels were not obtained per protocol specifications",2,,1,1,1,1,2,1,,2012,682,0,523,676
+3,2,,1,,2010,2012,"The CRF indicates BOLD imaging sequences were performed, but )2 saturation levels were not obtained per protocol specifications.",4,,1,1,1,1,2,1,,2012,682,27,523,676
+3,2,,1,,2010,2012,"The CRF indicates BOLD imaging sequence was performed, but O2 saturation levels were not obtained per protocol specifications.",5,,1,1,1,1,2,1,,2012,682,73,523,676
+3,2,,1,,2010,2012,"The CRF indicates BOLD imaging sequences were performed, but O2 saturation levels were not obtained per protocol specifications.",5,,1,1,1,1,2,1,,2012,682,73,523,676
+4,88,MMSE not done,,,2011,2011,MMSE was not done as part of routine clinical visit prior to patient entry into the study.,1,,1,1,1,1,1,2,MMSE,2011,15,-4,1,2
+4,1,,,,2010,2010,Post-op CT was done instead of an MRI prior to entry into study.  Patient is still eligible as tumor volume is >4cm.,1,,1,1,1,1,2,1,,2011,23,-12,-12,23
+4,2,,1,,2011,2012,FMISO dose outside protocol specifications. Participant's weight was measured at 103.2kg; but allowable dose with 20% variance is 5.6-8.4mCi. Injected dose was 5.51mCi.,5,,1,2,1,1,1,1,,2013,792,71,640,792
+5,2,,1,,2011,2012,"CRF indicates BOLD imaging sequences were performed, but O2 saturation levels were not obtained per protocol specifications for BOLD imaging.",2,,1,1,1,1,2,1,,2012,501,1,342,495
+6,2,,88,Visit 2a not completed due to time constraints,2011,2011,Visit 2a was not completed,3,,1,2,1,1,2,1,,2012,356,8,92,356
+6,5,,,,2011,2012,Chemotheraphy initiated prior to visit 2 baseline imaging.,2,,1,1,1,1,1,2,Chemotheraphy administration,2012,467,1,308,461
+6,2,,1,,2011,2012,"CRF indicates BOLD imaging sequences  were performed, but O2 saturation levels were not obtained per protocol specifications.",2,,1,1,1,1,2,1,,2012,467,1,308,461
+7,2,,2,,2011,2011,Spectrocopy was lost,1,,1,1,1,1,2,1,,2011,88,4,4,88
+7,5,,,,2011,2012,MMSE not clinically indicated for Visit 1,1,,1,1,1,1,1,2,Study Procedures,2012,298,-25,279,279
+8,2,,88,spectroscopy invalid format,2011,2011,spectroscopy scan saved in an invalid format-un analyzable,2,,1,1,1,1,2,1,,2011,91,4,82,91
+8,2,,1,,2011,2011,Injection and scan time was less than 100 min as per protocol,2,,1,2,1,1,1,1,,2011,95,0,0,73
+9,2,,1,,2011,2011,Protocol Variation-Injection to Scan Interval < 100 min,2,,1,2,1,1,1,1,,2011,68,0,0,68
+9,2,,88,spectroscopy invalid format,2011,2011,spectroscopy scan saved in an invalid format-unanalyzable,2,,1,1,1,1,2,1,,2011,93,0,77,93
+10,2,,88,Post imaging vitals not recorded,2011,2012,PET technologist responsible for visit and data did not record post-imaging vital signs.,2,,1,2,1,1,1,1,,2012,221,8,216,216
+11,5,,,,2011,2012,MMSE not administered at baseline visit,1,,1,1,1,1,1,2,MMSE,2013,593,2,421,593
+11,5,,,,2011,2012,MMSE not administered at baseline visit,1,,1,1,1,1,1,2,MMSE,2013,721,2,421,721
+12,2,,88,scan start time 12 minutes over 110+/- minutes,2011,2011,"PI aware of time excess, instrudted to start scan.  Scan start time delayed due to scanner in use with another patient.",2,,1,2,1,1,1,1,,2012,172,6,6,167
+12,2,,2,,2011,2012,Images uploaded as MRI were incorrectly labeled and were actually incorrect images. MRI staff attempted to retrieve correct images but without success.,2,,,,,,2,,,2012,302,1,260,271
+12,2,,88,safety assessment,2011,2012,safety assessment telephone call made in 24 hour period after FMISO scan but less than 24 hours after scan.,2,,1,2,1,1,1,1,,2012,495,7,463,481
+13,5,,,,2011,2012,The 24-hour AE Assessment phonecall was not performed per protocol specifications.,2,,1,1,1,1,1,2,24-hour AE Assessment,2012,362,13,202,355
+13,2,,1,,2011,2012,"The CRF indicates BOLD imaging sequence was performed, but O2 saturation levels were not obtained per protocol specifications.",2,,1,1,1,1,2,1,,2012,362,13,202,355
+15,5,,,,2011,2012,MMSE not administered prior to scan,1,,1,1,1,1,1,2,MMSE not administered prior to scan,2013,564,-2,391,564
+15,5,,,,2011,2012,24-hour post-FMISO phone call was not made,2,,1,1,1,1,1,2,24-hour post-FMISO phone call was not made,2013,564,-1,391,564
+15,5,,,,2011,2011,timing of blood draws were not per protocol due to problems,2,,2,1,1,1,1,1,,2013,564,6,6,564
+17,2,,88,subject weight,2011,2011,PET Tech utilized last recorded weight obtained in institution.,2,,1,2,1,1,1,1,,2012,431,7,7,422
+17,5,,,,2013,2013,MMSE not completed due to patient's status,6,8,1,1,1,1,1,2,MMSE,2013,609,605,605,605
+17,2,,1,,2013,2013,21 month fu MRI not performed on ACRIN,6,8,1,1,1,1,2,1,,2013,613,605,605,605
+19,88,MMSE  not done,,,2011,2011,MMSE was not done as part of routine clinical visit prior into patient entry into study because Karnofsky score was 90. MMSE was not felt to be clinically indicated.,1,,,,,,,2,MMSE,2011,8,-13,-13,0
+19,2,,1,,2011,2011,FMISO PET scan was started at 90 minutes post-injection,2,,1,2,1,1,1,1,,2011,21,0,15,21
+20,5,,,,2011,2011,Unable to draw blood from IV during scan,2,,2,1,1,1,1,1,,2011,23,1,1,23
+20,5,,,,2011,2012,MMSE was not performed at V1,1,,1,1,1,1,1,2,MMSE,2014,820,0,183,820
+22,5,,,,2012,2012,"Second set of vitals, post-scanning, were not done.",2,,1,1,1,1,1,2,Viatls post-FMISO scan.,2012,119,1,1,2
+22,5,,,,2012,2012,"****, 22 was imaged on *******, but due to **** protocol delays, did not begin treatment until *******, day 19.",6,2,1,1,1,1,1,2,Internal audit query regarding start date of treatment to verify it was begun in 14-day period after imaging date.,2012,119,20,105,117
+24,5,,,,2012,2012,MMSE not done at V1 because it was not clinically indicated,1,,1,1,1,1,1,2,V1,2014,799,0,0,729
+26,5,,,,2012,2012,Patient did not take MMSE for visit 1,1,,1,1,1,1,1,2,MMSE,2012,20,6,20,20
+26,5,,,,2012,2012,pregnancy test not given,1,,1,1,2,1,1,1,,2012,20,6,20,20
+27,88,MMSE not done,,,2012,2012,MMSE was not done as part of routine clinical visit prior to patient enrollment.,1,,1,1,1,1,1,2,MMSE,2012,13,-15,-2,-2
+28,88,Post-op MRI not done,,,2012,2012,Post-op CT was done instead of an MRI prior to entry into study,1,,1,1,1,1,2,1,,2012,20,-16,-16,0
+29,88,KPS not done 7 days prior to enrollment,,,2012,2012,Patient was assessed for KPS on *******;but was not enrolled until,1,,,,,,,2,KPS,2012,209,0,177,209
+29,88,KPS not done within 7 days of scan,,,2012,2012,Patient was assessed for KPS on *******;but this was done more,2,,,,,,,2,KPS,2012,209,1,177,209
+32,2,,88,2 blood samples not obtained during PET imaging due to loss of IV access,2012,2010,2 blood samples not obtained during PET imaging due to loss of IV access,2,,2,1,1,1,1,1,,2012,12,4,-727,5
+32,2,,88,MR Spectroscopy not done,2012,2012,MR Spectroscopy not done due to patient's refusal,2,,1,1,1,1,2,1,,2012,110,6,6,110
+32,2,,88,subject weight,2012,2012,PET tech utilized last weight obtined in the institution.,2,,1,2,1,1,1,1,,2012,224,4,4,215
+33,2,,1,,2012,2012,PET imaging began 94 mins after FMISO injection for Case 33 at visit 2.,2,,1,2,1,1,1,1,,2012,15,1,1,15
+33,88,KPS not done 7 days prior to enrollment,,,2012,2012,Patient was assessed for KPS on *******;but was enrolled in the,1,,,,,,,2,KPS,2012,188,0,155,188
+33,88,KPS not done within 7 days of scan,,,2012,2012,Patient was assessed for KPS on *******; but was scanned on,2,,,,,,,2,KPS,2012,188,1,155,188
+42,2,,88,Unalbe to obtain second FMISO blood sample,2013,2013,IV dislocated after first sample.  Unable to obtain second sample.,2,,2,1,1,1,1,1,,2013,19,14,14,14
+44,2,,88,MRI not performed on ACRIN approved scanner,2013,2013,MRI not performed on ACRIN approved scanner,6,2,1,1,1,1,2,1,,2013,82,77,77,77
+45,2,,1,,2013,2013,The injection to scan time was longer than 120 min because of the scanner malfunctioned.,2,,2,2,1,1,1,1,,2013,13,6,6,13
+45,2,,88,Follow up MRI scan performed on non ACRIN approved scanner,2013,2013,Follow up MRI scan performed on non ACRIN approved scanner,6,2,1,1,1,1,2,1,,2013,90,78,78,78
+46,2,,1,,2013,2013,We were unable to obtain blood samples during the scan.,2,,2,1,1,1,1,1,,2013,11,4,4,11
