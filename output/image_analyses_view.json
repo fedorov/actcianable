@@ -618,8 +618,8 @@
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
     "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
-    "Subjects": "",
-    "Updated": "2021-05-28",
+    "Subjects": "385",
+    "Updated": "2021-12-17",
     "Format": "",
     "DICOMstatus": "",
     "Comment": "",
@@ -631,6 +631,17 @@
     "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
     "Subjects": "1,384",
     "Updated": "2021-08-11",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
+  },
+  {
+    "Collection": "CATCH",
+    "DOI": "https://doi.org/10.7937/TCIA.2M93-FX66",
+    "Subjects": "282",
+    "Updated": "2022-01-13",
     "Format": "",
     "DICOMstatus": "",
     "Comment": "",

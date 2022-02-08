@@ -1,5 +1,44 @@
 [
   {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "CancerType": "Various",
+    "Location": "Head, Chest, Abdomen",
+    "Species": "Human",
+    "Subjects": "300",
+    "ImageTypes": "CT",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2022-01-26"
+  },
+  {
+    "Collection": "AREN0533",
+    "DOI": "https://doi.org/10.7937/SJEZ-CJ78",
+    "CancerType": "Wilms Tumor",
+    "Location": "Kidney",
+    "Species": "Human",
+    "Subjects": "294",
+    "ImageTypes": "CT, CR, MR, US",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2022-01-20"
+  },
+  {
+    "Collection": "CATCH",
+    "DOI": "https://doi.org/10.7937/TCIA.2M93-FX66",
+    "CancerType": "Skin Cancer",
+    "Location": "Skin",
+    "Species": "Canine",
+    "Subjects": "282",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-01-13"
+  },
+  {
     "Collection": "GLIS-RT",
     "DOI": "https://doi.org/10.7937/TCIA.T905-ZQ20",
     "CancerType": "Glioblastoma and Low-Grade Glioma",
@@ -11,6 +50,19 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2021-12-20"
+  },
+  {
+    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
+    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "385",
+    "ImageTypes": "MR, SEG",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2021-12-17"
   },
   {
     "Collection": "Ovarian Bevacizumab Response",
@@ -65,12 +117,12 @@
     "Updated": "2021-11-29"
   },
   {
-    "Collection": "APOLLO-5-THYM",
-    "DOI": "https://doi.org/10.7937/tcia.0pg4-nh82",
-    "CancerType": "Thymoma Cancer",
-    "Location": "Thymus",
+    "Collection": "APOLLO-5-ESCA",
+    "DOI": "https://doi.org/10.7937/n69a-7a26",
+    "CancerType": "Esophageal Squamous Cell Carcinoma",
+    "Location": "Esophagus",
     "Species": "Human",
-    "Subjects": "1",
+    "Subjects": "2",
     "ImageTypes": "CT",
     "SupportingData": "",
     "Access": "Public",
@@ -91,12 +143,12 @@
     "Updated": "2021-11-24"
   },
   {
-    "Collection": "APOLLO-5-ESCA",
-    "DOI": "https://doi.org/10.7937/n69a-7a26",
-    "CancerType": "Esophageal Squamous Cell Carcinoma",
-    "Location": "Esophagus",
+    "Collection": "APOLLO-5-THYM",
+    "DOI": "https://doi.org/10.7937/tcia.0pg4-nh82",
+    "CancerType": "Thymoma Cancer",
+    "Location": "Thymus",
     "Species": "Human",
-    "Subjects": "2",
+    "Subjects": "1",
     "ImageTypes": "CT",
     "SupportingData": "",
     "Access": "Public",
@@ -112,7 +164,7 @@
     "Subjects": "260",
     "ImageTypes": "CT, PT, MR, NM",
     "SupportingData": "Clinical",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2021-11-23"
   },
@@ -234,19 +286,6 @@
     "Updated": "2021-06-01"
   },
   {
-    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
-    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "",
-    "ImageTypes": "MR",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2021-05-28"
-  },
-  {
     "Collection": "CT Images in COVID-19",
     "DOI": "http://doi.org/10.7937/tcia.2020.gqry-nc81",
     "CancerType": "COVID-19 (non-cancer)",
@@ -312,19 +351,6 @@
     "Updated": "2021-04-06"
   },
   {
-    "Collection": "CALGB50303",
-    "DOI": "https://doi.org/10.7937/CM65-A013",
-    "CancerType": "Lymphoma",
-    "Location": "Various",
-    "Species": "Human",
-    "Subjects": "155",
-    "ImageTypes": "CT, PT, OT",
-    "SupportingData": "Clinical",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2021-03-30"
-  },
-  {
     "Collection": "AHEP0731",
     "DOI": "https://doi.org/10.7937/F2DB-8826",
     "CancerType": "Hepatoblastoma",
@@ -332,6 +358,19 @@
     "Species": "Human",
     "Subjects": "80",
     "ImageTypes": "CT, MR, US",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2021-03-30"
+  },
+  {
+    "Collection": "CALGB50303",
+    "DOI": "https://doi.org/10.7937/CM65-A013",
+    "CancerType": "Lymphoma",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "155",
+    "ImageTypes": "CT, PT, OT",
     "SupportingData": "Clinical",
     "Access": "Limited",
     "Status": "Complete",
@@ -346,7 +385,7 @@
     "Subjects": "242",
     "ImageTypes": "MR, RTSTRUCT, RTPLAN, RTDOSE",
     "SupportingData": "Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2021-03-17"
   },
@@ -567,7 +606,7 @@
     "Subjects": "279",
     "ImageTypes": "PT, CT, SR, SEG, RWV",
     "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2020-09-16"
   },
@@ -580,7 +619,7 @@
     "Subjects": "123",
     "ImageTypes": "MR, CT",
     "SupportingData": "Clinical",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2020-09-09"
   },
@@ -632,7 +671,7 @@
     "Subjects": "137",
     "ImageTypes": "CT, PT, RTSTRUCT, SEG",
     "SupportingData": "Clinical",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2020-07-29"
   },
@@ -645,7 +684,7 @@
     "Subjects": "55",
     "ImageTypes": "MR, RTSTRUCT",
     "SupportingData": "",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2020-07-21"
   },
@@ -663,19 +702,6 @@
     "Updated": "2020-07-15"
   },
   {
-    "Collection": "CPTAC-CM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
-    "CancerType": "Cutaneous Melanoma",
-    "Location": "Skin",
-    "Species": "Human",
-    "Subjects": "94",
-    "ImageTypes": "MR, CT, CR, PT, Pathology",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-06-30"
-  },
-  {
     "Collection": "CPTAC-HNSCC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
     "CancerType": "Head and Neck Cancer",
@@ -684,6 +710,19 @@
     "Subjects": "112",
     "ImageTypes": "CT, MR, SC, Pathology",
     "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2020-06-30"
+  },
+  {
+    "Collection": "CPTAC-CM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
+    "CancerType": "Cutaneous Melanoma",
+    "Location": "Skin",
+    "Species": "Human",
+    "Subjects": "94",
+    "ImageTypes": "MR, CT, CR, PT, Pathology",
+    "SupportingData": "Clinical",
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2020-06-30"
@@ -700,19 +739,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2020-06-18"
-  },
-  {
-    "Collection": "PDMR-997537-175-T",
-    "DOI": "http://doi.org/10.7937/TCIA.2020.BRY9-4N29",
-    "CancerType": "Adenocarcinoma Colon",
-    "Location": "Colon",
-    "Species": "Mouse",
-    "Subjects": "24",
-    "ImageTypes": "MR, SR",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2020-06-01"
   },
   {
     "Collection": "PDMR-292921-168-R",
@@ -741,6 +767,19 @@
     "Updated": "2020-06-01"
   },
   {
+    "Collection": "PDMR-997537-175-T",
+    "DOI": "http://doi.org/10.7937/TCIA.2020.BRY9-4N29",
+    "CancerType": "Adenocarcinoma Colon",
+    "Location": "Colon",
+    "Species": "Mouse",
+    "Subjects": "24",
+    "ImageTypes": "MR, SR",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2020-06-01"
+  },
+  {
     "Collection": "HNSCC",
     "DOI": "http://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
     "CancerType": "Head and Neck Squamous Cell Carcinoma",
@@ -749,7 +788,7 @@
     "Subjects": "627",
     "ImageTypes": "CT, PT, MR, RTSTRUCT, RTPLAN, RTDOSE",
     "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2020-04-29"
   },
@@ -765,19 +804,6 @@
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2020-04-28"
-  },
-  {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "CancerType": "Various",
-    "Location": "Head, Chest, Abdomen",
-    "Species": "Human",
-    "Subjects": "300",
-    "ImageTypes": "CT",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2020-04-22"
   },
   {
     "Collection": "DRO Toolkit",
@@ -801,9 +827,22 @@
     "Subjects": "54",
     "ImageTypes": "MR",
     "SupportingData": "",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2020-04-03"
+  },
+  {
+    "Collection": "CPTAC-GBM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "CancerType": "Glioblastoma Multiforme",
+    "Location": "Brain",
+    "Species": "Human",
+    "Subjects": "189",
+    "ImageTypes": "CT, CR, SC, MR, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2020-03-31"
   },
   {
     "Collection": "CPTAC-LUAD",
@@ -832,19 +871,6 @@
     "Updated": "2020-03-31"
   },
   {
-    "Collection": "CPTAC-GBM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
-    "CancerType": "Glioblastoma Multiforme",
-    "Location": "Brain",
-    "Species": "Human",
-    "Subjects": "189",
-    "ImageTypes": "CT, CR, SC, MR, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-03-31"
-  },
-  {
     "Collection": "CPTAC-SAR",
     "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
     "CancerType": "Sarcomas",
@@ -866,7 +892,7 @@
     "Subjects": "606",
     "ImageTypes": "CT, RTSTRUCT, Clinical",
     "SupportingData": "Clinical",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2020-02-27"
   },
@@ -996,7 +1022,7 @@
     "Subjects": "45",
     "ImageTypes": "CT, MR, PT",
     "SupportingData": "Clinical",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2019-09-16"
   },
@@ -1035,7 +1061,7 @@
     "Subjects": "49",
     "ImageTypes": "MR",
     "SupportingData": "",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2019-08-28"
   },
@@ -1204,7 +1230,7 @@
     "Subjects": "20",
     "ImageTypes": "MR",
     "SupportingData": "Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2019-02-05"
   },
@@ -1230,7 +1256,7 @@
     "Subjects": "227",
     "ImageTypes": "CT, MR, PT, RTSTRUCT, RTPLAN, RTDOSE, Pathology",
     "SupportingData": "Clinical, Genomics",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2018-08-30"
   },
@@ -1243,7 +1269,7 @@
     "Subjects": "31",
     "ImageTypes": "CT, RTSTRUCT, RTDOSE",
     "SupportingData": "Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2018-08-30"
   },
@@ -1256,7 +1282,7 @@
     "Subjects": "47",
     "ImageTypes": "CT, MR, PT",
     "SupportingData": "",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2018-07-31"
   },
@@ -1269,7 +1295,7 @@
     "Subjects": "9",
     "ImageTypes": "MR, CT, RTSTRUCT",
     "SupportingData": "Image Registrations",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2018-06-30"
   },
@@ -1282,7 +1308,7 @@
     "Subjects": "298",
     "ImageTypes": "PT, CT, RTSTRUCT, RTPLAN, RTDOSE",
     "SupportingData": "Clinical, Image Analyses, Software/Source Code",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2018-06-07"
   },
@@ -1295,7 +1321,7 @@
     "Subjects": "159",
     "ImageTypes": "MR",
     "SupportingData": "Image Analyses, Genomics",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2017-09-30"
   },
@@ -1378,6 +1404,19 @@
     "Updated": "2017-03-30"
   },
   {
+    "Collection": "TCGA-LUAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
+    "CancerType": "Lung Adenocarcinoma",
+    "Location": "Chest",
+    "Species": "Human",
+    "Subjects": "69",
+    "ImageTypes": "CT, PT, NM, Pathology",
+    "SupportingData": "Clinical, Genomics, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2017-01-30"
+  },
+  {
     "Collection": "TCGA-KIRP",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
     "CancerType": "Kidney Renal Papillary Cell Carcinoma",
@@ -1398,19 +1437,6 @@
     "Species": "Human",
     "Subjects": "97",
     "ImageTypes": "MR, CT, PT, Pathology",
-    "SupportingData": "Clinical, Genomics, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2017-01-30"
-  },
-  {
-    "Collection": "TCGA-LUAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
-    "CancerType": "Lung Adenocarcinoma",
-    "Location": "Chest",
-    "Species": "Human",
-    "Subjects": "69",
-    "ImageTypes": "CT, PT, NM, Pathology",
     "SupportingData": "Clinical, Genomics, Image Analyses",
     "Access": "Public",
     "Status": "Complete",
@@ -1438,7 +1464,7 @@
     "Subjects": "39",
     "ImageTypes": "MR, Pathology",
     "SupportingData": "Clinical, Genomics",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2016-12-30"
   },
@@ -1542,7 +1568,7 @@
     "Subjects": "19",
     "ImageTypes": "MR",
     "SupportingData": "",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2015-09-07"
   },
@@ -1612,19 +1638,6 @@
     "Updated": "2014-12-30"
   },
   {
-    "Collection": "LungCT-Diagnosis",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
-    "CancerType": "Lung Cancer",
-    "Location": "Lung",
-    "Species": "Human",
-    "Subjects": "61",
-    "ImageTypes": "CT",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2014-12-30"
-  },
-  {
     "Collection": "TCGA-SARC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
     "CancerType": "Sarcomas",
@@ -1633,6 +1646,19 @@
     "Subjects": "5",
     "ImageTypes": "CT, MR, Pathology",
     "SupportingData": "Clinical, Genomics",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2014-12-30"
+  },
+  {
+    "Collection": "LungCT-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
+    "CancerType": "Lung Cancer",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "61",
+    "ImageTypes": "CT",
+    "SupportingData": "Clinical, Image Analyses",
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2014-12-30"
@@ -1737,7 +1763,7 @@
     "Subjects": "199",
     "ImageTypes": "MR, CT, Pathology",
     "SupportingData": "Clinical, Genomics, Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2014-09-04"
   },
@@ -1841,7 +1867,7 @@
     "Subjects": "262",
     "ImageTypes": "MR, CT, DX, Pathology",
     "SupportingData": "Clinical, Genomics, Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2014-05-08"
   },
@@ -1893,7 +1919,7 @@
     "Subjects": "111",
     "ImageTypes": "CT, PT, RTSTRUCT, RTPLAN, RTDOSE",
     "SupportingData": "Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2013-04-17"
   },
@@ -2023,7 +2049,7 @@
     "Subjects": "130",
     "ImageTypes": "MR",
     "SupportingData": "Clinical, Genomics, Image Analyses",
-    "Access": "Public",
+    "Access": "Limited",
     "Status": "Complete",
     "Updated": "2011-11-03"
   },

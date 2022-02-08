@@ -3,6 +3,7 @@
   "ACRIN-FLT-Breast (ACRIN 6688)":"Leads to a download of one zip file which is similar to those in ACRIN-DSC-MR-Brain",
   "ACRIN-FMISO-Brain (ACRIN 6684)":"Same as ACRIN-FLT-Breast (ACRIN 6688)",
   "ACRIN-NSCLC-FDG-PET (ACRIN 6668)":"Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set",
+<<<<<<< HEAD
   "Breast Diagnosis":{"notes":"an xls file with one sheet with clinical data but is pivoted (organized in columns)", "srcs":[ [ {"filenm":"TCIA Breast clinical data public 7_16_11.xlsx","sheet":0,"headrows":[0,1],"pivot":true} ] ] },
   "Breast-MRI-NACT-Pilot":{"notes":"one xls file with 3 sheets. One has clinical data, the others have supporting data","srcs":[ [ {"filenm":"SharedClinicalAndRFS.xls","sheet":1, "patientIdRow":1, "maxRow":64, "skipCols":[37,38] }] ]  },
   "C4KC-KiTS":{"notes":"one csv file with clinical data", "srcs":[ [  {"filenm":"C4KC KiTS_Clinical Data_Version 1.csv","sheet":0 } ] ]},
