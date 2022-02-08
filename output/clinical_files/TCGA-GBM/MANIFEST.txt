@@ -1,8 +1,0 @@
-id	filename	md5	size	state
-1b306916-fe77-469e-8c86-43e8b606b1b8	1b306916-fe77-469e-8c86-43e8b606b1b8/nationwidechildrens.org_clinical_nte_gbm.txt	8bf29be6a3300e3a835534dea2b88b83	1700	validated
-3b0a2c87-68cc-4c4d-8a1c-5a2d8dac2125	3b0a2c87-68cc-4c4d-8a1c-5a2d8dac2125/nationwidechildrens.org_clinical_drug_gbm.txt	68a0dcffbdb08fab4ba3d8000736d1a3	592426	validated
-4146445d-8ba8-4768-9e4f-74f3541759c0	4146445d-8ba8-4768-9e4f-74f3541759c0/nationwidechildrens.org_clinical_radiation_gbm.txt	b0d30e32b74b555340d26aa6e75a8ddf	140177	validated
-57683e22-a8ea-4eca-bfcf-f708cf459546	57683e22-a8ea-4eca-bfcf-f708cf459546/nationwidechildrens.org_clinical_patient_gbm.txt	bc3bea4037b38ea2275de2517ad79790	268807	validated
-64e4d88b-32f6-4e2e-953b-813ade4137ce	64e4d88b-32f6-4e2e-953b-813ade4137ce/nationwidechildrens.org_clinical_omf_v4.0_gbm.txt	119a677eaf877e3667b96739d6be64eb	3248	validated
-86a66df6-0e51-4555-81ed-fbd2b245de94	86a66df6-0e51-4555-81ed-fbd2b245de94/nationwidechildrens.org_clinical_follow_up_v1.0_nte_gbm.txt	3eba489209de85ef94972bef38279d4b	72379	validated
-c9cdbc76-105d-429b-9fce-f000819716f9	c9cdbc76-105d-429b-9fce-f000819716f9/nationwidechildrens.org_clinical_follow_up_v1.0_gbm.txt	e8932dfb9ef478b0c394bd7a5f48fd3f	180689	validated
