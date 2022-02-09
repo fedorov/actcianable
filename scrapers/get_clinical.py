@@ -17,12 +17,11 @@ try:
   with open("output/clinical_notes.json", "r") as f:
     current_clinical=json.load(f)
     for colec in current_clinical:
-      if 'Notes' in colec:
-        nm = colec['Collection']
-        notes[nm] = colec['Notes']
+      if 'notes' in current_clinical[colec]:
+        notes[colec] = current_clinical[colec]['notes']
 
 except IOError:
-    print("clinical file not found")
+    print("clinical notes file not found")
 
 
 
