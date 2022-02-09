@@ -79,19 +79,21 @@ for row in rows:
           if (purl.hostname.find('cancerimagingarchive') == -1):
             some_clinical_external = True
           # check header before trying to download file
+          print(url)
           try:
             head_info = requests.head(url, timeout=5)
+            successReq = True
           except:
-            head_info={}
+              successReq = False
           # if the 'download' link does not include a 'Content-Disposition' header this likely means that the link does NOT resolve to a downloadable file but to a web portal or json content
-          if ('headers' in head_info) and ('Content-Disposition' in head_info.headers) and (head_info.headers['Content-Disposition'].find('filename=') > -1):
+          if (successReq) and ('Content-Disposition' in head_info.headers) and (head_info.headers['Content-Disposition'].find('filename=') > -1):
             some_clinical_downloadable = True
             download_file_found_in_row = True
             filenm = head_info.headers['Content-Disposition'].split("filename=")[1].replace('"', '')
             ext = os.path.splitext(filenm)[1].lower()
             data_formats.add(ext)
           # clinical data may in a json resource
-          elif ('headers' in head_info) and ('Content-Type' in head_info.headers) and (head_info.headers['Content-Type'].find('json')>-1):
+          elif (successReq) and ('Content-Type' in head_info.headers) and (head_info.headers['Content-Type'].find('json')>-1):
             some_clinical_downloadable = True
             download_file_found_in_row = True
             filenm = url.replace('https://','')
