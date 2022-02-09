@@ -14,15 +14,14 @@ def get_url(url):#, headers):
 
 notes={}
 try:
-  with open("output/clinical_collections.json", "r") as f:
+  with open("output/clinical_notes.json", "r") as f:
     current_clinical=json.load(f)
     for colec in current_clinical:
-      if 'Notes' in colec:
-        nm = colec['Collection']
-        notes[nm] = colec['Notes']
+      if 'notes' in current_clinical[colec]:
+        notes[colec] = current_clinical[colec]['notes']
 
 except IOError:
-    print("clinical file not found")
+    print("clinical notes file not found")
 
 
 
@@ -79,16 +78,20 @@ for row in rows:
           if (purl.hostname.find('cancerimagingarchive') == -1):
             some_clinical_external = True
           # check header before trying to download file
-          head_info = requests.head(url, timeout=5)
+          try:
+            head_info = requests.head(url, timeout=5)
+            successReq = True
+          except:
+              successReq = False
           # if the 'download' link does not include a 'Content-Disposition' header this likely means that the link does NOT resolve to a downloadable file but to a web portal or json content
-          if ('Content-Disposition' in head_info.headers) and (head_info.headers['Content-Disposition'].find('filename=') > -1):
+          if (successReq) and ('Content-Disposition' in head_info.headers) and (head_info.headers['Content-Disposition'].find('filename=') > -1):
             some_clinical_downloadable = True
             download_file_found_in_row = True
             filenm = head_info.headers['Content-Disposition'].split("filename=")[1].replace('"', '')
             ext = os.path.splitext(filenm)[1].lower()
             data_formats.add(ext)
           # clinical data may in a json resource
-          elif ('Content-Type' in head_info.headers) and (head_info.headers['Content-Type'].find('json')>-1):
+          elif (successReq) and ('Content-Type' in head_info.headers) and (head_info.headers['Content-Type'].find('json')>-1):
             some_clinical_downloadable = True
             download_file_found_in_row = True
             filenm = url.replace('https://','')

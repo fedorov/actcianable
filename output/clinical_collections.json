@@ -6,7 +6,7 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20V2.zip?version=2&modificationDate=1586360765050&api=v2\">Clinical Reports V2.zip</a>: 957c4339ab5df6832758807385d0f2c1",
-    "Notes": ""
+    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
   },
   {
     "Collection": "AREN0533",
@@ -195,7 +195,7 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056854/NSCLC%20Radiomics%20Lung1.clinical-version3-Oct%202019.csv?version=1&modificationDate=1572013183040&api=v2\">NSCLC Radiomics Lung1.clinical-version3-Oct 2019.csv</a>: 2d2638a2ac1d34edc6535b59b6f71510",
-    "Notes": ""
+    "Notes": "One csv file with clinical data"
   },
   {
     "Collection": "QIN-HeadNeck",
@@ -213,7 +213,7 @@
     "External": true,
     "Download": "no",
     "Filenames": "",
-    "Notes": "Links to page with 2 zip files, 'ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip' and 'ACRIN-DSC-MR-Brain TCIA Anonymized.zip'. Both catalogues are similar. They each have maybe a dozen CSV files, a PDF and an xlsx file. Its not obvious how to resolve this data into a clinical data table "
+    "Notes": "Links to page with 2 zip files, 'ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip' and 'ACRIN-DSC-MR-Brain TCIA Anonymized.zip'. Both catalogues are similar. They each have maybe a dozen CSV files, a PDF and an xlsx file. Its not obvious how to resolve this data into a clinical data table"
   },
   {
     "Collection": "CRC_FFPE-CODEX_CellNeighs",
@@ -240,7 +240,7 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52762760/Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection%20July%2029%202020.zip?version=1&modificationDate=1596049703964&api=v2\">Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip</a>: 763163e13605d970dac66360bbb19c2b",
-    "Notes": "zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download "
+    "Notes": "zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download"
   },
   {
     "Collection": "COVID-19-AR",
@@ -249,16 +249,16 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226443/COVID-19%20AR%20Clinical%20Correlates%20July202020.xlsx?version=1&modificationDate=1594659431356&api=v2\">COVID-19 AR Clinical Correlates July202020.xlsx</a>: 6f75681cca1fe7842f0c6832232b9b84",
-    "Notes": "one xls file with two sheets. Both have clinical data in similar (but not identical) format for two different patient sets"
+    "Notes": "one xls file with two sheets. Both have clinical data  for two attribute sets"
   },
   {
     "Collection": "CPTAC-CM",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
-    "Format": ".json",
+    "Format": "",
     "External": true,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/CM\">clinicalapi-cptac.esacinc.com_api_tcia_clinical_data_tumor_code_CM</a>: 41432816651bce479561612c0ed7ea27",
-    "Notes": "links to a json string with clinical data "
+    "Download": "no",
+    "Filenames": "",
+    "Notes": "links to a json string with clinical data"
   },
   {
     "Collection": "C4KC-KiTS",
@@ -281,19 +281,19 @@
   {
     "Collection": "CPTAC-AML",
     "DOI": "https://doi.org/10.7937/tcia.2019.b6foe619",
-    "Format": ".json",
+    "Format": "",
     "External": true,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/tcia/clinical_data/tumor_code/AML\">clinicalapi-cptac.esacinc.com_api_tcia_clinical_data_tumor_code_AML</a>: 034e984fcf004f1fe8071a63b077beb5",
+    "Download": "no",
+    "Filenames": "",
     "Notes": ""
   },
   {
     "Collection": "CPTAC-SAR",
     "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "Format": ".json",
+    "Format": "",
     "External": true,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://clinicalapi-cptac.esacinc.com/api/pancancer/clinical_data/tumor_code/SAR\">clinicalapi-cptac.esacinc.com_api_pancancer_clinical_data_tumor_code_SAR</a>: bb775fdbc5f4a5b285e426bdfbac678f",
+    "Download": "no",
+    "Filenames": "",
     "Notes": "links to a json string with clinical data"
   },
   {
@@ -393,7 +393,7 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879146/MDPA%20Patient%20Data%20Final%20-%20Accepted.xlsb?version=1&modificationDate=1549495716390&api=v2\">MDPA Patient Data Final - Accepted.xlsb</a>: fb78d68206332a4f5bb937ee0202eb8b",
-    "Notes": "One xlsb file. I did not have an xlsb parser so I converted it to xls, AFAIK with no data loss. 8 sheets, each with different types of clinical data"
+    "Notes": "One xlsb file.  8 sheets, each with different types of clinical data. Special parser needed"
   },
   {
     "Collection": "Head-Neck-PET-CT",
@@ -636,7 +636,7 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?version=1&modificationDate=1311002325320&api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
-    "Notes": "an xls file with one sheet with clinical data but is pivoted (organized in columns) "
+    "Notes": "an xls file with one sheet with clinical data but is pivoted (organized in columns)"
   },
   {
     "Collection": "REMBRANDT",
