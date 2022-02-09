@@ -79,7 +79,6 @@ for row in rows:
           if (purl.hostname.find('cancerimagingarchive') == -1):
             some_clinical_external = True
           # check header before trying to download file
-          print(url)
           try:
             head_info = requests.head(url, timeout=5)
             successReq = True
