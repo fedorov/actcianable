@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
+    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
+    "CancerType": "Liver Cancer",
+    "Location": "Liver",
+    "Species": "Human",
+    "Subjects": "120",
+    "ImageTypes": "US",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-02-18"
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "CancerType": "Various",
@@ -245,19 +258,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2021-08-10"
-  },
-  {
-    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
-    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
-    "CancerType": "Liver Cancer",
-    "Location": "Liver",
-    "Species": "Human",
-    "Subjects": "75",
-    "ImageTypes": "US",
-    "SupportingData": "",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2021-07-28"
   },
   {
     "Collection": "Breast Cancer Screening-DBT",
