@@ -1,5 +1,14 @@
 [
   {
+    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
+    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?version=1&modificationDate=1628100506702&api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx</a>: a493f7d889b6ce473e51ce789914d6a8",
+    "Notes": ""
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Format": ".zip",
@@ -78,15 +87,6 @@
     "External": true,
     "Download": "no",
     "Filenames": "",
-    "Notes": ""
-  },
-  {
-    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
-    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
-    "Format": ".xlsx",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?version=1&modificationDate=1628100506702&api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd",
     "Notes": ""
   },
   {
