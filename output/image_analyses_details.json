@@ -530,5 +530,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "CDD-CESM",
+    "DOI": "https://doi.org/10.7937/29kw-ae92",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
