@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
+    "DOI": "http://doi.org/10.7937/Q1EE-J082",
+    "Access": "Public",
+    "Updated": "2022-03-07",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
     "Access": "Public",
@@ -238,14 +246,6 @@
     "Updated": "2021-03-17",
     "some_date": "2021-02-28",
     "is_excluded": false
-  },
-  {
-    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
-    "DOI": "http://doi.org/10.7937/Q1EE-J082",
-    "Access": "Limited",
-    "Updated": "2021-03-05",
-    "some_date": "n/a",
-    "is_excluded": true
   },
   {
     "Collection": "MIDRC-RICORD-1b",
@@ -1278,5 +1278,13 @@
     "Updated": "2011-06-30",
     "some_date": "2021-02-27",
     "is_excluded": false
+  },
+  {
+    "Collection": "CDD-CESM",
+    "DOI": "https://doi.org/10.7937/29kw-ae92",
+    "Access": "Public",
+    "Updated": "2021-12-31",
+    "some_date": "n/a",
+    "is_excluded": true
   }
 ]
