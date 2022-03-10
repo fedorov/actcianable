@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Stage II-Colorectal-CT",
+    "DOI": "https://doi.org/10.7937/p5k5-tg43",
+    "CancerType": "Colorectal Cancer",
+    "Location": "Abdomen, Pelvis",
+    "Species": "Human",
+    "Subjects": "230",
+    "ImageTypes": "CT",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-03-09"
+  },
+  {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "http://doi.org/10.7937/Q1EE-J082",
     "CancerType": "Breast Cancer",
@@ -63,6 +76,19 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2022-01-13"
+  },
+  {
+    "Collection": "CDD-CESM",
+    "DOI": "https://doi.org/10.7937/29kw-ae92",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "326",
+    "ImageTypes": "MG",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-12-31"
   },
   {
     "Collection": "GLIS-RT",
@@ -2078,18 +2104,5 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2011-06-30"
-  },
-  {
-    "Collection": "CDD-CESM",
-    "DOI": "https://doi.org/10.7937/29kw-ae92",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "326",
-    "ImageTypes": "MG",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2021-12-31"
   }
 ]
