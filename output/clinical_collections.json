@@ -9,7 +9,7 @@
     "Notes": ""
   },
   {
-    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
+    "Collection": "B-mode-and-CEUS-Liver",
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
     "Format": ".xlsx",
     "External": false,
@@ -23,7 +23,7 @@
     "Format": ".zip",
     "External": false,
     "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20V2.zip?version=2&modificationDate=1586360765050&api=v2\">Clinical Reports V2.zip</a>: 957c4339ab5df6832758807385d0f2c1",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20reports%20March%202022.zip?api=v2\">Clinical reports March 2022.zip</a>: 2fb28c1b8a45cc329a5fb68b957b695e",
     "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
   },
   {
