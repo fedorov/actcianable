@@ -1,5 +1,31 @@
 [
   {
+    "Collection": "DLBCL-Morphology",
+    "DOI": "https://doi.org/10.7937/NVA3-N783",
+    "CancerType": "Diffuse Large B-Cell Lymphoma",
+    "Location": "Lymph Node",
+    "Species": "Human",
+    "Subjects": "209",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Image Analyses, Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-04-28"
+  },
+  {
+    "Collection": "HER2 tumor ROIs",
+    "DOI": "https://doi.org/10.7937/E65C-AM96",
+    "CancerType": "HER2+ Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "273",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-04-28"
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "CancerType": "Various",

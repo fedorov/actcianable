@@ -1,5 +1,23 @@
 [
   {
+    "Collection": "DLBCL-Morphology",
+    "DOI": "https://doi.org/10.7937/NVA3-N783",
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/clinical_data_cleaned.csv?version=1&modificationDate=1648577731791&api=v2\">clinical_data_cleaned.csv</a>: 9be9d237c49506db16d3c3b53825f827",
+    "Notes": ""
+  },
+  {
+    "Collection": "HER2 tumor ROIs",
+    "DOI": "https://doi.org/10.7937/E65C-AM96",
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702524/HER2_ROI.csv?version=1&modificationDate=1648579391951&api=v2\">HER2_ROI.csv</a>: 08be660f0baafc3f4eef19cd855b29f7",
+    "Notes": ""
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Format": ".zip",

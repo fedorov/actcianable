@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "DLBCL-Morphology",
+    "DOI": "https://doi.org/10.7937/NVA3-N783",
+    "Access": "Public",
+    "Updated": "2022-04-28",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "HER2 tumor ROIs",
+    "DOI": "https://doi.org/10.7937/E65C-AM96",
+    "Access": "Public",
+    "Updated": "2022-04-28",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Access": "Limited",
