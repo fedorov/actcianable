@@ -47,7 +47,7 @@ for row in rows:
   colrequest = requests.get(collection_href, timeout=30)
   content = colrequest.content
   collection_html = BeautifulSoup(content, 'html.parser')
-  data_access_rows = collection_html.find('div',{'name':'Data Access'}).find('tbody').find_all('tr')
+  data_access_rows = collection_html.find('div',{'name':'Access'}).find('tbody').find_all('tr')
   clinical_found = False
   some_clinical_downloadable = False
   some_clinical_not_downloadable = False
