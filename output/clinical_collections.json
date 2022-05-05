@@ -1,11 +1,11 @@
 [
   {
-    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
-    "DOI": "https://doi.org/10.7937/Q1EE-J082",
-    "Format": ".zip",
+    "Collection": "I-SPY2 Trial",
+    "DOI": "https://doi.org/10.7937/TCIA.D8Z0-9T85",
+    "Format": ".xlsx",
     "External": false,
     "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225026/ACRIN%206667%20Contralateral%20Breast%20MRI%20Clinical%20Data%20Anonymized.zip?api=v2\">ACRIN 6667 Contralateral Breast MRI Clinical Data Anonymized.zip</a>: 0d651fcc0000d1a018e20a9ebe9162f7",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230072/ISPY2%20Imaging%20Cohort%201%20Clinical%20Data.xlsx?api=v2\">ISPY2 Imaging Cohort 1 Clinical Data.xlsx</a>: 6ac1440f0f4230018638ad153f9d89bf",
     "Notes": ""
   },
   {
