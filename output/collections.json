@@ -1,5 +1,31 @@
 [
   {
+    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
+    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "385",
+    "ImageTypes": "MR, SEG",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-05-02"
+  },
+  {
+    "Collection": "I-SPY2 Trial",
+    "DOI": "https://doi.org/10.7937/TCIA.D8Z0-9T85",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "719",
+    "ImageTypes": "MR, SEG",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-05-02"
+  },
+  {
     "Collection": "DLBCL-Morphology",
     "DOI": "https://doi.org/10.7937/NVA3-N783",
     "CancerType": "Diffuse Large B-Cell Lymphoma",
@@ -154,19 +180,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2021-12-20"
-  },
-  {
-    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
-    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "385",
-    "ImageTypes": "MR, SEG",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2021-12-17"
   },
   {
     "Collection": "Ovarian Bevacizumab Response",

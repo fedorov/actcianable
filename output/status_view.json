@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
+    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
+    "Access": "Public",
+    "Updated": "2022-05-02",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "I-SPY2 Trial",
+    "DOI": "https://doi.org/10.7937/TCIA.D8Z0-9T85",
+    "Access": "Public",
+    "Updated": "2022-05-02",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "DLBCL-Morphology",
     "DOI": "https://doi.org/10.7937/NVA3-N783",
     "Access": "Public",
@@ -92,14 +108,6 @@
     "DOI": "https://doi.org/10.7937/TCIA.T905-ZQ20",
     "Access": "Limited",
     "Updated": "2021-12-20",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
-    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
-    "Access": "Limited",
-    "Updated": "2021-12-17",
     "some_date": "n/a",
     "is_excluded": true
   },
