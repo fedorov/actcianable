@@ -1,6 +1,5 @@
 {
-  "ACRIN-DSC-MR-Brain-6677 (ACRIN 6677)":{"notes":" links to a dropbox with 2 zip files, 'ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip' and 'ACRIN-DSC-MR-Brain TCIA Anonymized.zip'. Both catalogues are similar.They are non-overlapping batches of the collection's cases. The zip files were downloaded manually. " ,"uzip":["ACRIN-DSC-MR-Brain TCIA Anonymized.zip", "ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip"],"spec":"acrin", "idc_webapp":"acrin_dsc_mr", "case_id":"acrin format", "tcia_api":"ACRIN-DSC-MR-Brain"
-  },
+  "ACRIN-DSC-MR-Brain-6677 (ACRIN 6677)":{"notes":" links to a dropbox with 2 zip files, 'ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip' and 'ACRIN-DSC-MR-Brain TCIA Anonymized.zip'. Both catalogues are similar.They are non-overlapping batches of the collection's cases. The zip files were downloaded manually. " ,"uzip":["ACRIN-DSC-MR-Brain TCIA Anonymized.zip", "ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip"],"spec":"acrin", "idc_webapp":"acrin_dsc_mr", "case_id":"acrin format", "tcia_api":"ACRIN-DSC-MR-Brain"},
 
   "ACRIN-FLT-Breast (ACRIN 6688)":{"notes":"Leads to a download of one zip file which is similar to those in ACRIN-DSC-MR-Brain", "spec":"acrin", "uzip":["ACRIN-FLT-Breast 6688 Clinical Data.zip"], "dictfile":"QIN_6688 Data Dictionary.xls", "idc_webapp":"acrin_flt_breast", "case_id":"acrin format", "tcia_api":"ACRIN-FLT_Breast"},
 
@@ -20,7 +19,7 @@
   "CPTAC-AML":{"srcs" :[ [ {"filenm":"clinicalapi-cptac.esacinc.com_api_tcia_clinical_data_tumor_code_AML","type":"json" }]  ] },
   "CPTAC-CM":{"notes":"links to a json string with clinical data", "srcs":[ [ {"filenm":"clinicalapi-cptac.esacinc.com_api_tcia_clinical_data_tumor_code_CM","type":"json"} ]] },
   "CPTAC-SAR":{"notes":"links to a json string with clinical data"},
-  "CRC_FFPE-CODDEX_NellNeighs":{"notes":"NA"}, 
+  "CRC_FFPE-CODDEX_NellNeighs":{"notes":"NA"},
   "HNSCC":{"notes":"An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. The csv has similar data. It seems like they have similar data for different patients. xlsx data has one sheet with a data dictionary",
             "srcs": [  [ {"filenm":"Patient and Treatment Characteristics.xls","sheet":0, "skipCols":[3] }, {"filenm":"HNSCC Clinical Data.csv"}  ]   ], "case_id":"same"   },
   "HNSCC-3DCT-RT": {"notes":"One xlsb file.  8 sheets, each with different types of clinical data. Special parser needed", "special":"HNSCC-3DCT-RT",
@@ -29,14 +28,16 @@
   "Head-Neck-Radiomics-HN1":{"notes":"zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download", "uzip":"Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip","srcs":[ [ {"filenm":"Copy of HEAD-NECK-RADIOMICS-HN1 Clinical data updated July 2020.csv", "archive":["Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip"]} ]  ], "case_id":"same"   },
   "ISPY1 (ACRIN 6657)":{"notes":"xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser", "tabletypes":[{"clinical":"clinical"}, {"outcome":"patient outcomes"}],"srcs":[[ {"filenm":"I-SPY 1 All Patient Clinical and Outcome Data.xlsx","sheet":1} ], [{"filenm":"I-SPY 1 All Patient Clinical and Outcome Data.xlsx","sheet":3}]], "dict":[["I-SPY 1 All Patient Clinical and Outcome Data.xlsx",0],["I-SPY 1 All Patient Clinical and Outcome Data.xlsx",2]], "case_id":"ispy" },
   "IvyGAP":{"notes":"not clinical data download links. Link resolve to portals. May be able to get data from there"},
+
   "LDCT-and-Projection-data":{"notes":"A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet ", "uzip":"Clinical Reports V2.zip","srcs":[ [  {"filenm":"Clinical Reports V2/CR_Abdomen_v2/Abdomen_v5.xlsx", "headrows":[1], "archive":["Clinical Reports V2.zip"] } ]], "dict":{ "filenm":"Clinical Reports V2/CR_Abdomen_v2/Abdomen_v5.xlsx", "sheet":1,"col":0, "id":1, "value":2, "rows":[1,25] } },
   "Lung Fused-CT-Pathology":{"notes":"One xlsx file with one sheet with clear clinical data","srcs":[ [{"filenm":"Lung Fused-CT-Pathology spreadsheet.xlsx","sheet":0,"headrows":[1] }] ], "case_id":"same" },
   "Lung-PET-CT-Dx":{"notes":"One xlsx file with one sheet with clear clinical data", "srcs":[ [{"filenm":"statistics-clinical-20201221.xlsx","sheet":0, "patientIdRow":1 }]   ], "case_id":"lung_pt" },
+
   "LungCT-Diagnosis":{"notes":"Clinical data in a doc file! Can be parsed manually"},
   "MIDRC-RICORD-1a":{"notes":"One xlsx file, one sheet with clear clinical data", "srcs":[ [{"filenm":"MIDRC-RICORD-1a Clinical Data Jan 13 2021.xlsx","sheet":0} ] ], "case_id":"add colec" },
   "MIDRC-RICORD-1b":{"notes":"One xlsx file, one sheet with clear clinical data", "srcs":[ [{"filenm":"MIDRC-RICORD-1b Clinical Data Feb 2021.xlsx","sheet":0 } ]  ], "case_id":"add colec" },
   "MIDRC-RICORD-1c":{"notes":"One xlsx file, one sheet with clear clinical data", "srcs":[  [ {"filenm":"MIDRC-RICORD-1c Clinical Data Jan 13 2021 .xlsx","sheet":0 }] ], "case_id":"add colec" },
-  "NSCLC-Radiomics": {"notes":"One csv file with clinical data", "srcs":[ [ {"filenm":"NSCLC Radiomics Lung1.clinical-version3-Oct 2019.csv","sheet":0} ] ], "case_id":"same" }, 
+  "NSCLC-Radiomics": {"notes":"One csv file with clinical data", "srcs":[ [ {"filenm":"NSCLC Radiomics Lung1.clinical-version3-Oct 2019.csv","sheet":0} ] ], "case_id":"same" },
   "NSCLC-Radiogenomics":{"notes":"One csv file with clinical data", "srcs":[ [ {"filenm":"NSCLCR01Radiogenomic_DATA_LABELS_2018-05-22_1500-shifted.csv", "sheet":0 }] ], "case_id":"same" },
   "NSCLC-Radiomics-Genomics":{"notes":"One xls file with one sheet with clinical data", "srcs":[ [ {"filenm":"Lung3.metadata.xls","sheet":0} ]  ], "case_id":"same" },
   "NSCLC-Radiomics-Interobserver1":{"notes":"one csv file with clinical data", "srcs":[ [ {"filenm":"Interobserver1.clinical_updated_released_2019-June-17.csv"}] ], "case_id":"same"},

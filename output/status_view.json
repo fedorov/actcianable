@@ -1,9 +1,17 @@
 [
   {
-    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
-    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
+    "Collection": "DLBCL-Morphology",
+    "DOI": "https://doi.org/10.7937/NVA3-N783",
     "Access": "Public",
-    "Updated": "2022-02-18",
+    "Updated": "2022-04-28",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "HER2 tumor ROIs",
+    "DOI": "https://doi.org/10.7937/E65C-AM96",
+    "Access": "Public",
+    "Updated": "2022-04-28",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -11,7 +19,47 @@
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Access": "Limited",
-    "Updated": "2022-01-26",
+    "Updated": "2022-03-31",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Pediatric-CT-SEG",
+    "DOI": "https://doi.org/https://doi.org/10.7937/TCIA.X0H0-1706",
+    "Access": "Public",
+    "Updated": "2022-03-31",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "AREN0532",
+    "DOI": "https://doi.org/10.7937/6PJ1-M859",
+    "Access": "Limited",
+    "Updated": "2022-03-31",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Stage II-Colorectal-CT",
+    "DOI": "https://doi.org/10.7937/p5k5-tg43",
+    "Access": "Public",
+    "Updated": "2022-03-09",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
+    "DOI": "http://doi.org/10.7937/Q1EE-J082",
+    "Access": "Public",
+    "Updated": "2022-03-07",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "B-mode-and-CEUS-Liver",
+    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
+    "Access": "Public",
+    "Updated": "2022-02-18",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -28,6 +76,14 @@
     "DOI": "https://doi.org/10.7937/TCIA.2M93-FX66",
     "Access": "Public",
     "Updated": "2022-01-13",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CDD-CESM",
+    "DOI": "https://doi.org/10.7937/29kw-ae92",
+    "Access": "Public",
+    "Updated": "2021-12-31",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -60,14 +116,6 @@
     "DOI": "https://doi.org/10.7937/TCIA.AXH3-T579",
     "Access": "Public",
     "Updated": "2021-12-06",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "Pediatric-CT-SEG",
-    "DOI": "https://doi.org/https://doi.org/10.7937/TCIA.X0H0-1706",
-    "Access": "Public",
-    "Updated": "2021-11-30",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -238,14 +286,6 @@
     "Updated": "2021-03-17",
     "some_date": "2021-02-28",
     "is_excluded": false
-  },
-  {
-    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
-    "DOI": "http://doi.org/10.7937/Q1EE-J082",
-    "Access": "Limited",
-    "Updated": "2021-03-05",
-    "some_date": "n/a",
-    "is_excluded": true
   },
   {
     "Collection": "MIDRC-RICORD-1b",

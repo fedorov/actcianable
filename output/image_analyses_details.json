@@ -530,5 +530,32 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "CDD-CESM",
+    "DOI": "https://doi.org/10.7937/29kw-ae92",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "DLBCL-Morphology",
+    "DOI": "https://doi.org/10.7937/NVA3-N783",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "HER2 tumor ROIs",
+    "DOI": "https://doi.org/10.7937/E65C-AM96",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]

@@ -9,12 +9,21 @@
     "Notes": ""
   },
   {
-    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
-    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
-    "Format": ".xlsx",
+    "Collection": "DLBCL-Morphology",
+    "DOI": "https://doi.org/10.7937/NVA3-N783",
+    "Format": ".csv",
     "External": false,
     "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?version=1&modificationDate=1628100506702&api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx</a>: a493f7d889b6ce473e51ce789914d6a8",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/clinical_data_cleaned.csv?version=1&modificationDate=1648577731791&api=v2\">clinical_data_cleaned.csv</a>: 9be9d237c49506db16d3c3b53825f827",
+    "Notes": ""
+  },
+  {
+    "Collection": "HER2 tumor ROIs",
+    "DOI": "https://doi.org/10.7937/E65C-AM96",
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702524/HER2_ROI.csv?version=1&modificationDate=1648579391951&api=v2\">HER2_ROI.csv</a>: 08be660f0baafc3f4eef19cd855b29f7",
     "Notes": ""
   },
   {
@@ -23,8 +32,35 @@
     "Format": ".zip",
     "External": false,
     "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20V2.zip?version=2&modificationDate=1586360765050&api=v2\">Clinical Reports V2.zip</a>: 957c4339ab5df6832758807385d0f2c1",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20reports%20March%202022.zip?api=v2\">Clinical reports March 2022.zip</a>: 2fb28c1b8a45cc329a5fb68b957b695e",
     "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
+  },
+  {
+    "Collection": "AREN0532",
+    "DOI": "https://doi.org/10.7937/6PJ1-M859",
+    "Format": "",
+    "External": true,
+    "Download": "no",
+    "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
+    "DOI": "https://doi.org/10.7937/Q1EE-J082",
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225026/ACRIN%206667%20Contralateral%20Breast%20MRI%20Clinical%20Data%20Anonymized.zip?api=v2\">ACRIN 6667 Contralateral Breast MRI Clinical Data Anonymized.zip</a>: 0d651fcc0000d1a018e20a9ebe9162f7",
+    "Notes": ""
+  },
+  {
+    "Collection": "B-mode-and-CEUS-Liver",
+    "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?version=1&modificationDate=1628100506702&api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx</a>: a493f7d889b6ce473e51ce789914d6a8",
+    "Notes": ""
   },
   {
     "Collection": "AREN0533",

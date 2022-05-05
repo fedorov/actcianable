@@ -1,6 +1,97 @@
 [
   {
-    "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
+    "Collection": "DLBCL-Morphology",
+    "DOI": "https://doi.org/10.7937/NVA3-N783",
+    "CancerType": "Diffuse Large B-Cell Lymphoma",
+    "Location": "Lymph Node",
+    "Species": "Human",
+    "Subjects": "209",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Image Analyses, Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-04-28"
+  },
+  {
+    "Collection": "HER2 tumor ROIs",
+    "DOI": "https://doi.org/10.7937/E65C-AM96",
+    "CancerType": "HER2+ Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "273",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-04-28"
+  },
+  {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "CancerType": "Various",
+    "Location": "Head, Chest, Abdomen",
+    "Species": "Human",
+    "Subjects": "299",
+    "ImageTypes": "CT",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2022-03-31"
+  },
+  {
+    "Collection": "Pediatric-CT-SEG",
+    "DOI": "https://doi.org/https://doi.org/10.7937/TCIA.X0H0-1706",
+    "CancerType": "Non-cancer",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "359",
+    "ImageTypes": "CT, RTSTRUCT",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-03-31"
+  },
+  {
+    "Collection": "AREN0532",
+    "DOI": "https://doi.org/10.7937/6PJ1-M859",
+    "CancerType": "Wilms Tumor",
+    "Location": "Kidney",
+    "Species": "Human",
+    "Subjects": "544",
+    "ImageTypes": "CR, CT, MR, PT, RTIMAGE, US",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2022-03-31"
+  },
+  {
+    "Collection": "Stage II-Colorectal-CT",
+    "DOI": "https://doi.org/10.7937/p5k5-tg43",
+    "CancerType": "Colorectal Cancer",
+    "Location": "Abdomen, Pelvis",
+    "Species": "Human",
+    "Subjects": "230",
+    "ImageTypes": "CT",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-03-09"
+  },
+  {
+    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
+    "DOI": "http://doi.org/10.7937/Q1EE-J082",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "984",
+    "ImageTypes": "MR, CR",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-03-07"
+  },
+  {
+    "Collection": "B-mode-and-CEUS-Liver",
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
     "CancerType": "Liver Cancer",
     "Location": "Liver",
@@ -13,26 +104,13 @@
     "Updated": "2022-02-18"
   },
   {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "CancerType": "Various",
-    "Location": "Head, Chest, Abdomen",
-    "Species": "Human",
-    "Subjects": "300",
-    "ImageTypes": "CT",
-    "SupportingData": "Clinical",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2022-01-26"
-  },
-  {
     "Collection": "AREN0533",
     "DOI": "https://doi.org/10.7937/SJEZ-CJ78",
     "CancerType": "Wilms Tumor",
     "Location": "Kidney",
     "Species": "Human",
     "Subjects": "294",
-    "ImageTypes": "CT, CR, MR, US",
+    "ImageTypes": "CR, CT, MR, US",
     "SupportingData": "Clinical",
     "Access": "Limited",
     "Status": "Complete",
@@ -50,6 +128,19 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2022-01-13"
+  },
+  {
+    "Collection": "CDD-CESM",
+    "DOI": "https://doi.org/10.7937/29kw-ae92",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "326",
+    "ImageTypes": "MG",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-12-31"
   },
   {
     "Collection": "GLIS-RT",
@@ -102,19 +193,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2021-12-06"
-  },
-  {
-    "Collection": "Pediatric-CT-SEG",
-    "DOI": "https://doi.org/https://doi.org/10.7937/TCIA.X0H0-1706",
-    "CancerType": "Non-cancer",
-    "Location": "Various",
-    "Species": "Human",
-    "Subjects": "359",
-    "ImageTypes": "CT, RTSTRUCT",
-    "SupportingData": "",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2021-11-30"
   },
   {
     "Collection": "APOLLO-5-PAAD",
@@ -388,19 +466,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2021-03-17"
-  },
-  {
-    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
-    "DOI": "http://doi.org/10.7937/Q1EE-J082",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "984",
-    "ImageTypes": "MR, CR",
-    "SupportingData": "Clinical",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2021-03-05"
   },
   {
     "Collection": "MIDRC-RICORD-1b",
