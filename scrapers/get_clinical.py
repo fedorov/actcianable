@@ -79,6 +79,7 @@ for row in rows:
             some_clinical_external = True
           # check header before trying to download file
           try:
+            print(url)
             head_info = requests.head(url, timeout=5)
             successReq = True
           except:

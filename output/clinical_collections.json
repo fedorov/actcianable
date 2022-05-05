@@ -1,5 +1,14 @@
 [
   {
+    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
+    "DOI": "https://doi.org/10.7937/Q1EE-J082",
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225026/ACRIN%206667%20Contralateral%20Breast%20MRI%20Clinical%20Data%20Anonymized.zip?api=v2\">ACRIN 6667 Contralateral Breast MRI Clinical Data Anonymized.zip</a>: 0d651fcc0000d1a018e20a9ebe9162f7",
+    "Notes": ""
+  },
+  {
     "Collection": "Ultrasound data of a variety of liver masses (B-mode-and-CEUS-Liver)",
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
     "Format": ".xlsx",
@@ -24,6 +33,15 @@
     "External": true,
     "Download": "no",
     "Filenames": "",
+    "Notes": ""
+  },
+  {
+    "Collection": "CDD-CESM",
+    "DOI": "https://doi.org/10.7937/29kw-ae92",
+    "Format": ".zip",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/109379611/Medical%20reports%20for%20cases%20.zip?api=v2\">Medical reports for cases .zip</a>: 31c83daaf88a5aa89cf6fa3cb28efdca",
     "Notes": ""
   },
   {
@@ -144,15 +162,6 @@
     "Notes": ""
   },
   {
-    "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
-    "DOI": "https://doi.org/10.7937/Q1EE-J082",
-    "Format": "",
-    "External": false,
-    "Download": "no",
-    "Filenames": "",
-    "Notes": ""
-  },
-  {
     "Collection": "MIDRC-RICORD-1b",
     "DOI": "https://doi.org/10.7937/31V8-4A40",
     "Format": ".xlsx",
@@ -213,7 +222,7 @@
     "External": true,
     "Download": "no",
     "Filenames": "",
-    "Notes": "Links to page with 2 zip files, 'ACRIN-DSC-MR-Brain-HB TCIA Anonymized.zip' and 'ACRIN-DSC-MR-Brain TCIA Anonymized.zip'. Both catalogues are similar. They each have maybe a dozen CSV files, a PDF and an xlsx file. Its not obvious how to resolve this data into a clinical data table"
+    "Notes": ""
   },
   {
     "Collection": "CRC_FFPE-CODEX_CellNeighs",
