@@ -30,7 +30,7 @@
   "IvyGAP":{"notes":"not clinical data download links. Link resolve to portals. May be able to get data from there"},
 
   "LDCT-and-Projection-data":{"notes":"A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet ", "uzip":"Clinical Reports V2.zip","srcs":[ [  {"filenm":"Clinical Reports V2/CR_Abdomen_v2/Abdomen_v5.xlsx", "headrows":[1], "archive":["Clinical Reports V2.zip"] } ]], "dict":{ "filenm":"Clinical Reports V2/CR_Abdomen_v2/Abdomen_v5.xlsx", "sheet":1,"col":0, "id":1, "value":2, "rows":[1,25] } },
-  "Lung Fused-CT-Pathology":{"notes":"One xlsx file with one sheet with clear clinical data","srcs":[ [{"filenm":"Lung Fused-CT-Pathology spreadsheet.xlsx","sheet":0,"headrows":[1] }] ], "case_id":"same" },
+  "Lung Fused-CT-Pathology":{"notes":"One xlsx file with one sheet with clear clinical data","srcs":[ [{"filenm":"Lung Fused-CT-Pathology spreadsheet.xlsx","sheet":0,"headrows":[1], "maxRow":8 }] ], "case_id":"same" },
   "Lung-PET-CT-Dx":{"notes":"One xlsx file with one sheet with clear clinical data", "srcs":[ [{"filenm":"statistics-clinical-20201221.xlsx","sheet":0, "patientIdRow":1 }]   ], "case_id":"lung_pt" },
 
   "LungCT-Diagnosis":{"notes":"Clinical data in a doc file! Can be parsed manually"},
@@ -48,7 +48,7 @@
   "QIN-BREAST-02":{"srcs":[ [ {"filenm":"QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx","sheet":0,"headrows":[0,1] } ] ]},
   "QIN-HeadNeck":{"notes":"one xlsx file with two sheets with similar clinical two for two patient sets", "srcs":[ [ {"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":0,"headrows":[0,1]},{"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":1,"headrows":[0,1]} ]  ], "case_id":"same" },
   "REMBRANDT":{"notes":"One xlsx file with one sheet with clinical data", "srcs":[ [ { "filenm":"clinical_2014-01-16.xlsx", "sheet":0 } ]  ], "case_id":"same"},
-  "Soft-tissue-Sarcoma":{"notes":"One xlsx file with two sheets with complimentary data","tabletypes":[ {"clinical":"clinical data"}, {"outcome":"patient outcomes"}],"srcs":[ [ {"filenm":"INFOclinical_STS.xlsx","sheet":0}],[{"filenm":"INFOclinical_STS.xlsx","sheet":1 }] ], "case_id":"same"  },
+  "Soft-tissue-Sarcoma":{"notes":"One xlsx file with two sheets with complimentary data","tabletypes":[ {"clinical":"clinical data"}, {"outcome":"patient outcomes"}],"srcs":[ [ {"filenm":"INFOclinical_STS.xlsx","sheet":0, "maxRow":51 } ],[{"filenm":"INFOclinical_STS.xlsx","sheet":1 }] ], "case_id":"same"  },
   "TCGA":{"notes":"clinical and biomedical data in huge and confusing tar zip files. But I suppose we are not redoing TCGA clinical data"}
 
 }

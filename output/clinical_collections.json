@@ -14,7 +14,7 @@
     "Format": ".csv",
     "External": false,
     "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/clinical_data_cleaned.csv?version=1&modificationDate=1648577731791&api=v2\">clinical_data_cleaned.csv</a>: 9be9d237c49506db16d3c3b53825f827",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/column_description.csv?api=v2\">column_description.csv</a>: f62031f7d3d32aca24e00a11fcc3021c",
     "Notes": ""
   },
   {
@@ -34,15 +34,6 @@
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20reports%20March%202022.zip?api=v2\">Clinical reports March 2022.zip</a>: 2fb28c1b8a45cc329a5fb68b957b695e",
     "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
-  },
-  {
-    "Collection": "AREN0532",
-    "DOI": "https://doi.org/10.7937/6PJ1-M859",
-    "Format": "",
-    "External": true,
-    "Download": "no",
-    "Filenames": "",
-    "Notes": ""
   },
   {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
@@ -297,15 +288,6 @@
     "Notes": "one xls file with two sheets. Both have clinical data  for two attribute sets"
   },
   {
-    "Collection": "CPTAC-CM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
-    "Format": "",
-    "External": true,
-    "Download": "no",
-    "Filenames": "",
-    "Notes": "links to a json string with clinical data"
-  },
-  {
     "Collection": "C4KC-KiTS",
     "DOI": "https://doi.org/10.7937/TCIA.2019.IX49E8NX",
     "Format": ".csv",
@@ -322,24 +304,6 @@
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Field%20Descriptions%20for%20Patient%20and%20Treatment%20Characteristics.xlsx?version=1&modificationDate=1531497124879&api=v2\">Field Descriptions for Patient and Treatment Characteristics.xlsx</a>: 4e2256214ff139b9f2eb860937037473, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Patient%20and%20Treatment%20Characteristics.xls?version=1&modificationDate=1531497278289&api=v2\">Patient and Treatment Characteristics.xls</a>: db5254d30ddb57e27ed7fc7d09875fb0, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948240/HNSCC%20Clinical%20Data.csv?version=2&modificationDate=1585598244510&api=v2\">HNSCC Clinical Data.csv</a>: 4f8074297ebd6426409d17962d8b9d59",
     "Notes": "An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. The csv has similar data. It seems like they have similar data for different patients. xlsx data has one sheet with a data dictionary"
-  },
-  {
-    "Collection": "CPTAC-AML",
-    "DOI": "https://doi.org/10.7937/tcia.2019.b6foe619",
-    "Format": "",
-    "External": true,
-    "Download": "no",
-    "Filenames": "",
-    "Notes": ""
-  },
-  {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "Format": "",
-    "External": true,
-    "Download": "no",
-    "Filenames": "",
-    "Notes": "links to a json string with clinical data"
   },
   {
     "Collection": "OPC-Radiomics",
@@ -387,15 +351,6 @@
     "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)"
   },
   {
-    "Collection": "TCGA-BLCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056367/gdc_download_clincal_blca.tar.gz?version=1&modificationDate=1590766883945&api=v2\">gdc_download_clincal_blca.tar.gz</a>: d514ad5b54eb578e5f7feac80b7f3833",
-    "Notes": ""
-  },
-  {
     "Collection": "QIN-BREAST-02",
     "DOI": "https://doi.org/10.7937/TCIA.2019.4cfm06rr",
     "Format": ".xlsx",
@@ -411,24 +366,6 @@
     "External": true,
     "Download": "no",
     "Filenames": "",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-UCEC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039602/gdc_download_clinical_ucec.tar.gz?version=1&modificationDate=1590775029596&api=v2\">gdc_download_clinical_ucec.tar.gz</a>: 359ff4cfc41eaf72d9d5677b02a29427",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-HNSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/11829589/gdc_download_clinical_hnsc.tar.gz?version=1&modificationDate=1590772486422&api=v2\">gdc_download_clinical_hnsc.tar.gz</a>: 9dc86b2e799ecda9c3d3f847f06b7dd4",
     "Notes": ""
   },
   {
@@ -450,51 +387,6 @@
     "Notes": "One xlsx file with 5 sheets. Different patients, same clinical data on each"
   },
   {
-    "Collection": "TCGA-LUAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6881474/gdc_download_clinical_luad.tar.gz?version=1&modificationDate=1590774168840&api=v2\">gdc_download_clinical_luad.tar.gz</a>: 7d33f2520c24aeac468bca790952698c",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-KIRP",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/11829555/gdc_download_clinical_kirp.tar.gz?version=1&modificationDate=1590772871216&api=v2\">gdc_download_clinical_kirp.tar.gz</a>: 8b8a4a52704dd33be681df471cce04ab",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-LIHC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6885436/gdc_download_clinical_lihc.tar.gz?version=1&modificationDate=1590774070337&api=v2\">gdc_download_clinical_lihc.tar.gz</a>: 3abde6100828f8468b9211b184e8bec9",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-LUSC",
-    "DOI": "https://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056484/gdc_download_clinical_lusc.tar.gz?version=1&modificationDate=1590774261961&api=v2\">gdc_download_clinical_lusc.tar.gz</a>: bc249d40b52e10fdaf4d8f2f6f0a8647",
-    "Notes": ""
-  },
-  {
-    "Collection": "IvyGAP",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.XLwaN6nL",
-    "Format": "",
-    "External": true,
-    "Download": "no",
-    "Filenames": "",
-    "Notes": "not clinical data download links. Link resolve to portals. May be able to get data from there"
-  },
-  {
     "Collection": "ISPY1 (ACRIN 6657)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK",
     "Format": ".xlsx",
@@ -502,15 +394,6 @@
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/20643859/I-SPY%201%20All%20Patient%20Clinical%20and%20Outcome%20Data.xlsx?version=1&modificationDate=1474583157883&api=v2\">I-SPY 1 All Patient Clinical and Outcome Data.xlsx</a>: 1dc4dd50a428d328b20f8af115eba5e6",
     "Notes": "xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser"
-  },
-  {
-    "Collection": "TCGA-PRAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6884022/gdc_download_clinical_prad.tar.gz?version=1&modificationDate=1590774478756&api=v2\">gdc_download_clinical_prad.tar.gz</a>: 072fade5a23ea380978536b53bcc0534",
-    "Notes": ""
   },
   {
     "Collection": "Breast-MRI-NACT-Pilot",
@@ -531,33 +414,6 @@
     "Notes": "One xlsx file with two sheets with complimentary data"
   },
   {
-    "Collection": "TCGA-THCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.9ZFRVF1B",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16712011/gdc_download_clinical_thca.tar.gz?version=1&modificationDate=1590774753394&api=v2\">gdc_download_clinical_thca.tar.gz</a>: ef950700e747e6710dee4a8876628d5f",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-BRCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539225/gdc_download_clinical_brca.tar.gz?version=1&modificationDate=1590767151599&api=v2\">gdc_download_clinical_brca.tar.gz</a>: 23ff2419c3be801d1a852fa1e09a00ef",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-SARC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039714/gdc_download_clinical_sarc.tar.gz?version=1&modificationDate=1590774670693&api=v2\">gdc_download_clinical_sarc.tar.gz</a>: 9633e7e8930a4d2463088e621beccda8",
-    "Notes": ""
-  },
-  {
     "Collection": "LungCT-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
     "Format": ".docx",
@@ -567,69 +423,6 @@
     "Notes": "Clinical data in a doc file! Can be parsed manually"
   },
   {
-    "Collection": "TCGA-CESC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039396/gdc_download_clinical_cesc.tar.gz?version=1&modificationDate=1590767336854&api=v2\">gdc_download_clinical_cesc.tar.gz</a>: 3084620142891177321ccf0de46c56fc",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-ESCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039398/gdc_download_clinical_esca.tar.gz?version=1&modificationDate=1590770178675&api=v2\">gdc_download_clinical_esca.tar.gz</a>: e060957933895e3f65e3265db11fbab3",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-STAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039400/gdc_download_clinical_stad.tar.gz?version=1&modificationDate=1590774931139&api=v2\">gdc_download_clinical_stad.tar.gz</a>: c5cc10ec4b316b52b67fdd41c6f0abc6",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-OV",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/7569497/gdc_download_clinical_ov.tar.gz?version=1&modificationDate=1590774363626&api=v2\">gdc_download_clinical_ov.tar.gz</a>: 32edbbd2fddacf0a4cf8c529a7db74b2",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-COAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HJJHBOXZ",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16712033/gdc_download_clinical_coad.tar.gz?version=1&modificationDate=1590769986035&api=v2\">gdc_download_clinical_coad.tar.gz</a>: f8a36b2f04ca9efa72ccdad94dd3d125",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-KIRC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/5800386/gdc_download_clinical_kirc.tar.gz?version=1&modificationDate=1590772768982&api=v2\">gdc_download_clinical_kirc.tar.gz</a>: 6e384156e440d0fc458d45f18a71e474",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-LGG",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/5309188/gdc_download_clinical_lgg.tar.gz?version=1&modificationDate=1590772985546&api=v2\">gdc_download_clinical_lgg.tar.gz</a>: 840339123f5f1a88c30d3e3cb59c364c",
-    "Notes": ""
-  },
-  {
     "Collection": "NSCLC-Radiomics-Genomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
     "Format": ".xls",
@@ -637,33 +430,6 @@
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056856/Lung3.metadata.xls?version=1&modificationDate=1404237338168&api=v2\">Lung3.metadata.xls</a>: 615dcbbe21f1997c53075eda26d161e7",
     "Notes": "One xls file with one sheet with clinical data"
-  },
-  {
-    "Collection": "TCGA-KICH",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056331/gdc_download_clinical_kich.tar.gz?version=1&modificationDate=1590772624962&api=v2\">gdc_download_clinical_kich.tar.gz</a>: 60ab3a303a9782a595a21690209b547b",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-READ",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16711737/gdc_download_clinical_read.tar.gz?version=1&modificationDate=1590774565005&api=v2\">gdc_download_clinical_read.tar.gz</a>: 16eb575525c7fcd3dbe519c69097841b",
-    "Notes": ""
-  },
-  {
-    "Collection": "TCGA-GBM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
-    "Format": ".gz",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/1966258/gdc_download_clinical_gbm.tar.gz?api=v2\">gdc_download_clinical_gbm.tar.gz</a>: 9f6f4eaf54edac2318143e965d0d63e3",
-    "Notes": ""
   },
   {
     "Collection": "Prostate-Diagnosis",
@@ -687,7 +453,7 @@
     "Collection": "REMBRANDT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
     "Format": ".xlsx",
-    "External": true,
+    "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539229/clinical_2014-01-16.xlsx?version=2&modificationDate=1629237658680&api=v2\">clinical_2014-01-16.xlsx</a>: 425f1362f72fc34619c8166e13a7bdcb",
     "Notes": "One xlsx file with one sheet with clinical data"
