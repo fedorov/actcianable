@@ -36,15 +36,6 @@
     "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
   },
   {
-    "Collection": "AREN0532",
-    "DOI": "https://doi.org/10.7937/6PJ1-M859",
-    "Format": "",
-    "External": true,
-    "Download": "no",
-    "Filenames": "",
-    "Notes": ""
-  },
-  {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "https://doi.org/10.7937/Q1EE-J082",
     "Format": ".zip",
