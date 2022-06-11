@@ -1,5 +1,15 @@
 [
   {
+    "Collection": "Expert tumor annotations and radiomic features for the ISPY1/ACRIN 6657 trial data collection (ISPY1-Tumor-SEG-Radiomics)",
+    "DOI": "https://doi.org/10.7937/TCIA.XC7A-QT20",
+    "CancerType": "Breast",
+    "Location": "Breast",
+    "Subjects": "163",
+    "Collections": "ISPY1",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and Radiomic Features",
+    "Updated": "2022-01-06"
+  },
+  {
     "Collection": "PROSTATEx Zone Segmentations (PROSTATEx-Seg-Zones)",
     "DOI": "https://doi.org/10.7937/tcia.nbb4-4655",
     "CancerType": "Prostate",
