@@ -1,5 +1,44 @@
 [
   {
+    "Collection": "AHOD0831",
+    "DOI": "https://doi.org/10.7937/CV5M-1H59",
+    "CancerType": "Hodgkin Lymphoma",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "165",
+    "ImageTypes": "CR,CT,DX,MR,NM,OT,PT,SC,XA",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2022-06-08"
+  },
+  {
+    "Collection": "Hungarian-Colorectal-Screening",
+    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
+    "CancerType": "Colorectal Cancer",
+    "Location": "Colon",
+    "Species": "Human",
+    "Subjects": "200",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-06-03"
+  },
+  {
+    "Collection": "FDG-PET-CT-Lesions",
+    "DOI": "https://doi.org/10.7937/gkr0-xv29",
+    "CancerType": "Lymphoma, Melanoma, Non-small Cell Lung Cancer",
+    "Location": "Lung, Lymph, Skin",
+    "Species": "Human",
+    "Subjects": "900",
+    "ImageTypes": "CT, PT, SEG",
+    "SupportingData": "Clinical, Image Analyses, Software/Source Code",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2022-06-02"
+  },
+  {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
     "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
     "CancerType": "Breast Cancer",
@@ -33,7 +72,7 @@
     "Species": "Human",
     "Subjects": "209",
     "ImageTypes": "Pathology",
-    "SupportingData": "Image Analyses, Clinical",
+    "SupportingData": "Clinical, Image Analyses",
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2022-04-28"
@@ -930,7 +969,7 @@
     "Species": "Human",
     "Subjects": "244",
     "ImageTypes": "CT, MR, PT, CR, Pathology",
-    "SupportingData": "Genomics, Clinical, Proteomics",
+    "SupportingData": "Clinical, Genomics, Proteomics",
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2020-03-31"
@@ -968,7 +1007,7 @@
     "Location": "Head-Neck",
     "Species": "Human",
     "Subjects": "606",
-    "ImageTypes": "CT, RTSTRUCT, Clinical",
+    "ImageTypes": "CT, RTSTRUCT",
     "SupportingData": "Clinical",
     "Access": "Limited",
     "Status": "Complete",
@@ -1086,7 +1125,7 @@
     "Species": "Human",
     "Subjects": "222",
     "ImageTypes": "CT, MR, Pathology",
-    "SupportingData": "Proteomics, Clinical, Genomics",
+    "SupportingData": "Clinical, Genomics, Proteomics",
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2019-09-30"
@@ -2022,7 +2061,7 @@
     "Species": "Human",
     "Subjects": "1010",
     "ImageTypes": "CT, CR, DX",
-    "SupportingData": "Image Analyses, Clinical",
+    "SupportingData": "Clinical, Image Analyses",
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2012-03-21"
