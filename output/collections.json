@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Duke-Breast-Cancer-MRI",
+    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "922",
+    "ImageTypes": "MR, SEG",
+    "SupportingData": "Clinical, Genomics, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-06-13"
+  },
+  {
     "Collection": "AHOD0831",
     "DOI": "https://doi.org/10.7937/CV5M-1H59",
     "CancerType": "Hodgkin Lymphoma",
@@ -453,19 +466,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2021-04-28"
-  },
-  {
-    "Collection": "Duke-Breast-Cancer-MRI",
-    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "922",
-    "ImageTypes": "MR",
-    "SupportingData": "Clinical, Genomics, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2021-04-06"
   },
   {
     "Collection": "CMMD",

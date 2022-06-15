@@ -586,7 +586,7 @@
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Subjects": "922",
-    "Updated": "2021-04-06",
+    "Updated": "2022-06-13",
     "Format": "Excel",
     "DICOMstatus": "not done",
     "Comment": "3d boxes defining region of interest, stored in row/col/slice coordinates.",

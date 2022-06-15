@@ -1,5 +1,14 @@
 [
   {
+    "Collection": "Duke-Breast-Cancer-MRI",
+    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
+    "Format": ".xlsx",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226903/Clinical_and_Other_Features.xlsx?api=v2\">Clinical_and_Other_Features.xlsx</a>: 13d3a4833d945ff843453f8138517f65",
+    "Notes": ""
+  },
+  {
     "Collection": "Hungarian-Colorectal-Screening",
     "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
     "Format": ".csv",
@@ -168,15 +177,6 @@
     "External": true,
     "Download": "no",
     "Filenames": "",
-    "Notes": ""
-  },
-  {
-    "Collection": "Duke-Breast-Cancer-MRI",
-    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
-    "Format": ".xlsx",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226903/Clinical_and_Other_Features.xlsx?api=v2\">Clinical_and_Other_Features.xlsx</a>: 13d3a4833d945ff843453f8138517f65",
     "Notes": ""
   },
   {
