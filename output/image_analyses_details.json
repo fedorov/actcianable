@@ -584,5 +584,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "UPENN-GBM",
+    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
