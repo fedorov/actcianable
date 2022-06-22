@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "Vestibular-Schwannoma-SEG",
+    "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
+    "Access": "Public",
+    "Updated": "2022-06-21",
+    "some_date": "2021-02-28",
+    "is_excluded": false
+  },
+  {
+    "Collection": "UPENN-GBM",
+    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
+    "Access": "Public",
+    "Updated": "2022-06-21",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Access": "Public",
@@ -310,14 +326,6 @@
     "Updated": "2021-03-30",
     "some_date": "n/a",
     "is_excluded": true
-  },
-  {
-    "Collection": "Vestibular-Schwannoma-SEG",
-    "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
-    "Access": "Limited",
-    "Updated": "2021-03-17",
-    "some_date": "2021-02-28",
-    "is_excluded": false
   },
   {
     "Collection": "MIDRC-RICORD-1b",
