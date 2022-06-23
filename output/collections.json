@@ -13,19 +13,6 @@
     "Updated": "2022-06-21"
   },
   {
-    "Collection": "UPENN-GBM",
-    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
-    "CancerType": "Glioblastoma",
-    "Location": "Brain",
-    "Species": "Human",
-    "Subjects": "630",
-    "ImageTypes": "MR",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2022-06-21"
-  },
-  {
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "CancerType": "Breast Cancer",
