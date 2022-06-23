@@ -1,14 +1,5 @@
 [
   {
-    "Collection": "UPENN-GBM",
-    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
-    "Format": ".csv",
-    "External": false,
-    "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.1.csv?api=v2https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.1.csv</a>: 2df31ca5353bcccb5bc4baf2159eaafa",
-    "Notes": ""
-  },
-  {
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Format": ".xlsx",
@@ -159,15 +150,6 @@
     "External": false,
     "Download": "yes",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv</a>: 5bd199f8743d1ffd55dc67a0b2477560, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv</a>: bb5b4e606e63ac85de7d821c7ea7bda4",
-    "Notes": ""
-  },
-  {
-    "Collection": "APOLLO-5-LSCC",
-    "DOI": "https://doi.org/10.7937/TCIA.QQ0G-EB24",
-    "Format": "",
-    "External": true,
-    "Download": "no",
-    "Filenames": "",
     "Notes": ""
   },
   {
