@@ -1,5 +1,14 @@
 [
   {
+    "Collection": "UPENN-GBM",
+    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
+    "Format": ".csv",
+    "External": false,
+    "Download": "yes",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.1.csv?api=v2https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.1.csv</a>: 2df31ca5353bcccb5bc4baf2159eaafa",
+    "Notes": ""
+  },
+  {
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Format": ".xlsx",

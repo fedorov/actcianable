@@ -713,5 +713,16 @@
     "Comment": "",
     "CollectionType": "original",
     "DICOMtarget": ""
+  },
+  {
+    "Collection": "UPENN-GBM",
+    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
+    "Subjects": "630",
+    "Updated": "2022-06-21",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
   }
 ]
