@@ -28,6 +28,9 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
     if (len(tds)>0):
       data_type =tds[0].text.strip()
       # data_type reported as 'clinical' in the 'Data Type' column means there is clinical data
+      if ('alternate' in current_clinical[collection_name]):
+        i=1
+        pass
 
       if ( (data_type.lower().find('clinical')>-1) or  (('alternate' in current_clinical[collection_name]) and (data_type in current_clinical[collection_name]['alternate']))):
         some_internal = True
@@ -107,7 +110,7 @@ for row in rows:
   collection_supporting_col = row.find('td',{'class':'column-7'})
   collection_supporting = collection_supporting_col.text.strip()
 
-  if ('Clinical' in collection_supporting):
+  if (('Clinical' in collection_supporting) or (collection_name in current_clinical)):
     if not (collection_name in current_clinical):
         current_clinical[collection_name]={}
         current_clinical[collection_name]['notes'] ='new collection detected as of '+str(datetime.now().date())
