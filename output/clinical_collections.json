@@ -56,10 +56,10 @@
   {
     "Collection": "HER2 tumor ROIs",
     "DOI": "https://doi.org/10.7937/E65C-AM96",
-    "Format": ".csv",
+    "Format": ".xlsx",
     "External": false,
     "Download": "yes",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702524/HER2_ROI.csv?api=v2\">HER2_ROI.csv</a>: 08be660f0baafc3f4eef19cd855b29f7",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702524/Yale_trastuzumab_response_cohort_metadata_clean.xlsx?api=v2\">Yale_trastuzumab_response_cohort_metadata_clean.xlsx</a>: 0a220d2338c8b72d8a60215adc418337",
     "Notes": ""
   },
   {
