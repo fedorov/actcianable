@@ -33,7 +33,6 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
         pass
 
       if ( (data_type.lower().find('clinical')>-1) or  (('alternate' in current_clinical[collection_name]) and (data_type in current_clinical[collection_name]['alternate']))):
-        some_internal = True
         #clinical_found = True
         #print(collection_name+" "+data_type)
         hrefArr = tds[1].find_all('a', href=True)
@@ -50,6 +49,7 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
           if (purl.hostname.find(tcia) == -1):
             some_external = True
           else:
+            some_internal = True
             try:
               print(url)
               head_info = requests.head(url, timeout=5)
@@ -73,7 +73,7 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
               access_error = True
   if not some_internal:
     some_external = True
-  return([access_error,some_external])
+  return([access_error,some_internal])
 
 
 notes={}
@@ -96,7 +96,7 @@ tableb = soup.find(id="tablepress-9").find('tbody')
 rows = tableb.find_all("tr")
 outTable = []
 
-header = "Collection,DOI,External,Format,Filenames,Notes".split(",")
+header = "Collection,DOI,Wiki,Format,Filenames,Notes".split(",")
 
 for row in rows:
   trow = {}
@@ -118,8 +118,8 @@ for row in rows:
 
     data_formats=set()
     filenms=[]
-    some_external=False
-    [access_error, some_external] = fetchClinical(collection_name, collection_href, data_formats, filenms)
+    some_internal=False
+    [access_error, some_internal] = fetchClinical(collection_name, collection_href, data_formats, filenms)
     data_formats_list=list(data_formats)
     data_formats_list.sort()
     data_format_str= ", ".join(data_formats_list)
@@ -128,7 +128,7 @@ for row in rows:
 
     trow[header[0]] = collection_name
     trow[header[1]] = collection_href
-    trow[header[2]] = some_external
+    trow[header[2]] = some_internal
     trow[header[3]]=data_format_str
     trow[header[4]] = filenm_str
     try:
