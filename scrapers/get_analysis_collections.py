@@ -31,6 +31,8 @@ for row in rows:
   cols = row.find_all("td")
   for cid, col in enumerate(cols):
     if cid == 0:
+      if col.find("a") == None:
+        break
       trow[header[0]] = col.find("a").text
       trow[header[1]] = col.find("a")["href"]
     else:

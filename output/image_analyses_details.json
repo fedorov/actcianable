@@ -566,5 +566,32 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "Hungarian-Colorectal-Screening",
+    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "FDG-PET-CT-Lesions",
+    "DOI": "https://doi.org/10.7937/gkr0-xv29",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "UPENN-GBM",
+    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]

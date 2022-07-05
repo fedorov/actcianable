@@ -5,7 +5,7 @@
     "Wiki": true,
     "Format": ".csv",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.1.csv?api=v2https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.1.csv</a>: 2df31ca5353bcccb5bc4baf2159eaafa",
-    "Notes": "new collection detected as of 2022-06-27"
+    "Notes": "new collection detected as of 2022-07-05"
   },
   {
     "Collection": "Duke-Breast-Cancer-MRI",
@@ -37,7 +37,7 @@
     "Wiki": true,
     "Format": ".csv",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93258287/Clinical%20Metadata%20FDG%20PET_CT%20Lesions.csv?api=v2\">Clinical Metadata FDG PET_CT Lesions.csv</a>: 1629d4308c7856c93d04d27ebaa630d6",
-    "Notes": "new collection detected as of 2022-06-27"
+    "Notes": "new collection detected as of 2022-07-05"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
