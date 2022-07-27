@@ -5,7 +5,6 @@ import backoff
 import json
 import os
 import hashlib
-from datetime import datetime
 
 @backoff.on_exception(backoff.expo,
                       requests.exceptions.RequestException,
@@ -77,13 +76,13 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
 
 
 notes={}
+current_clinical={}
 try:
   with open("output/clinical_notes.json", "r") as f:
     current_clinical=json.load(f)
     for colec in current_clinical:
       if 'notes' in current_clinical[colec]:
         notes[colec] = current_clinical[colec]['notes']
-
 except IOError:
     print("clinical notes file not found")
 
@@ -113,7 +112,8 @@ for row in rows:
   if (('Clinical' in collection_supporting) or (collection_name in current_clinical)):
     if not (collection_name in current_clinical):
         current_clinical[collection_name]={}
-        current_clinical[collection_name]['notes'] ='new collection detected as of '+str(datetime.now().date())
+
+        current_clinical[collection_name]['notes'] ='collection not yet curated for idc'
         notes[collection_name] = current_clinical[collection_name]['notes']
 
     data_formats=set()
@@ -125,7 +125,6 @@ for row in rows:
     data_format_str= ", ".join(data_formats_list)
     filenms.sort()
     filenm_str= ", ".join(filenms)
-
     trow[header[0]] = collection_name
     trow[header[1]] = collection_href
     trow[header[2]] = some_internal

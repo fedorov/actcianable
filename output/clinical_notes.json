@@ -83,6 +83,8 @@
 
   "Duke-Breast-Cancer-MRI":{"notes":"one xlsx file with 3 sheets. The first has clinical data, the third has a template", "spec":"ignore","srcs":[[{"filenm":"Clinical_and_Other_Features.xlsx","sheet":0, "headrows":[0,1],  "skipRows":[2]}]]  },
 
+  "FDG-PET-CT-Lesions":{"notes": "collection is limited and not currently in IDC"},
+
   "Head-Neck-PET-CT":{"notes":"One xlsx file with 5 sheets. Different patients, same clinical data on each", "srcs":[  [ {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":0, "maxRow":91}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":1, "maxRow":101}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":2, "maxRow":41}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":3, "maxRow":65}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":4, "maxRow":2} ]  ] },
 
 
@@ -93,8 +95,8 @@
             "srcs": [  [ {"filenm":"Patient and Treatment Characteristics.xls","sheet":0, "skipCols":[3] }, {"filenm":"HNSCC Clinical Data.csv"}  ]   ], "case_id":"same"   },
 
 
-  "HNSCC-3DCT-RT": {"notes":"One xlsb file.  8 sheets, each with different types of clinical data. Special parser needed.No longer listed as having clinical data on the tcia collections page", "special":"HNSCC-3DCT-RT",
-                     "srcs":[ [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":0, "headrows":[0,1] }], [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":1 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":4 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":5}], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":6 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":7}]   ] , "case_id":"3DCT-RT"},
+  "HNSCC-3DCT-RT": {"notes":"One xlsb file.  8 sheets,  with different types of clinical data and CT data. ",  "tabletypes":[{"demographics":"demographics data"},{"dose":"dose data"},{"outcome":"outcome data"},{"weight":"weight data"}],
+                     "srcs":[ [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":1 }], [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":5 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":6 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":7}]  ] , "case_id":"3DCT-RT"},
 
  "Hungarian-Colorectal-Screening":{"notes":"one csv file with clinical data. Not yet in idc"}, "srcs":[[{"filenm":"metadata_age_sex_icd10status.csv"}]],
 
@@ -220,8 +222,18 @@
 
   "TCGA-THCA":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
 
-"TCGA-UCEC":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"}
+"TCGA-UCEC":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
 
+  "UPENN-GBM":{
+    "notes":"one csv file with clinical data",
+    "srcs": [
+      {
+        "filenm":"UPENN-GBM_clinical_info_v1.1.csv",
+        "sheet":0
+      }
+    ],
+    "case_id": "UPENN-GBM"
+  }
 
 
 }
