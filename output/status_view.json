@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "GammaKnife-Hippocampal",
+    "DOI": "https://doi.org/10.7937/Q967-X166",
+    "Access": "Limited",
+    "Updated": "2022-07-22",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "GBM-DSC-MRI-DRO",
+    "DOI": "https://doi.org/10.7937/TCIA.2020.RMWVZWIX",
+    "Access": "Public",
+    "Updated": "2022-07-21",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "Vestibular-Schwannoma-SEG",
     "DOI": "https://doi.org/10.7937/TCIA.9YTJ-5Q73",
     "Access": "Public",
