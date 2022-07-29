@@ -119,7 +119,12 @@ for row in rows:
     data_formats=set()
     filenms=[]
     some_internal=False
-    [access_error, some_internal] = fetchClinical(collection_name, collection_href, data_formats, filenms)
+    try:
+      [access_error, some_internal] = fetchClinical(collection_name, collection_href, data_formats, filenms)
+    except:
+      print("problem scraping page for this collection: "+ collection_name+" "+collection_href)
+      access_error=True
+
     data_formats_list=list(data_formats)
     data_formats_list.sort()
     data_format_str= ", ".join(data_formats_list)
@@ -133,7 +138,9 @@ for row in rows:
     try:
       trow[header[5]] = notes[collection_name]
     except:
-      pass
+      trow[header[5]]=""
+    if access_error:
+        trow[header[5]] = trow[header[5]]+"!Run Time Error: Collection not scraped!"
     outTable= outTable + [trow]
 
 with open("output/clinical_collections.json", "w") as f:
