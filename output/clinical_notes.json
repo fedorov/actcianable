@@ -74,7 +74,7 @@
   
 "CPTAC-SAR":{"notes":"CPTAC collection clinical data to be sourced from ISB-CGC BQ table","spec":"CPTAC", "srcs":{"table":"isb-cgc-bq.CPTAC.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
  
-"CPTAC-UCEC":{"notes":"CPTAC collection clinical data to be sourced from ISB-CGC BQ table","spec":"CPTAC", "srcs":{"table":"isb-cgc-bq.CPTAC.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
+"CPTAC-UCEC":{"notes":"CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page","spec":"CPTAC", "srcs":{"table":"isb-cgc-bq.CPTAC.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
 
 
   "CRC_FFPE-CODEX_CellNeighs":{"notes":"2 xlsx files, one with clinical data, one with radiometric data that is not directly applicable to the clinical data format","srcs":[[ {"filenm":"CRC_TMAs_patient_annotations.xlsx","sheet":0, "maxRow":35, "skipCols":[5,6]}   ]]},
