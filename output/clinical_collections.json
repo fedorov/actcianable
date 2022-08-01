@@ -429,7 +429,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-SAR",
