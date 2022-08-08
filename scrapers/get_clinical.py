@@ -19,25 +19,17 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
   content = colrequest.content
   collection_html = BeautifulSoup(content, 'html.parser')
   data_access_rows = collection_html.find('div',{'name':'Data Access'}).find('tbody').find_all('tr')
-  some_external=False
-  access_error=True
+  access_error=False
   some_internal=False
   for da_row in data_access_rows:
     tds= da_row.find_all('td')
     if (len(tds)>0):
       data_type =tds[0].text.strip()
       # data_type reported as 'clinical' in the 'Data Type' column means there is clinical data
-      if ('alternate' in current_clinical[collection_name]):
-        i=1
-        pass
 
       if ( (data_type.lower().find('clinical')>-1) or  (('alternate' in current_clinical[collection_name]) and (data_type in current_clinical[collection_name]['alternate']))):
-        #clinical_found = True
-        #print(collection_name+" "+data_type)
         hrefArr = tds[1].find_all('a', href=True)
         for href in hrefArr:
-          download_file_found_in_row=False
-          filenm=''
           url = href.attrs['href']
           purl = urlparse(url)
           #add tcia hostname to internal links
@@ -45,9 +37,7 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
             url = tcia_protocol+tcia + url
             purl = urlparse(url)
           # some download urls links not on tcia
-          if (purl.hostname.find(tcia) == -1):
-            some_external = True
-          else:
+          if (purl.hostname.find(tcia) > -1):
             some_internal = True
             try:
               print(url)
@@ -70,8 +60,6 @@ def fetchClinical(collection_name, collection_href, data_formats, filenms):
                 access_error = True
             except:
               access_error = True
-  if not some_internal:
-    some_external = True
   return([access_error,some_internal])
 
 
