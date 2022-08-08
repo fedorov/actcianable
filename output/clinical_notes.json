@@ -79,7 +79,7 @@
 
   "CRC_FFPE-CODEX_CellNeighs":{"notes":"2 xlsx files, one with clinical data, one with radiometric data that is not directly applicable to the clinical data format","srcs":[[ {"filenm":"CRC_TMAs_patient_annotations.xlsx","sheet":0, "maxRow":35, "skipCols":[5,6]}   ]]},
 
-  "DLBCL-Morphology":{"notes":"one csv file with clinical data. Not yet in IDC","srcs":[[{"filenm":"clinical_data_cleaned.csv","sheet":0}]]},
+  "DLBCL-Morphology":{"notes":"one csv file with clinical data. Not yet in IDC","srcs":[[{"filenm":"clinical_data_cleaned.csv","sheet":0}]], "spec":"ignore"},
 
   "Duke-Breast-Cancer-MRI":{"notes":"one xlsx file with 3 sheets. The first has clinical data, the third has a template", "spec":"ignore","srcs":[[{"filenm":"Clinical_and_Other_Features.xlsx","sheet":0, "headrows":[0,1],  "skipRows":[2]}]]  },
 
@@ -103,7 +103,7 @@
 
   "ISPY1 (ACRIN 6657)":{"notes":"xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser", "tabletypes":[{"clinical":"clinical"}, {"outcome":"patient outcomes"}],"srcs":[[ {"filenm":"I-SPY 1 All Patient Clinical and Outcome Data.xlsx","sheet":1} ], [{"filenm":"I-SPY 1 All Patient Clinical and Outcome Data.xlsx","sheet":3}]], "dict":[["I-SPY 1 All Patient Clinical and Outcome Data.xlsx",0],["I-SPY 1 All Patient Clinical and Outcome Data.xlsx",2]], "case_id":"ispy" },
 
-  "I-SPY2 Trial":{"notes":"on xlsx file with clinical data, and another with imaging data. Not yet in idc","alternate":"Multi-feature MRI NACT Data", "tabletypes":[{"clinical":"clinical data"},{"imaging":"imaging data"}], "srcs":[[{"filenm":"ISPY2 Imaging Cohort 1 Clinical Data.xlsx","sheet":0}],  [{"filenm":"Multi-feature MRI NACT Data.xlsx", "sheet":0} ]]},
+  "I-SPY2 Trial":{"notes":"on xlsx file with clinical data, and another with imaging data. Not yet in idc","alternate":"Multi-feature MRI NACT Data", "tabletypes":[{"clinical":"clinical data"},{"imaging":"imaging data"}], "srcs":[[{"filenm":"ISPY2 Imaging Cohort 1 Clinical Data.xlsx","sheet":0}],  [{"filenm":"Multi-feature MRI NACT Data.xlsx", "sheet":0} ]], "spec":"ignore"},
 
   "IvyGAP":{"notes":"not clinical data download links. Link resolve to portals. May be able to get data from there"},
 
@@ -225,6 +225,7 @@
 "TCGA-UCEC":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
 
   "UPENN-GBM":{
+    "spec":"ignore",
     "notes":"one csv file with clinical data",
     "srcs": [
       {
