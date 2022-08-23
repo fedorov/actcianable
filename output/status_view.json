@@ -1,5 +1,69 @@
 [
   {
+    "Collection": "HCC-TACE-Seg",
+    "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
+    "Access": "Public",
+    "Updated": "2022-08-17",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "PDMR-521955-158-R4",
+    "DOI": "https://doi.org/10.7937/q37d-vh79 ",
+    "Access": "Public",
+    "Updated": "2022-08-16",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-CRC",
+    "DOI": "https://doi.org/10.7937/DJG7-GZ87",
+    "Access": "Public",
+    "Updated": "2022-08-12",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-GEC",
+    "DOI": "https://doi.org/10.7937/E7KH-R486",
+    "Access": "Public",
+    "Updated": "2022-08-12",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-LCA",
+    "DOI": "https://doi.org/10.7937/3CX3-S132",
+    "Access": "Public",
+    "Updated": "2022-08-12",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-MEL",
+    "DOI": "https://doi.org/10.7937/GWSP-WH72",
+    "Access": "Public",
+    "Updated": "2022-08-12",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-MML",
+    "DOI": "https://doi.org/10.7937/SZKB-SW39",
+    "Access": "Public",
+    "Updated": "2022-08-12",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-PCA",
+    "DOI": "https://doi.org/10.7937/25T7-6Y12",
+    "Access": "Public",
+    "Updated": "2022-08-12",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "GammaKnife-Hippocampal",
     "DOI": "https://doi.org/10.7937/Q967-X166",
     "Access": "Limited",
@@ -277,6 +341,14 @@
     "Access": "Public",
     "Updated": "2021-08-10",
     "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Prostate-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
+    "Access": "Public",
+    "Updated": "2021-08-09",
+    "some_date": "2021-02-27",
     "is_excluded": true
   },
   {
@@ -1278,14 +1350,6 @@
     "Updated": "2013-04-17",
     "some_date": "2021-03-01",
     "is_excluded": false
-  },
-  {
-    "Collection": "Prostate-Diagnosis",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
-    "Access": "Public",
-    "Updated": "2013-01-30",
-    "some_date": "2021-02-27",
-    "is_excluded": true
   },
   {
     "Collection": "LIDC-IDRI",

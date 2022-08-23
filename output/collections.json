@@ -1,5 +1,109 @@
 [
   {
+    "Collection": "HCC-TACE-Seg",
+    "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
+    "CancerType": "Hepatocellular Carcinoma",
+    "Location": "Liver",
+    "Species": "Human",
+    "Subjects": "105",
+    "ImageTypes": "CT, SEG",
+    "SupportingData": "Clinical, Image Analyses, Software/Source Code",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-08-17"
+  },
+  {
+    "Collection": "PDMR-521955-158-R4",
+    "DOI": "https://doi.org/10.7937/q37d-vh79 ",
+    "CancerType": "Adenocarcinoma Pancreas",
+    "Location": "Abdomen",
+    "Species": "Mouse",
+    "Subjects": "20",
+    "ImageTypes": "MR, SR",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-08-16"
+  },
+  {
+    "Collection": "CMB-CRC",
+    "DOI": "https://doi.org/10.7937/DJG7-GZ87",
+    "CancerType": "Colorectal Cancer",
+    "Location": "Colon",
+    "Species": "Human",
+    "Subjects": "12",
+    "ImageTypes": "CT, DX, MR, PT, US",
+    "SupportingData": "Clinical, Pathology",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2022-08-12"
+  },
+  {
+    "Collection": "CMB-GEC",
+    "DOI": "https://doi.org/10.7937/E7KH-R486",
+    "CancerType": "Gastroesophageal Cancer",
+    "Location": "Esophagus",
+    "Species": "Human",
+    "Subjects": "1",
+    "ImageTypes": "CT, PT",
+    "SupportingData": "Clinical, Pathology",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2022-08-12"
+  },
+  {
+    "Collection": "CMB-LCA",
+    "DOI": "https://doi.org/10.7937/3CX3-S132",
+    "CancerType": "Lung Cancer",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "11",
+    "ImageTypes": "CT, DX, MR, NM, US",
+    "SupportingData": "Clinical, Pathology",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2022-08-12"
+  },
+  {
+    "Collection": "CMB-MEL",
+    "DOI": "https://doi.org/10.7937/GWSP-WH72",
+    "CancerType": "Melanoma",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "9",
+    "ImageTypes": "CT, PT, US",
+    "SupportingData": "Clinical, Pathology",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2022-08-12"
+  },
+  {
+    "Collection": "CMB-MML",
+    "DOI": "https://doi.org/10.7937/SZKB-SW39",
+    "CancerType": "Multiple Myeloma",
+    "Location": "Blood, Bone",
+    "Species": "Human",
+    "Subjects": "5",
+    "ImageTypes": "CT, MR, PT",
+    "SupportingData": "Clinical, Pathology",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2022-08-12"
+  },
+  {
+    "Collection": "CMB-PCA",
+    "DOI": "https://doi.org/10.7937/25T7-6Y12",
+    "CancerType": "Prostate Cancer",
+    "Location": "Prostate",
+    "Species": "Human",
+    "Subjects": "3",
+    "ImageTypes": "CT, MR, NM",
+    "SupportingData": "Clinical, Pathology",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2022-08-12"
+  },
+  {
     "Collection": "GammaKnife-Hippocampal",
     "DOI": "https://doi.org/10.7937/Q967-X166",
     "CancerType": "Various, Non-Cancer",
@@ -9,7 +113,7 @@
     "ImageTypes": "CT, MR, REG, RTDOSE, RTPLAN, RTSTRUCT",
     "SupportingData": "",
     "Access": "Limited",
-    "Status": "Completed",
+    "Status": "Complete",
     "Updated": "2022-07-22"
   },
   {
@@ -453,6 +557,19 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2021-08-10"
+  },
+  {
+    "Collection": "Prostate-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
+    "CancerType": "Prostate Cancer",
+    "Location": "Prostate",
+    "Species": "Human",
+    "Subjects": "92",
+    "ImageTypes": "MR",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2021-08-09"
   },
   {
     "Collection": "Breast Cancer Screening-DBT",
@@ -2078,19 +2195,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2013-04-17"
-  },
-  {
-    "Collection": "Prostate-Diagnosis",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
-    "CancerType": "Prostate Cancer",
-    "Location": "Prostate",
-    "Species": "Human",
-    "Subjects": "92",
-    "ImageTypes": "MR",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2013-01-30"
   },
   {
     "Collection": "LIDC-IDRI",
