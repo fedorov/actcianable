@@ -75,9 +75,9 @@
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226903/Clinical_and_Other_Features.xlsx?api=v2\">Clinical_and_Other_Features.xlsx</a>: 13d3a4833d945ff843453f8138517f65",
-    "Notes": "one xlsx file with 3 sheets. The first has clinical data, the third has a template"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with 3 sheets. The first has clinical data, the third has a template!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "AHOD0831",
@@ -171,9 +171,9 @@
     "Collection": "CDD-CESM",
     "DOI": "https://doi.org/10.7937/29kw-ae92",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "a zip file with seperate docx format files, each containing a medical report for a different patient. Would take some work to get this in tabular format!Run Time Error: Collection not scraped!"
+    "Format": ".zip",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/109379611/Medical%20reports%20for%20cases%20.zip?api=v2\">Medical reports for cases .zip</a>: 31c83daaf88a5aa89cf6fa3cb28efdca",
+    "Notes": "a zip file with seperate docx format files, each containing a medical report for a different patient. Would take some work to get this in tabular format"
   },
   {
     "Collection": "Ovarian Bevacizumab Response",
@@ -395,9 +395,9 @@
     "Collection": "NSCLC-Radiomics-Interobserver1",
     "DOI": "https://doi.org/10.7937/tcia.2019.cwvlpd26",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "one csv file with clinical data!Run Time Error: Collection not scraped!"
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52756590/Interobserver1.clinical_updated_released_2019-June-17.csv?version=1&modificationDate=1560796626334&api=v2\">Interobserver1.clinical_updated_released_2019-June-17.csv</a>: b14b7a077f995921c6874dacb5846eb7",
+    "Notes": "one csv file with clinical data"
   },
   {
     "Collection": "Head-Neck-Radiomics-HN1",
