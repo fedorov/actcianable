@@ -735,5 +735,16 @@
     "Comment": "",
     "CollectionType": "original",
     "DICOMtarget": ""
+  },
+  {
+    "Collection": "Pancreatic-CT-CBCT-SEG",
+    "DOI": "https://doi.org/10.7937/TCIA.ESHQ-4D90",
+    "Subjects": "40",
+    "Updated": "2022-08-23",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
   }
 ]
