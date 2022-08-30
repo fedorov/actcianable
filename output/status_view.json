@@ -1,5 +1,37 @@
 [
   {
+    "Collection": "CMB-MEL",
+    "DOI": "https://doi.org/10.7937/GWSP-WH72",
+    "Access": "Public",
+    "Updated": "2022-08-29",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-CRC",
+    "DOI": "https://doi.org/10.7937/DJG7-GZ87",
+    "Access": "Public",
+    "Updated": "2022-08-29",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-PCA",
+    "DOI": "https://doi.org/10.7937/25T7-6Y12",
+    "Access": "Public",
+    "Updated": "2022-08-29",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CMB-LCA",
+    "DOI": "https://doi.org/10.7937/3CX3-S132",
+    "Access": "Public",
+    "Updated": "2022-08-29",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CT vs PET Ventilation Imaging",
     "DOI": "https://doi.org/10.7937/3ppx-7s22",
     "Access": "Public",
@@ -40,40 +72,8 @@
     "is_excluded": true
   },
   {
-    "Collection": "CMB-MEL",
-    "DOI": "https://doi.org/10.7937/GWSP-WH72",
-    "Access": "Public",
-    "Updated": "2022-08-12",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
     "Collection": "CMB-GEC",
     "DOI": "https://doi.org/10.7937/E7KH-R486",
-    "Access": "Public",
-    "Updated": "2022-08-12",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "CMB-CRC",
-    "DOI": "https://doi.org/10.7937/DJG7-GZ87",
-    "Access": "Public",
-    "Updated": "2022-08-12",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "CMB-PCA",
-    "DOI": "https://doi.org/10.7937/25T7-6Y12",
-    "Access": "Public",
-    "Updated": "2022-08-12",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "CMB-LCA",
-    "DOI": "https://doi.org/10.7937/3CX3-S132",
     "Access": "Public",
     "Updated": "2022-08-12",
     "some_date": "n/a",
