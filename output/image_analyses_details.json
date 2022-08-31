@@ -593,5 +593,23 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "HCC-TACE-Seg",
+    "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Pancreatic-CT-CBCT-SEG",
+    "DOI": "https://doi.org/10.7937/TCIA.ESHQ-4D90",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]

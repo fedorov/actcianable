@@ -1,43 +1,12 @@
 [
   {
-    "Collection": "HCC-TACE-Seg",
-    "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230229/HCC-TACE-Seg_clinical_data-V2.xlsx\">HCC-TACE-Seg_clinical_data-V2.xlsx</a>: 63af6363b9d0fe453c48e75402e9082c",
-    "Notes": "one xlsx file with clinical data and a glossary"
-  },
-  {
-    "Collection": "PDMR-521955-158-R4",
-    "DOI": "https://doi.org/10.7937/q37d-vh79 ",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "external only"
-  },
-  {
-    "Collection": "CMB-MML",
-    "DOI": "https://doi.org/10.7937/SZKB-SW39",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "external only"
-  },
-  {
+
     "Collection": "CMB-MEL",
     "DOI": "https://doi.org/10.7937/GWSP-WH72",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
-  },
-  {
-    "Collection": "CMB-GEC",
-    "DOI": "https://doi.org/10.7937/E7KH-R486",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "external only"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "CMB-CRC",
@@ -45,7 +14,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "CMB-PCA",
@@ -53,7 +22,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "CMB-LCA",
@@ -61,7 +30,39 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "HCC-TACE-Seg",
+    "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230229/HCC-TACE-Seg_clinical_data-V2.xlsx\">HCC-TACE-Seg_clinical_data-V2.xlsx</a>: 63af6363b9d0fe453c48e75402e9082c",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "PDMR-521955-158-R4",
+    "DOI": "https://doi.org/10.7937/q37d-vh79 ",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "CMB-MML",
+    "DOI": "https://doi.org/10.7937/SZKB-SW39",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "CMB-GEC",
+    "DOI": "https://doi.org/10.7937/E7KH-R486",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "UPENN-GBM",
@@ -110,6 +111,14 @@
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230072/ISPY2%20Imaging%20Cohort%201%20Clinical%20Data.xlsx?api=v2\">ISPY2 Imaging Cohort 1 Clinical Data.xlsx</a>: 6ac1440f0f4230018638ad153f9d89bf",
     "Notes": "on xlsx file with clinical data"
+  },
+  {
+    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
+    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/50135447/Full%20Collection%20Ancillary%20Patient%20Information%20file.xlsx?api=v2\">Full Collection Ancillary Patient Information file.xlsx</a>: 33fc5e3943cbe0cb47682f52da05c2e5",
+    "Notes": "one xlsx file with clinical data. not in IDC yet"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
@@ -220,8 +229,16 @@
     "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
     "Wiki": true,
     "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv</a>: 5bd199f8743d1ffd55dc67a0b2477560, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv</a>: bb5b4e606e63ac85de7d821c7ea7bda4",
-    "Notes": "one csv file with clinical information, one data dictionary or template"
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv</a>: 5bd199f8743d1ffd55dc67a0b2477560",
+    "Notes": "one csv file with clinical information, one data dictionary or template!Run Time Error: Collection not scraped!"
+  },
+  {
+    "Collection": "Prostate-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3277254/ProstateDiagnosis_metadata-05-07-2012.xlsx?version=1&modificationDate=1336416623725&api=v2\">ProstateDiagnosis_metadata-05-07-2012.xlsx</a>: bc5a4fede88789b4002a54640da5063a",
+    "Notes": "one xlsx file with clinical data. Not in idc"
   },
   {
     "Collection": "Prostate-Diagnosis",
@@ -524,8 +541,8 @@
     "DOI": "https://doi.org/10.7937/tcia.2019.30ilqfcl",
     "Wiki": true,
     "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879162/ACRIN%206668%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%201.zip?version=1&modificationDate=1590499820066&api=v2\">ACRIN 6668 NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 1.zip</a>: b34a9550c1c93fd7fb5d6fa487c5c9ee, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879162/ACRIN%206668HB%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%202.zip?version=1&modificationDate=1590499781413&api=v2\">ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 2.zip</a>: c7134f971b2b797a7a2fe2a8245728c6",
-    "Notes": "Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set"
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879162/ACRIN%206668HB%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%202.zip?version=1&modificationDate=1590499781413&api=v2\">ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 2.zip</a>: c7134f971b2b797a7a2fe2a8245728c6",
+    "Notes": "Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
@@ -547,9 +564,9 @@
     "Collection": "Lung Fused-CT-Pathology",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39878702/Lung%20Fused-CT-Pathology%20spreadsheet.xlsx?version=1&modificationDate=1532544176723&api=v2\">Lung Fused-CT-Pathology spreadsheet.xlsx</a>: 32c331abf73bd2cabf819fb06fdcbdcf",
-    "Notes": "One xlsx file with one sheet with clear clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-BL0293-F563",
@@ -587,9 +604,9 @@
     "Collection": "QIN-BREAST-02",
     "DOI": "https://doi.org/10.7937/TCIA.2019.4cfm06rr",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52756887/QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx?version=1&modificationDate=1581525332526&api=v2\">QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx</a>: 5959ff5cf06287c6dfb1007b030c63a7",
-    "Notes": "one xlsx file with clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Cetuximab (RTOG-0617)",
@@ -795,9 +812,9 @@
     "Collection": "QIN Breast DCE-MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/18514286/QIN-Breast-DCE-MRI_Response.xlsx?version=1&modificationDate=1467916192583&api=v2\">QIN-Breast-DCE-MRI_Response.xlsx</a>: 64f51679891a4620ed89a0696a6ffdb5",
-    "Notes": "only binary data response vs non-complete response"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "only binary data response vs non-complete response!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Radiomics-Genomics",
