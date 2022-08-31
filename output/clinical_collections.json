@@ -1,6 +1,5 @@
 [
   {
-
     "Collection": "CMB-MEL",
     "DOI": "https://doi.org/10.7937/GWSP-WH72",
     "Wiki": false,
@@ -110,15 +109,7 @@
     "Wiki": true,
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230072/ISPY2%20Imaging%20Cohort%201%20Clinical%20Data.xlsx?api=v2\">ISPY2 Imaging Cohort 1 Clinical Data.xlsx</a>: 6ac1440f0f4230018638ad153f9d89bf",
-    "Notes": "on xlsx file with clinical data"
-  },
-  {
-    "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
-    "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/50135447/Full%20Collection%20Ancillary%20Patient%20Information%20file.xlsx?api=v2\">Full Collection Ancillary Patient Information file.xlsx</a>: 33fc5e3943cbe0cb47682f52da05c2e5",
-    "Notes": "one xlsx file with clinical data. not in IDC yet"
+    "Notes": "on xlsx file with clinical data, and another with imaging data. Not yet in idc"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
@@ -222,7 +213,7 @@
     "Wiki": true,
     "Format": ".zip",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/5800702/package-nlst-780.2021-05-28.zip?version=1&modificationDate=1633562878492&api=v2\">package-nlst-780.2021-05-28.zip</a>: 53bae727195a21a8b359ce71cd459e88",
-    "Notes": "a zip file with many csv files with clinical data and rtf files with data dictionaries. This has not been parsed."
+    "Notes": "a zip file with many csv files with clinical data and rtf files with data dictionaries"
   },
   {
     "Collection": "COVID-19-NY-SBU",
@@ -239,14 +230,6 @@
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3277254/ProstateDiagnosis_metadata-05-07-2012.xlsx?version=1&modificationDate=1336416623725&api=v2\">ProstateDiagnosis_metadata-05-07-2012.xlsx</a>: bc5a4fede88789b4002a54640da5063a",
     "Notes": "one xlsx file with clinical data. Not in idc"
-  },
-  {
-    "Collection": "Prostate-Diagnosis",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3277254/ProstateDiagnosis_metadata-05-07-2012.xlsx?version=1&modificationDate=1336416623725&api=v2\">ProstateDiagnosis_metadata-05-07-2012.xlsx</a>: bc5a4fede88789b4002a54640da5063a",
-    "Notes": "one xlsx file with clinical data."
   },
   {
     "Collection": "Breast Cancer Screening-DBT",
@@ -486,7 +469,7 @@
     "Wiki": true,
     "Format": ".xls, .xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Field%20Descriptions%20for%20Patient%20and%20Treatment%20Characteristics.xlsx?version=1&modificationDate=1531497124879&api=v2\">Field Descriptions for Patient and Treatment Characteristics.xlsx</a>: 4e2256214ff139b9f2eb860937037473, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Patient%20and%20Treatment%20Characteristics.xls?version=1&modificationDate=1531497278289&api=v2\">Patient and Treatment Characteristics.xls</a>: db5254d30ddb57e27ed7fc7d09875fb0",
-    "Notes": "An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. They have similar (but not identical) data for different (but overlapping) sets of patients. xlsx data has one sheet with a data dictionary for the xls file. The csv file was not downloaded automatically as the link leads to a preview. The csv is downloaded manually!Run Time Error: Collection not scraped!"
+    "Notes": "An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. The csv has similar data. It seems like they have similar data for different patients. xlsx data has one sheet with a data dictionary!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-AML",
