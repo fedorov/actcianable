@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "Duke-Breast-Cancer-MRI",
+    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
+    "Access": "Public",
+    "Updated": "2022-08-31",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CMB-MEL",
     "DOI": "https://doi.org/10.7937/GWSP-WH72",
     "Access": "Public",
@@ -110,14 +118,6 @@
     "Updated": "2022-06-21",
     "some_date": "2021-02-28",
     "is_excluded": false
-  },
-  {
-    "Collection": "Duke-Breast-Cancer-MRI",
-    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
-    "Access": "Public",
-    "Updated": "2022-06-13",
-    "some_date": "n/a",
-    "is_excluded": true
   },
   {
     "Collection": "AHOD0831",

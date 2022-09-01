@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Duke-Breast-Cancer-MRI",
+    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "922",
+    "ImageTypes": "MR, SEG",
+    "SupportingData": "Clinical, Genomics, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-08-31"
+  },
+  {
     "Collection": "CMB-MEL",
     "DOI": "https://doi.org/10.7937/GWSP-WH72",
     "CancerType": "Melanoma",
@@ -180,19 +193,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2022-06-21"
-  },
-  {
-    "Collection": "Duke-Breast-Cancer-MRI",
-    "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "922",
-    "ImageTypes": "MR, SEG",
-    "SupportingData": "Clinical, Genomics, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2022-06-13"
   },
   {
     "Collection": "AHOD0831",
