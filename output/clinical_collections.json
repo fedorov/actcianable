@@ -156,7 +156,7 @@
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
     "Wiki": true,
     "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx?version=1&modificationDate=1628100506702&api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v1_20210804.xlsx</a>: 96947adab932c95e73e3f1dd212d8ccd, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx</a>: a493f7d889b6ce473e51ce789914d6a8",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx</a>: a493f7d889b6ce473e51ce789914d6a8",
     "Notes": "one file with one sheet with clinical data"
   },
   {
@@ -852,7 +852,7 @@
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
     "Wiki": true,
     "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?version=1&modificationDate=1311002325320&api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
     "Notes": "an xls file with one sheet with clinical data but is pivoted (organized in columns)"
   },
   {
