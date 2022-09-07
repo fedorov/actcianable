@@ -8,16 +8,8 @@
     "Notes": "one xlsx file with 3 sheets. The first has clinical data, the third has a template"
   },
   {
-    "Collection": "CMB-MEL",
-    "DOI": "https://doi.org/10.7937/GWSP-WH72",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "external only"
-  },
-  {
-    "Collection": "CMB-CRC",
-    "DOI": "https://doi.org/10.7937/DJG7-GZ87",
+    "Collection": "CMB-LCA",
+    "DOI": "https://doi.org/10.7937/3CX3-S132",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -32,8 +24,16 @@
     "Notes": "external only"
   },
   {
-    "Collection": "CMB-LCA",
-    "DOI": "https://doi.org/10.7937/3CX3-S132",
+    "Collection": "CMB-CRC",
+    "DOI": "https://doi.org/10.7937/DJG7-GZ87",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "external only"
+  },
+  {
+    "Collection": "CMB-MEL",
+    "DOI": "https://doi.org/10.7937/GWSP-WH72",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -56,16 +56,16 @@
     "Notes": "external only"
   },
   {
-    "Collection": "CMB-MML",
-    "DOI": "https://doi.org/10.7937/SZKB-SW39",
+    "Collection": "CMB-GEC",
+    "DOI": "https://doi.org/10.7937/E7KH-R486",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
     "Notes": "external only"
   },
   {
-    "Collection": "CMB-GEC",
-    "DOI": "https://doi.org/10.7937/E7KH-R486",
+    "Collection": "CMB-MML",
+    "DOI": "https://doi.org/10.7937/SZKB-SW39",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -91,9 +91,9 @@
     "Collection": "Hungarian-Colorectal-Screening",
     "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
     "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357370/metadata_age_sex_icd10status.csv?version=1&modificationDate=1631736831200&api=v2\">metadata_age_sex_icd10status.csv</a>: 5fa6034f823f79586eb4b4d8104ee3aa",
-    "Notes": "one csv file with clinical data. Not yet in idc"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical data. Not yet in idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "FDG-PET-CT-Lesions",
@@ -104,20 +104,20 @@
     "Notes": "collection is limited and not currently in IDC"
   },
   {
-    "Collection": "I-SPY2 Trial",
-    "DOI": "https://doi.org/10.7937/TCIA.D8Z0-9T85",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230072/ISPY2%20Imaging%20Cohort%201%20Clinical%20Data.xlsx?api=v2\">ISPY2 Imaging Cohort 1 Clinical Data.xlsx</a>: 6ac1440f0f4230018638ad153f9d89bf",
-    "Notes": "one xlsx file with clinical data"
-  },
-  {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
     "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
     "Wiki": true,
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/50135447/Full%20Collection%20Ancillary%20Patient%20Information%20file.xlsx?api=v2\">Full Collection Ancillary Patient Information file.xlsx</a>: 33fc5e3943cbe0cb47682f52da05c2e5",
     "Notes": "one xlsx file with clinical data. not in IDC yet"
+  },
+  {
+    "Collection": "I-SPY2 Trial",
+    "DOI": "https://doi.org/10.7937/TCIA.D8Z0-9T85",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230072/ISPY2%20Imaging%20Cohort%201%20Clinical%20Data.xlsx?api=v2\">ISPY2 Imaging Cohort 1 Clinical Data.xlsx</a>: 6ac1440f0f4230018638ad153f9d89bf",
+    "Notes": "one xlsx file with clinical data"
   },
   {
     "Collection": "DLBCL-Morphology",
@@ -128,20 +128,20 @@
     "Notes": "one csv file with clinical data. Not yet in IDC!Run Time Error: Collection not scraped!"
   },
   {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20reports%20March%202022.zip?api=v2\">Clinical reports March 2022.zip</a>: 2fb28c1b8a45cc329a5fb68b957b695e",
-    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
-  },
-  {
     "Collection": "AREN0532",
     "DOI": "https://doi.org/10.7937/6PJ1-M859",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
     "Notes": "clinical data href links to nctn/ncorp data portal"
+  },
+  {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "Wiki": true,
+    "Format": ".zip",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20reports%20March%202022.zip?api=v2\">Clinical reports March 2022.zip</a>: 2fb28c1b8a45cc329a5fb68b957b695e",
+    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
   },
   {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
@@ -264,16 +264,16 @@
     "Notes": "one file with one sheet with clinical data"
   },
   {
-    "Collection": "AHEP0731",
-    "DOI": "https://doi.org/10.7937/F2DB-8826",
+    "Collection": "CALGB50303",
+    "DOI": "https://doi.org/10.7937/CM65-A013",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
     "Notes": "clinical data href links to nctn/ncorp data portal"
   },
   {
-    "Collection": "CALGB50303",
-    "DOI": "https://doi.org/10.7937/CM65-A013",
+    "Collection": "AHEP0731",
+    "DOI": "https://doi.org/10.7937/F2DB-8826",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -296,8 +296,8 @@
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "CPTAC-OV",
-    "DOI": "https://doi.org/10.7937/TCIA.ZS4A-JD58",
+    "Collection": "CPTAC-BRCA",
+    "DOI": "https://doi.org/10.7937/TCIA.CAEM-YS80",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -312,8 +312,8 @@
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "CPTAC-BRCA",
-    "DOI": "https://doi.org/10.7937/TCIA.CAEM-YS80",
+    "Collection": "CPTAC-OV",
+    "DOI": "https://doi.org/10.7937/TCIA.ZS4A-JD58",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -416,16 +416,16 @@
     "Notes": "one xls file with two sheets. Both have clinical data  for two attribute sets"
   },
   {
-    "Collection": "CPTAC-HNSCC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
+    "Collection": "CPTAC-CM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "CPTAC-CM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
+    "Collection": "CPTAC-HNSCC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -440,8 +440,8 @@
     "Notes": "one csv file with clinical data"
   },
   {
-    "Collection": "PDMR-292921-168-R",
-    "DOI": "https://doi.org/10.7937/TCIA.2020.PCAK-8Z10",
+    "Collection": "PDMR-425362-245-T",
+    "DOI": "https://doi.org/10.7937/TCIA.2020.7YRS-7J97",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -456,8 +456,8 @@
     "Notes": "external only"
   },
   {
-    "Collection": "PDMR-425362-245-T",
-    "DOI": "https://doi.org/10.7937/TCIA.2020.7YRS-7J97",
+    "Collection": "PDMR-292921-168-R",
+    "DOI": "https://doi.org/10.7937/TCIA.2020.PCAK-8Z10",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -480,8 +480,16 @@
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "Collection": "CPTAC-UCEC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page"
+  },
+  {
+    "Collection": "CPTAC-GBM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -496,20 +504,12 @@
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "CPTAC-GBM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "CPTAC-UCEC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page"
   },
   {
     "Collection": "OPC-Radiomics",
@@ -531,9 +531,9 @@
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
     "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2\">ACRIN-FLT-Breast 6688 Clinical Data.zip</a>: b656297b7608cb50e4a1edf9629e7705",
-    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN-Breast",
@@ -608,20 +608,20 @@
     "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "TCGA-HNSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "HNSCC-3DCT-RT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.13upr2xf",
     "Wiki": true,
     "Format": ".xlsb",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879146/MDPA%20Patient%20Data%20Final%20-%20Accepted.xlsb?version=1&modificationDate=1549495716390&api=v2\">MDPA Patient Data Final - Accepted.xlsb</a>: fb78d68206332a4f5bb937ee0202eb8b",
     "Notes": "One xlsb file.  8 sheets,  with different types of clinical data and CT data. "
+  },
+  {
+    "Collection": "TCGA-HNSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
     "Collection": "Head-Neck-PET-CT",
@@ -632,16 +632,8 @@
     "Notes": "One xlsx file with 5 sheets. Different patients, same clinical data on each"
   },
   {
-    "Collection": "TCGA-LUAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-LIHC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
+    "Collection": "TCGA-LUSC",
+    "DOI": "https://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -656,8 +648,16 @@
     "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "TCGA-LUSC",
-    "DOI": "https://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "Collection": "TCGA-LIHC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-LUAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -712,12 +712,12 @@
     "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "TCGA-SARC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Collection": "LungCT-Diagnosis",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
+    "Wiki": true,
+    "Format": ".docx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039728/LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx?version=1&modificationDate=1451937423913&api=v2\">LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx</a>: 435a152e3ce0e70330cd4cd40dbdf9b3",
+    "Notes": "Clinical data in a doc file! Can be parsed manually"
   },
   {
     "Collection": "TCGA-BRCA",
@@ -728,16 +728,16 @@
     "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "LungCT-Diagnosis",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
-    "Wiki": true,
-    "Format": ".docx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039728/LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx?version=1&modificationDate=1451937423913&api=v2\">LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx</a>: 435a152e3ce0e70330cd4cd40dbdf9b3",
-    "Notes": "Clinical data in a doc file! Can be parsed manually"
+    "Collection": "TCGA-SARC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "TCGA-ESCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
+    "Collection": "TCGA-STAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -752,8 +752,8 @@
     "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "TCGA-STAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
+    "Collection": "TCGA-ESCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -808,16 +808,16 @@
     "Notes": "One xls file with one sheet with clinical data"
   },
   {
-    "Collection": "TCGA-KICH",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
+    "Collection": "TCGA-READ",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
     "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "TCGA-READ",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
+    "Collection": "TCGA-KICH",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
