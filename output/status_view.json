@@ -1,7 +1,15 @@
 [
   {
+    "Collection": "CTpred-Sunitinib-panNET",
+    "DOI": "https://doi.org/10.7937/spgk-0p94",
+    "Access": "Public",
+    "Updated": "2022-09-12",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "APOLLO-5",
-    "DOI": "http://(https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
     "Access": "Limited",
     "Updated": "2022-08-31",
     "some_date": "n/a",
