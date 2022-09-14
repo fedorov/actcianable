@@ -1,7 +1,20 @@
 [
   {
+    "Collection": "CTpred-Sunitinib-panNET",
+    "DOI": "https://doi.org/10.7937/spgk-0p94",
+    "CancerType": "Pancreas Cancer",
+    "Location": "Pancreas",
+    "Species": "Human",
+    "Subjects": "38",
+    "ImageTypes": "CT",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-09-12"
+  },
+  {
     "Collection": "APOLLO-5",
-    "DOI": "http://(https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
     "CancerType": "Various",
     "Location": "Various",
     "Species": "Human",
