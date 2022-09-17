@@ -180,8 +180,8 @@
     "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
     "Wiki": true,
     "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20CA125%20data.xlsx?version=1&modificationDate=1635173486180&api=v2\">Final CA125 data.xlsx</a>: b02ace8bdd63da7ab0d6596b2617bc30, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93",
-    "Notes": "2 xlsx files with clinical data"
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93",
+    "Notes": "2 xlsx files with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
@@ -371,9 +371,9 @@
     "Collection": "QIN-HeadNeck",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6885289/Batch_01%20and%20Batch_02%20Clinical%20Data_aug242020.xlsx?api=v2\">Batch_01 and Batch_02 Clinical Data_aug242020.xlsx</a>: d4153ebae54461f4f27646d0f32d0db7",
-    "Notes": "one xlsx file with two sheets with similar clinical two for two patient sets"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with two sheets with similar clinical two for two patient sets!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)",
@@ -531,9 +531,9 @@
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
     "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2\">ACRIN-FLT-Breast 6688 Clinical Data.zip</a>: b656297b7608cb50e4a1edf9629e7705",
-    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN-Breast",
