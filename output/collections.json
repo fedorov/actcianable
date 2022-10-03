@@ -1,5 +1,44 @@
 [
   {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "CancerType": "Various",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "114",
+    "ImageTypes": "CT, PT, MR, US, NM, XA",
+    "SupportingData": "",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2022-09-30"
+  },
+  {
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "CancerType": "Diffuse Glioma",
+    "Location": "Brain",
+    "Species": "Human",
+    "Subjects": "501",
+    "ImageTypes": "MR",
+    "SupportingData": "Clinical, Genomics, Image Analyses, Software/Source Code",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-09-28"
+  },
+  {
+    "Collection": "Hungarian-Colorectal-Screening",
+    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
+    "CancerType": "Colorectal Cancer",
+    "Location": "Colon",
+    "Species": "Human",
+    "Subjects": "200",
+    "ImageTypes": "Pathology",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-09-20"
+  },
+  {
     "Collection": "CTpred-Sunitinib-panNET",
     "DOI": "https://doi.org/10.7937/spgk-0p94",
     "CancerType": "Pancreas Cancer",
@@ -11,19 +50,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2022-09-12"
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "CancerType": "Various",
-    "Location": "Various",
-    "Species": "Human",
-    "Subjects": "100",
-    "ImageTypes": "CT, PT, MR, US, NM, XA",
-    "SupportingData": "",
-    "Access": "Limited",
-    "Status": "Ongoing",
-    "Updated": "2022-08-31"
   },
   {
     "Collection": "Duke-Breast-Cancer-MRI",
@@ -232,19 +258,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2022-06-08"
-  },
-  {
-    "Collection": "Hungarian-Colorectal-Screening",
-    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
-    "CancerType": "Colorectal Cancer",
-    "Location": "Colon",
-    "Species": "Human",
-    "Subjects": "200",
-    "ImageTypes": "Pathology",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2022-06-03"
   },
   {
     "Collection": "FDG-PET-CT-Lesions",

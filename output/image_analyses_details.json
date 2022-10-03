@@ -611,5 +611,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
