@@ -1,17 +1,33 @@
 [
   {
-    "Collection": "CTpred-Sunitinib-panNET",
-    "DOI": "https://doi.org/10.7937/spgk-0p94",
-    "Access": "Public",
-    "Updated": "2022-09-12",
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "Access": "Limited",
+    "Updated": "2022-09-30",
     "some_date": "n/a",
     "is_excluded": true
   },
   {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "Access": "Limited",
-    "Updated": "2022-08-31",
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "Access": "Public",
+    "Updated": "2022-09-28",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Hungarian-Colorectal-Screening",
+    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
+    "Access": "Public",
+    "Updated": "2022-09-20",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "CTpred-Sunitinib-panNET",
+    "DOI": "https://doi.org/10.7937/spgk-0p94",
+    "Access": "Public",
+    "Updated": "2022-09-12",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -140,14 +156,6 @@
     "DOI": "https://doi.org/10.7937/CV5M-1H59",
     "Access": "Limited",
     "Updated": "2022-06-08",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "Hungarian-Colorectal-Screening",
-    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
-    "Access": "Public",
-    "Updated": "2022-06-03",
     "some_date": "n/a",
     "is_excluded": true
   },
