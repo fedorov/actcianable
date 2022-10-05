@@ -228,8 +228,8 @@
     "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
     "Wiki": true,
     "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv</a>: 5bd199f8743d1ffd55dc67a0b2477560",
-    "Notes": "one csv file with clinical information, one data dictionary or template!Run Time Error: Collection not scraped!"
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv</a>: 5bd199f8743d1ffd55dc67a0b2477560, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv</a>: bb5b4e606e63ac85de7d821c7ea7bda4",
+    "Notes": "one csv file with clinical information, one data dictionary or template"
   },
   {
     "Collection": "Prostate-Diagnosis",
@@ -579,9 +579,9 @@
     "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.vohlekok",
     "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948305/ACRIN%20FMISO%20Brain%206684%20TCIA%20Anonymized.zip?version=1&modificationDate=1568654527692&api=v2\">ACRIN FMISO Brain 6684 TCIA Anonymized.zip</a>: 5f7938760dfd9ecdf637272c17344445",
-    "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-BLCA",
