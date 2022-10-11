@@ -1,5 +1,29 @@
 [
   {
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "Wiki": true,
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119705830/UCSF-PDGM-metadata.csv?api=v2\">UCSF-PDGM-metadata.csv</a>: 7c2c526da9d50867a520d0b88e5c77f7",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "Hungarian-Colorectal-Screening",
+    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
+    "Wiki": true,
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357370/metadata_age_sex_icd10status.csv?version=1&modificationDate=1631736831200&api=v2\">metadata_age_sex_icd10status.csv</a>: 5fa6034f823f79586eb4b4d8104ee3aa",
+    "Notes": "one csv file with clinical data. Not yet in idc"
+  },
+  {
+    "Collection": "CTpred-Sunitinib-panNET",
+    "DOI": "https://doi.org/10.7937/spgk-0p94",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/133071846/Clinical%20Information%20for%20CTpred-Sunitinib-panNET.xlsx?api=v2\">Clinical Information for CTpred-Sunitinib-panNET.xlsx</a>: a438f4707aabfff3fda0fbf6cb697f12",
+    "Notes": "one xlsx file with one sheet with clinical data"
+  },
+  {
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Wiki": true,
@@ -88,14 +112,6 @@
     "Notes": "clinical data href links to nctn/ncorp data portal"
   },
   {
-    "Collection": "Hungarian-Colorectal-Screening",
-    "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357370/metadata_age_sex_icd10status.csv?version=1&modificationDate=1631736831200&api=v2\">metadata_age_sex_icd10status.csv</a>: 5fa6034f823f79586eb4b4d8104ee3aa",
-    "Notes": "one csv file with clinical data. Not yet in idc"
-  },
-  {
     "Collection": "FDG-PET-CT-Lesions",
     "DOI": "https://doi.org/10.7937/gkr0-xv29",
     "Wiki": true,
@@ -125,7 +141,7 @@
     "Wiki": true,
     "Format": ".csv",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/column_description.csv?api=v2\">column_description.csv</a>: f62031f7d3d32aca24e00a11fcc3021c",
-    "Notes": "one csv file with clinical data. Not yet in IDC!Run Time Error: Collection not scraped!"
+    "Notes": "one csv file with clinical data. Not yet in IDC. Cannot be downloaded through scrapper. Download link leads to a preview page.!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "AREN0532",

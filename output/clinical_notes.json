@@ -5,13 +5,13 @@
 
   "ACRIN-Contralateral-Breast-MR (ACRIN 6667)":{"notes":"leads to a download of one zip file with several data files in csv format and a data dictionary in xlsx format. The data file names are a different format from all the other acrin collecitons. The file names include the id (6667) and the word 'reviewed'", "spec":"ignore"},
 
-  "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)":{"notes":"Currently links to a zip file with two empty directories " ,"uzip":["ACRIN-DSC-MR-Brain-Full-Clinical"],"spec":"error", "idc_webapp":"/acrin_dsc_mr", "case_id":"acrin format", "tcia_api":"ACRIN-DSC-MR-Brain"},
+  "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)":{"notes":"Currently links to a zip file with two empty directories. Limited access - now removed " ,"uzip":["ACRIN-DSC-MR-Brain-Full-Clinical"],"spec":"ignore", "idc_webapp":"/acrin_dsc_mr", "case_id":"acrin format", "tcia_api":"ACRIN-DSC-MR-Brain"},
 
   "ACRIN-FLT-Breast (ACRIN 6688)":{"notes":"Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file", "spec":"acrin", "uzip":["ACRIN-FLT-Breast 6688 Clinical Data.zip"], "udir":["ACRIN-FLT-Breast 6688 Clinical Data"], "dictfile":"QIN_6688 Data Dictionary.xls", "idc_webapp":"acrin_flt_breast", "case_id":"acrin format", "tcia_api":"ACRIN-FLT_Breast"},
 
-  "ACRIN-FMISO-Brain (ACRIN 6684)":{"notes":"Same as ACRIN-FLT-Breast (ACRIN 6688)", "spec":"acrin", "uzip":["ACRIN FMISO Brain 6684 TCIA Anonymized.zip"], "idc_webapp":"acrin_fismo_brain", "case_id":"acrin format", "tcia_api":"ACRIN-FMISO-Brain"},
+  "ACRIN-FMISO-Brain (ACRIN 6684)":{"notes":"Same as ACRIN-FLT-Breast (ACRIN 6688). Limited access - now removed", "spec":"ignore", "uzip":["ACRIN FMISO Brain 6684 TCIA Anonymized.zip"], "idc_webapp":"acrin_fismo_brain", "case_id":"acrin format", "tcia_api":"ACRIN-FMISO-Brain" },
 
-  "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)":{"notes":"same as acrin 6688", "spec":"acrin","uzip":["ACRIN 6685 HB HNSCC FDG PET_CT TCIA Reviewed.zip", "ACRIN 6685 HNSCC FDG PET_CT TCIA Anonymized.zip"], "udir":["ACRIN 6685 HB HNSCC FDG PET_CT TCIA Reviewed", "ACRIN 6685 HNSCC FDG PET_CT TCIA Anonymized"],"idc_webapp":"acrin_hnscc_fdg_pet_ct",  "case_id":"acrin format", "tcia_api":"ACRIN-HNSCC-FDG_PET-CT", "dictfile":"QIN_6685 Data Dictionary.xls" },
+  "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)":{"notes":"same as acrin 6688. Limited access - now removed", "spec":"ignore","uzip":["ACRIN 6685 HB HNSCC FDG PET_CT TCIA Reviewed.zip", "ACRIN 6685 HNSCC FDG PET_CT TCIA Anonymized.zip"], "udir":["ACRIN 6685 HB HNSCC FDG PET_CT TCIA Reviewed", "ACRIN 6685 HNSCC FDG PET_CT TCIA Anonymized"],"idc_webapp":"acrin_hnscc_fdg_pet_ct",  "case_id":"acrin format", "tcia_api":"ACRIN-HNSCC-FDG_PET-CT", "dictfile":"QIN_6685 Data Dictionary.xls" },
 
 
   "ACRIN-NSCLC-FDG-PET (ACRIN 6668)":{"notes":"Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set", "uzip":["ACRIN 6668 NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 1.zip","ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 2.zip"], "udir":["ACRIN 6668 NSCLC FDG PET - ACRIN Data TCIA Anonymized","ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized" ],"spec":"acrin", "idc_webapp":"acrin_nsclc_fdg_pet", "case_id":"acrin format", "tcia_api":"ACRIN-NSCLC-FDG-PET"},
@@ -91,7 +91,9 @@
 
   "CRC_FFPE-CODEX_CellNeighs":{"notes":"2 xlsx files, one with clinical data, one with radiometric data that is not directly applicable to the clinical data format","srcs":[[ {"filenm":"CRC_TMAs_patient_annotations.xlsx","sheet":0, "maxRow":35, "skipCols":[5,6]}   ]]},
 
-  "DLBCL-Morphology":{"notes":"one csv file with clinical data. Not yet in IDC","srcs":[[{"filenm":"clinical_data_cleaned.csv","sheet":0}]], "spec":"ignore"},
+  "CTpred-Sunitinib-panNET":{"notes":"one xlsx file with one sheet with clinical data", "srcs":[[{"filenm":"Clinical Information for CTpred-Sunitinib-panNET.xlsx", "patientIdRow":1} ]], "case_id":"same"},
+
+  "DLBCL-Morphology":{"notes":"one csv file with clinical data. Not yet in IDC. Cannot be downloaded through scrapper. Download link leads to a preview page.","srcs":[[{"filenm":"clinical_data_cleaned.csv","sheet":0}]], "spec":"ignore"},
 
   "Duke-Breast-Cancer-MRI":{"notes":"one xlsx file with 3 sheets. The first has clinical data, the third has a template", "spec":"ignore","srcs":[[{"filenm":"Clinical_and_Other_Features.xlsx","sheet":0, "headrows":[0,1],  "skipRows":[2]}]]  },
 
@@ -100,16 +102,16 @@
   "Head-Neck-PET-CT":{"notes":"One xlsx file with 5 sheets. Different patients, same clinical data on each", "srcs":[  [ {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":0, "maxRow":91}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":1, "maxRow":101}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":2, "maxRow":41}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":3, "maxRow":65}, {"filenm":"INFOclinical_HN_Version2_30may2018.xlsx","sheet":4, "maxRow":2} ]  ] , "case_id":"same"},
 
 
- "Head-Neck-Radiomics-HN1":{"notes":"zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download", "uzip":"Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip","srcs":[ [ {"filenm":"Copy of HEAD-NECK-RADIOMICS-HN1 Clinical data updated July 2020.csv", "archive":["Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip"]} ]  ], "case_id":"same"   },
+ "Head-Neck-Radiomics-HN1":{"notes":"zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download", "uzip":"Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip. Limited access - now removed","srcs":[ [ {"filenm":"Copy of HEAD-NECK-RADIOMICS-HN1 Clinical data updated July 2020.csv", "archive":["Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip"]} ]  ], "case_id":"same", "spec":"ignore"   },
 
   "HCC-TACE-Seg":{"notes":"one xlsx file with clinical data and a glossary", "srcs":[[{"filenm":"HCC-TACE-Seg_clinical_data-V2.xlsx", "sheet":0}]],"dict":{"filenm":"HCC-TACE-Seg_clinical_data-V2.xlsx", "sheet":1, "use":true, "nohead":true, "form":"hcc_tace"}, "case_id":"same" },
 
-"HNSCC":{"notes":"An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. They have similar (but not identical) data for different (but overlapping) sets of patients. xlsx data has one sheet with a data dictionary for the xls file. The csv file was not downloaded automatically as the link leads to a preview. The csv is downloaded manually", "tabletypes":[{"clinical":"clinical data"},{"radiomics":"radiomics data"} ],
-            "srcs": [  [ {"filenm":"Patient and Treatment Characteristics.xls","sheet":0, "skipCols":[3]  }], [{"filenm":"Radiomics_Outcome_Prediction_in_OPC_ASRM_corrected.csv"}  ]   ], "case_id":"same"   },
+"HNSCC":{"notes":"An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. They have similar (but not identical) data for different (but overlapping) sets of patients. xlsx data has one sheet with a data dictionary for the xls file. The csv file was not downloaded automatically as the link leads to a preview. The csv is downloaded manually. Limited access - now removed", "tabletypes":[{"clinical":"clinical data"},{"radiomics":"radiomics data"} ],
+            "srcs": [  [ {"filenm":"Patient and Treatment Characteristics.xls","sheet":0, "skipCols":[3]  }], [{"filenm":"Radiomics_Outcome_Prediction_in_OPC_ASRM_corrected.csv"}  ]   ], "case_id":"same", "spec":"ignore"   },
 
 
-  "HNSCC-3DCT-RT": {"notes":"One xlsb file.  8 sheets,  with different types of clinical data and CT data. ",  "tabletypes":[{"demographics":"demographics data"},{"dose":"dose data"},{"outcome":"outcome data"},{"weight":"weight data"}],
-                     "srcs":[ [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":1 }], [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":5 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":6 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":7}]  ] , "case_id":"3DCT-RT"},
+  "HNSCC-3DCT-RT": {"notes":"One xlsb file.  8 sheets,  with different types of clinical data and CT data. Limited data -now removed",  "tabletypes":[{"demographics":"demographics data"},{"dose":"dose data"},{"outcome":"outcome data"},{"weight":"weight data"}],
+                     "srcs":[ [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":1 }], [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":5 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":6 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":7}]  ] , "case_id":"3DCT-RT", "spec":"ignore"},
 
  "Hungarian-Colorectal-Screening":{"notes":"one csv file with clinical data. Not yet in idc"}, "srcs":[[{"filenm":"metadata_age_sex_icd10status.csv"}]],
 
@@ -118,7 +120,7 @@
 
   "I-SPY2 Trial":{"notes":"one xlsx file with clinical data", "srcs":[[{"filenm":"ISPY2 Imaging Cohort 1 Clinical Data.xlsx","sheet":0}] ], "case_id":"ispy2" },
 
-  "IvyGAP":{"notes":"not clinical data download links. Link resolve to portals. May be able to get data from there"},
+  "IvyGAP":{"notes":"not clinical data download links. Link resolve to portals. May be able to get data from there. Limited access - not to be included"},
 
 
   "LDCT-and-Projection-data":{"notes":"A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet ", "uzip":"Clinical Reports March 2022.zip","srcs":[ [  {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Abdomen_v3/Abdomen_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] }, {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Chest_v3/Chest_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] }, {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Head_v3/Neuro_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] } ]], "dict":{ "filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Abdomen_v3/Abdomen_v6.xlsx", "sheet":1,"col":0, "id":1, "value":2, "rows":[1,25] }, "case_id":"same" },
@@ -153,7 +155,7 @@
 
   "NSCLC-Cetuximab (RTOG-0617)":{"notes":"clinical data at nctn/ncorp data portal"},
 
-  "OPC-Radiomics":{"notes":"One xls file with one sheet with clinical data","srcs":[ [ {"filenm":"Clinical data list_OPC (606) v3.xlsx","sheet":0,"headrows":[0], "skipRows":[1]}] ], "case_id":"same"},
+  "OPC-Radiomics":{"notes":"One xls file with one sheet with clinical data. Limited access - now removed","srcs":[ [ {"filenm":"Clinical data list_OPC (606) v3.xlsx","sheet":0,"headrows":[0], "skipRows":[1]}] ], "case_id":"same", "spec":"ignore"},
 
   "Ovarian Bevacizumab Response":{"notes":"2 xlsx files with clinical data","srcs":[ [{"filenm":"Final patient_list.xlsx","sheet":0, "patientIdRow":1, "skipRows":[1],"skipCols":[5] }], [ {"filenm":"Final CA125 data.xlsx","sheet":0,"patientIdRow":1, "reindex":{"needed":true, "uniques":[2,4,5]}}, {"filenm":"Final CA125 data.xlsx","sheet":1,"patientIdRow":1, "reindex":{"needed":true, "uniques":[2,4,5]}} ]  ] },
 
@@ -179,9 +181,9 @@
 
   "QIN Breast DCE-MRI":{"notes":"only binary data response vs non-complete response", "spec":"QIN-Breast-DCE-MRI_Response.xlsx","alternate":["Pathological Response (XLS)"],"srcs":[[{"filenm":"QIN-Breast-DCE-MRI_Response.xlsx","sheet":0 }]], "case_id":"same"},
 
-  "QIN-HeadNeck":{"notes":"one xlsx file with two sheets with similar clinical two for two patient sets", "srcs":[ [ {"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":0,"headrows":[0,1]},{"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":1,"headrows":[0,1]} ]  ], "case_id":"same" },
+  "QIN-HeadNeck":{"notes":"one xlsx file with two sheets with similar clinical two for two patient sets. Limited access - now removed", "srcs":[ [ {"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":0,"headrows":[0,1]},{"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":1,"headrows":[0,1]} ]  ], "case_id":"same", "spec":"ignore" },
 
-  "REMBRANDT":{"notes":"One xlsx file with one sheet with clinical data", "srcs":[ [ { "filenm":"clinical_2014-01-16.xlsx", "sheet":0 } ]  ], "case_id":"same"},
+  "REMBRANDT":{"notes":"One xlsx file with one sheet with clinical data. Limited access - now removed", "srcs":[ [ { "filenm":"clinical_2014-01-16.xlsx", "sheet":0 } ]  ], "case_id":"same", "spec":"ignore"},
 
   "Soft-tissue-Sarcoma":{"notes":"One xlsx file with two sheets with complimentary data","tabletypes":[ {"clinical":"clinical data"}, {"outcome":"patient outcomes"}],"srcs":[ [ {"filenm":"INFOclinical_STS.xlsx","sheet":0, "maxRow":51 } ],[{"filenm":"INFOclinical_STS.xlsx","sheet":1 }] ], "case_id":"same"  },
 
@@ -200,10 +202,10 @@
 
 
 
-"TCGA-GBM":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
+"TCGA-GBM":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table.","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
 
 
-"TCGA-HNSC":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
+"TCGA-HNSC":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table.","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
 
 "TCGA-KICH":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"TCGA", "srcs":{"table":"isb-cgc-bq.TCGA.clinical_gdc_current", "patientIdCol":"submitter_id"}, "case_id":"same"},
 
