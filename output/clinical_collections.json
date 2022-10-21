@@ -579,9 +579,9 @@
     "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.vohlekok",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)!Run Time Error: Collection not scraped!"
+    "Format": ".zip",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948305/ACRIN%20FMISO%20Brain%206684%20TCIA%20Anonymized.zip?version=1&modificationDate=1568654527692&api=v2\">ACRIN FMISO Brain 6684 TCIA Anonymized.zip</a>: 5f7938760dfd9ecdf637272c17344445",
+    "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)"
   },
   {
     "Collection": "TCGA-BLCA",

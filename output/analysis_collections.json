@@ -1,5 +1,15 @@
 [
   {
+    "Collection": "Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET (ACNS0332-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/D8A8-6252",
+    "CancerType": "Medulloblastoma",
+    "Location": "Head",
+    "Subjects": "85",
+    "Collections": "ACNS0332",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2022-10-05"
+  },
+  {
     "Collection": "Expert tumor annotations and radiomic features for the ISPY1/ACRIN 6657 trial data collection (ISPY1-Tumor-SEG-Radiomics)",
     "DOI": "https://doi.org/10.7937/TCIA.XC7A-QT20",
     "CancerType": "Breast",
