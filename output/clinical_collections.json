@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "ARAR0331",
+    "DOI": "https://doi.org/10.7937/WTEC-MN22",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Wiki": true,
