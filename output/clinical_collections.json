@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "UPENN-GBM",
+    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
+    "Wiki": true,
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.0.csv</a>: 775fe21d4495105c803ca42436fbfc0e",
+    "Notes": "one csv file with clinical data"
+  },
+  {
     "Collection": "ARAR0331",
     "DOI": "https://doi.org/10.7937/WTEC-MN22",
     "Wiki": false,
@@ -94,14 +102,6 @@
     "Format": "",
     "Filenames": "",
     "Notes": "external only"
-  },
-  {
-    "Collection": "UPENN-GBM",
-    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.1.csv?api=v2https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.1.csv</a>: 2df31ca5353bcccb5bc4baf2159eaafa",
-    "Notes": "one csv file with clinical data"
   },
   {
     "Collection": "AHOD0831",
