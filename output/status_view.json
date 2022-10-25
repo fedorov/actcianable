@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "UPENN-GBM",
+    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
+    "Access": "Public",
+    "Updated": "2022-10-24",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "ARAR0331",
     "DOI": "https://doi.org/10.7937/WTEC-MN22",
     "Access": "Limited",
@@ -150,14 +158,6 @@
     "Updated": "2022-06-21",
     "some_date": "2021-02-28",
     "is_excluded": false
-  },
-  {
-    "Collection": "UPENN-GBM",
-    "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
-    "Access": "Public",
-    "Updated": "2022-06-21",
-    "some_date": "n/a",
-    "is_excluded": true
   },
   {
     "Collection": "AHOD0831",
