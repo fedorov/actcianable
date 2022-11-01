@@ -365,7 +365,7 @@
   },
   {
     "Collection": "Pediatric-CT-SEG",
-    "DOI": "https://doi.org/https://doi.org/10.7937/TCIA.X0H0-1706",
+    "DOI": "https://doi.org/10.7937/TCIA.X0H0-1706",
     "CancerType": "Non-cancer",
     "Location": "Various",
     "Species": "Human",
@@ -1210,7 +1210,7 @@
   },
   {
     "Collection": "QIN-Breast",
-    "DOI": "https://doi.org/doi:10.7937/K9/TCIA.2016.21JUebH0",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.21JUebH0",
     "CancerType": "Breast Cancer",
     "Location": "Breast",
     "Species": "Human",
@@ -1327,7 +1327,7 @@
   },
   {
     "Collection": "QIN-BRAIN-DSC-MRI",
-    "DOI": "https://doi.org/doi:10.7937/K9/TCIA.2016.5DI84Js8",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.5DI84Js8",
     "CancerType": "Low & High Grade Glioma",
     "Location": "Brain",
     "Species": "Human",
@@ -1678,7 +1678,7 @@
   },
   {
     "Collection": "TCGA-LUSC",
-    "DOI": "http://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
     "CancerType": "Lung Squamous Cell Carcinoma",
     "Location": "Lung",
     "Species": "Human",

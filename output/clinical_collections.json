@@ -553,7 +553,7 @@
   },
   {
     "Collection": "QIN-Breast",
-    "DOI": "https://doi.org/doi:10.7937/K9/TCIA.2016.21JUebH0",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.21JUebH0",
     "Wiki": true,
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/18513974/QIN-Breast_TreatmentResponse%282014-12-16%29.xlsx?version=1&modificationDate=1418736971268&api=v2\">QIN-Breast_TreatmentResponse(2014-12-16).xlsx</a>: 6e2c7768a0524d02b4633515903dcbf0",
@@ -649,7 +649,7 @@
   },
   {
     "Collection": "TCGA-LUSC",
-    "DOI": "https://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
