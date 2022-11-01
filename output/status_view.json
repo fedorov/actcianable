@@ -225,7 +225,7 @@
   },
   {
     "Collection": "Pediatric-CT-SEG",
-    "DOI": "https://doi.org/https://doi.org/10.7937/TCIA.X0H0-1706",
+    "DOI": "https://doi.org/10.7937/TCIA.X0H0-1706",
     "Access": "Public",
     "Updated": "2022-03-31",
     "some_date": "n/a",
@@ -745,7 +745,7 @@
   },
   {
     "Collection": "QIN-Breast",
-    "DOI": "https://doi.org/doi:10.7937/K9/TCIA.2016.21JUebH0",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.21JUebH0",
     "Access": "Public",
     "Updated": "2020-01-10",
     "some_date": "2021-02-27",
@@ -817,7 +817,7 @@
   },
   {
     "Collection": "QIN-BRAIN-DSC-MRI",
-    "DOI": "https://doi.org/doi:10.7937/K9/TCIA.2016.5DI84Js8",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.5DI84Js8",
     "Access": "Limited",
     "Updated": "2019-08-28",
     "some_date": "2021-03-01",
@@ -1033,7 +1033,7 @@
   },
   {
     "Collection": "TCGA-LUSC",
-    "DOI": "http://dx.doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
     "Access": "Public",
     "Updated": "2017-01-30",
     "some_date": "2020-06-01",
