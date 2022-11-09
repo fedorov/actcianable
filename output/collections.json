@@ -31,12 +31,12 @@
     "CancerType": "Various",
     "Location": "Various",
     "Species": "Human",
-    "Subjects": "114",
-    "ImageTypes": "CT, PT, MR, US, NM, XA",
+    "Subjects": "154",
+    "ImageTypes": "CT, MR, NM, PT, US, XA",
     "SupportingData": "",
     "Access": "Limited",
     "Status": "Ongoing",
-    "Updated": "2022-09-30"
+    "Updated": "2022-10-31"
   },
   {
     "Collection": "UCSF-PDGM",
