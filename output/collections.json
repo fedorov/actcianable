@@ -1,5 +1,31 @@
 [
   {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "CancerType": "Breast Cancer, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Clear Cell Renal Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
+    "Location": "Bile duct, Breast, Colon, Esophagus, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Skin, Thymus, Thyroid, Uterine corpus",
+    "Species": "Human",
+    "Subjects": "154",
+    "ImageTypes": "CT, MR, NM, PT, US, XA",
+    "SupportingData": "",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2022-11-30"
+  },
+  {
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "CancerType": "Diffuse Glioma",
+    "Location": "Brain",
+    "Species": "Human",
+    "Subjects": "501",
+    "ImageTypes": "MR",
+    "SupportingData": "Clinical, Genomics, Image Analyses, Software/Source Code",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2022-11-30"
+  },
+  {
     "Collection": "UPENN-GBM",
     "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
     "CancerType": "Glioblastoma",
@@ -24,32 +50,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2022-10-21"
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "CancerType": "Various",
-    "Location": "Various",
-    "Species": "Human",
-    "Subjects": "154",
-    "ImageTypes": "CT, MR, NM, PT, US, XA",
-    "SupportingData": "",
-    "Access": "Limited",
-    "Status": "Ongoing",
-    "Updated": "2022-10-31"
-  },
-  {
-    "Collection": "UCSF-PDGM",
-    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
-    "CancerType": "Diffuse Glioma",
-    "Location": "Brain",
-    "Species": "Human",
-    "Subjects": "501",
-    "ImageTypes": "MR",
-    "SupportingData": "Clinical, Genomics, Image Analyses, Software/Source Code",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2022-09-28"
   },
   {
     "Collection": "Hungarian-Colorectal-Screening",
@@ -1443,6 +1443,19 @@
     "Updated": "2019-04-19"
   },
   {
+    "Collection": "QIN Breast DCE-MRI",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
+    "CancerType": "Breast Cancer",
+    "Location": "Breast",
+    "Species": "Human",
+    "Subjects": "10",
+    "ImageTypes": "MR, KO",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2019-04-18"
+  },
+  {
     "Collection": "NSCLC-Cetuximab (RTOG-0617)",
     "DOI": "http://doi.org/10.7937/TCIA.2018.jze75u7v",
     "CancerType": "Non-small Cell Lung Cancer",
@@ -2052,19 +2065,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2014-09-04"
-  },
-  {
-    "Collection": "QIN Breast DCE-MRI",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
-    "CancerType": "Breast Cancer",
-    "Location": "Breast",
-    "Species": "Human",
-    "Subjects": "10",
-    "ImageTypes": "MR, KO",
-    "SupportingData": "Clinical, Image Analyses",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2014-07-31"
   },
   {
     "Collection": "NSCLC-Radiomics-Genomics",
