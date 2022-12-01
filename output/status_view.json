@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "Access": "Limited",
+    "Updated": "2022-11-30",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "Access": "Public",
+    "Updated": "2022-11-30",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "UPENN-GBM",
     "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
     "Access": "Public",
@@ -12,22 +28,6 @@
     "DOI": "https://doi.org/10.7937/WTEC-MN22",
     "Access": "Limited",
     "Updated": "2022-10-21",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "Access": "Limited",
-    "Updated": "2022-10-31",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "UCSF-PDGM",
-    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
-    "Access": "Public",
-    "Updated": "2022-09-28",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -888,6 +888,14 @@
     "is_excluded": false
   },
   {
+    "Collection": "QIN Breast DCE-MRI",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
+    "Access": "Public",
+    "Updated": "2019-04-18",
+    "some_date": "2021-03-06",
+    "is_excluded": false
+  },
+  {
     "Collection": "NSCLC-Cetuximab (RTOG-0617)",
     "DOI": "http://doi.org/10.7937/TCIA.2018.jze75u7v",
     "Access": "Limited",
@@ -1261,14 +1269,6 @@
     "Access": "Limited",
     "Updated": "2014-09-04",
     "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "QIN Breast DCE-MRI",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
-    "Access": "Public",
-    "Updated": "2014-07-31",
-    "some_date": "2021-03-06",
     "is_excluded": false
   },
   {
