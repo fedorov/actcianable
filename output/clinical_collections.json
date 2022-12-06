@@ -480,6 +480,174 @@
     "Notes": "external only"
   },
   {
+    "Collection": "TCGA-BLCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-THCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.9ZFRVF1B",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-BRCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-KIRP",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-SARC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-READ",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-STAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-UCEC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-COAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HJJHBOXZ",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-LIHC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-LUAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-LGG",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-HNSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-OV",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-GBM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-CESC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-LUSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-KIRC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-ESCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-KICH",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "TCGA-PRAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
     "Collection": "HNSCC",
     "DOI": "https://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
     "Wiki": true,
@@ -592,14 +760,6 @@
     "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)"
   },
   {
-    "Collection": "TCGA-BLCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "QIN-BREAST-02",
     "DOI": "https://doi.org/10.7937/TCIA.2019.4cfm06rr",
     "Wiki": true,
@@ -624,28 +784,12 @@
     "Notes": "clinical data at nctn/ncorp data portal"
   },
   {
-    "Collection": "TCGA-UCEC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "HNSCC-3DCT-RT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.13upr2xf",
     "Wiki": true,
     "Format": ".xlsb",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879146/MDPA%20Patient%20Data%20Final%20-%20Accepted.xlsb?version=1&modificationDate=1549495716390&api=v2\">MDPA Patient Data Final - Accepted.xlsb</a>: fb78d68206332a4f5bb937ee0202eb8b",
     "Notes": "One xlsb file.  8 sheets,  with different types of clinical data and CT data. "
-  },
-  {
-    "Collection": "TCGA-HNSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
     "Collection": "Head-Neck-PET-CT",
@@ -656,38 +800,6 @@
     "Notes": "One xlsx file with 5 sheets. Different patients, same clinical data on each"
   },
   {
-    "Collection": "TCGA-LUSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-KIRP",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-LIHC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-LUAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "IvyGAP",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.XLwaN6nL",
     "Wiki": false,
@@ -696,20 +808,20 @@
     "Notes": "not clinical data download links. Link resolve to portals. May be able to get data from there"
   },
   {
+    "Collection": "SPIE-AAPM Lung CT Challenge",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039197/TestSet_NoduleData_PublicRelease_wTruth.xlsx?version=1&modificationDate=1474635989693&api=v2\">TestSet_NoduleData_PublicRelease_wTruth.xlsx</a>: 8e3808a9603d447ea5a13358dbc2c74d",
+    "Notes": "one file with clinical data"
+  },
+  {
     "Collection": "ISPY1 (ACRIN 6657)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK",
     "Wiki": true,
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/20643859/I-SPY%201%20All%20Patient%20Clinical%20and%20Outcome%20Data.xlsx?version=1&modificationDate=1474583157883&api=v2\">I-SPY 1 All Patient Clinical and Outcome Data.xlsx</a>: 1dc4dd50a428d328b20f8af115eba5e6",
     "Notes": "xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser"
-  },
-  {
-    "Collection": "TCGA-PRAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
     "Collection": "Breast-MRI-NACT-Pilot",
@@ -728,14 +840,6 @@
     "Notes": "One xlsx file with two sheets with complimentary data"
   },
   {
-    "Collection": "TCGA-THCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.9ZFRVF1B",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "LungCT-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
     "Wiki": true,
@@ -744,116 +848,12 @@
     "Notes": "Clinical data in a doc file! Can be parsed manually"
   },
   {
-    "Collection": "TCGA-BRCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-SARC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-STAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-CESC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-ESCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-OV",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-COAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HJJHBOXZ",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-KIRC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-LGG",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "NSCLC-Radiomics-Genomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
     "Wiki": true,
     "Format": ".xls",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056856/Lung3.metadata.xls?version=1&modificationDate=1404237338168&api=v2\">Lung3.metadata.xls</a>: 615dcbbe21f1997c53075eda26d161e7",
     "Notes": "One xls file with one sheet with clinical data"
-  },
-  {
-    "Collection": "TCGA-READ",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-KICH",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-GBM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "SPIE-AAPM Lung CT Challenge",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039197/TestSet_NoduleData_PublicRelease_wTruth.xlsx?version=1&modificationDate=1474635989693&api=v2\">TestSet_NoduleData_PublicRelease_wTruth.xlsx</a>: 8e3808a9603d447ea5a13358dbc2c74d",
-    "Notes": "one file with clinical data"
   },
   {
     "Collection": "LIDC-IDRI",
