@@ -1,16 +1,16 @@
 [
   {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "Access": "Limited",
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "Access": "Public",
     "Updated": "2022-11-30",
     "some_date": "n/a",
     "is_excluded": true
   },
   {
-    "Collection": "UCSF-PDGM",
-    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
-    "Access": "Public",
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "Access": "Limited",
     "Updated": "2022-11-30",
     "some_date": "n/a",
     "is_excluded": true
@@ -208,6 +208,14 @@
     "is_excluded": true
   },
   {
+    "Collection": "Stage II-Colorectal-CT",
+    "DOI": "https://doi.org/10.7937/p5k5-tg43",
+    "Access": "Public",
+    "Updated": "2022-04-11",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "AREN0532",
     "DOI": "https://doi.org/10.7937/6PJ1-M859",
     "Access": "Limited",
@@ -228,14 +236,6 @@
     "DOI": "https://doi.org/10.7937/TCIA.X0H0-1706",
     "Access": "Public",
     "Updated": "2022-03-31",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "Stage II-Colorectal-CT",
-    "DOI": "https://doi.org/10.7937/p5k5-tg43",
-    "Access": "Public",
-    "Updated": "2022-03-09",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -648,6 +648,174 @@
     "is_excluded": false
   },
   {
+    "Collection": "TCGA-BLCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-THCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.9ZFRVF1B",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-BRCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-KIRP",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-SARC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-READ",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-STAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-UCEC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-COAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HJJHBOXZ",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-LIHC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-LUAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-LGG",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
+    "Access": "Limited",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-HNSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
+    "Access": "Limited",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-OV",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-GBM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
+    "Access": "Limited",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-CESC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-LUSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-KIRC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-ESCA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-KICH",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "TCGA-PRAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
+    "Access": "Public",
+    "Updated": "2020-05-29",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
     "Collection": "HNSCC",
     "DOI": "http://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
     "Access": "Limited",
@@ -736,20 +904,20 @@
     "is_excluded": false
   },
   {
-    "Collection": "CT-ORG",
-    "DOI": "https://doi.org/10.7937/tcia.2019.tt7f4v7o",
-    "Access": "Public",
-    "Updated": "2020-01-10",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
     "Collection": "QIN-Breast",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.21JUebH0",
     "Access": "Public",
     "Updated": "2020-01-10",
     "some_date": "2021-02-27",
     "is_excluded": false
+  },
+  {
+    "Collection": "CT-ORG",
+    "DOI": "https://doi.org/10.7937/tcia.2019.tt7f4v7o",
+    "Access": "Public",
+    "Updated": "2020-01-10",
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "Lung Fused-CT-Pathology",
@@ -805,14 +973,6 @@
     "Access": "Public",
     "Updated": "2019-09-13",
     "some_date": "2021-02-26",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-BLCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
-    "Access": "Public",
-    "Updated": "2019-08-30",
-    "some_date": "2020-06-01",
     "is_excluded": false
   },
   {
@@ -936,27 +1096,11 @@
     "is_excluded": false
   },
   {
-    "Collection": "TCGA-UCEC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
-    "Access": "Public",
-    "Updated": "2018-10-26",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
     "Collection": "HNSCC-3DCT-RT",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.13upr2xf",
     "Access": "Limited",
     "Updated": "2018-08-30",
     "some_date": "2021-02-26",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-HNSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
-    "Access": "Limited",
-    "Updated": "2018-08-30",
-    "some_date": "2020-06-01",
     "is_excluded": false
   },
   {
@@ -1040,38 +1184,6 @@
     "is_excluded": false
   },
   {
-    "Collection": "TCGA-LUSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
-    "Access": "Public",
-    "Updated": "2017-01-30",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-KIRP",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
-    "Access": "Public",
-    "Updated": "2017-01-30",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-LIHC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
-    "Access": "Public",
-    "Updated": "2017-01-30",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-LUAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
-    "Access": "Public",
-    "Updated": "2017-01-30",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
     "Collection": "IvyGAP",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.XLwaN6nL",
     "Access": "Limited",
@@ -1088,18 +1200,18 @@
     "is_excluded": false
   },
   {
+    "Collection": "SPIE-AAPM Lung CT Challenge",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
+    "Access": "Public",
+    "Updated": "2016-09-23",
+    "some_date": "2021-02-28",
+    "is_excluded": false
+  },
+  {
     "Collection": "ISPY1 (ACRIN 6657)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK",
     "Access": "Public",
     "Updated": "2016-08-31",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-PRAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
-    "Access": "Public",
-    "Updated": "2016-08-29",
     "some_date": "2020-06-01",
     "is_excluded": false
   },
@@ -1168,83 +1280,11 @@
     "is_excluded": false
   },
   {
-    "Collection": "TCGA-THCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.9ZFRVF1B",
-    "Access": "Public",
-    "Updated": "2014-12-31",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
     "Collection": "LungCT-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
     "Access": "Public",
     "Updated": "2014-12-30",
     "some_date": "2021-02-26",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-BRCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
-    "Access": "Public",
-    "Updated": "2014-12-30",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-SARC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.CX6YLSUX",
-    "Access": "Public",
-    "Updated": "2014-12-30",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-STAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
-    "Access": "Public",
-    "Updated": "2014-12-09",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-CESC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
-    "Access": "Public",
-    "Updated": "2014-12-09",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-ESCA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
-    "Access": "Public",
-    "Updated": "2014-12-09",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-OV",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
-    "Access": "Public",
-    "Updated": "2014-11-05",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-COAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HJJHBOXZ",
-    "Access": "Public",
-    "Updated": "2014-10-14",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-KIRC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
-    "Access": "Public",
-    "Updated": "2014-10-09",
-    "some_date": "2020-06-01",
     "is_excluded": false
   },
   {
@@ -1262,14 +1302,6 @@
     "Updated": "2014-09-04",
     "some_date": "2021-02-27",
     "is_excluded": true
-  },
-  {
-    "Collection": "TCGA-LGG",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
-    "Access": "Limited",
-    "Updated": "2014-09-04",
-    "some_date": "2020-06-01",
-    "is_excluded": false
   },
   {
     "Collection": "NSCLC-Radiomics-Genomics",
@@ -1293,38 +1325,6 @@
     "Access": "Public",
     "Updated": "2014-06-19",
     "some_date": "2021-02-26",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-READ",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
-    "Access": "Public",
-    "Updated": "2014-05-21",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-KICH",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
-    "Access": "Public",
-    "Updated": "2014-05-21",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-GBM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.RNYFUYE9",
-    "Access": "Limited",
-    "Updated": "2014-05-08",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "SPIE-AAPM Lung CT Challenge",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
-    "Access": "Public",
-    "Updated": "2014-01-02",
-    "some_date": "2021-02-28",
     "is_excluded": false
   },
   {
