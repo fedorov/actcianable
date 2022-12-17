@@ -1,5 +1,15 @@
 [
   {
+    "Collection": "Annotations for Combination Chemotherapy With or Without Radiation Therapy in Treating Young Patients With Newly Diagnosed Stage III or Stage IV Wilms Tumor (AREN0533-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/WFCC-DA41",
+    "CancerType": "Lung",
+    "Location": "Lung, Kidney",
+    "Subjects": "294",
+    "Collections": "AREN0533",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2022-12-14"
+  },
+  {
     "Collection": "Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET (ACNS0332-Tumor-Annotations)",
     "DOI": "https://doi.org/10.7937/D8A8-6252",
     "CancerType": "Medulloblastoma",

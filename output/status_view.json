@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "Access": "Limited",
+    "Updated": "2022-12-15",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Access": "Public",
@@ -218,14 +226,6 @@
   {
     "Collection": "AREN0532",
     "DOI": "https://doi.org/10.7937/6PJ1-M859",
-    "Access": "Limited",
-    "Updated": "2022-03-31",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
     "Access": "Limited",
     "Updated": "2022-03-31",
     "some_date": "n/a",

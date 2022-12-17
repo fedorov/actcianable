@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "Wiki": true,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet !Run Time Error: Collection not scraped!"
+  },
+  {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Wiki": true,
@@ -27,9 +35,9 @@
     "Collection": "Hungarian-Colorectal-Screening",
     "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
     "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357370/metadata_age_sex_icd10status.csv?version=1&modificationDate=1631736831200&api=v2\">metadata_age_sex_icd10status.csv</a>: 5fa6034f823f79586eb4b4d8104ee3aa",
-    "Notes": "one csv file with clinical data. Not yet in idc"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical data. Not yet in idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Duke-Breast-Cancer-MRI",
@@ -75,9 +83,9 @@
     "Collection": "HCC-TACE-Seg",
     "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230229/HCC-TACE-Seg_clinical_data-V2.xlsx\">HCC-TACE-Seg_clinical_data-V2.xlsx</a>: 63af6363b9d0fe453c48e75402e9082c",
-    "Notes": "one xlsx file with clinical data and a glossary"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data and a glossary!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-521955-158-R4",
@@ -115,9 +123,9 @@
     "Collection": "FDG-PET-CT-Lesions",
     "DOI": "https://doi.org/10.7937/gkr0-xv29",
     "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93258287/Clinical%20Metadata%20FDG%20PET_CT%20Lesions.csv?api=v2\">Clinical Metadata FDG PET_CT Lesions.csv</a>: 1629d4308c7856c93d04d27ebaa630d6",
-    "Notes": "collection is limited and not currently in IDC"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection is limited and not currently in IDC!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
@@ -139,8 +147,8 @@
     "Collection": "DLBCL-Morphology",
     "DOI": "https://doi.org/10.7937/NVA3-N783",
     "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/column_description.csv?api=v2\">column_description.csv</a>: f62031f7d3d32aca24e00a11fcc3021c",
+    "Format": "",
+    "Filenames": "",
     "Notes": "one csv file with clinical data. Not yet in IDC!Run Time Error: Collection not scraped!"
   },
   {
@@ -150,14 +158,6 @@
     "Format": "",
     "Filenames": "",
     "Notes": "clinical data href links to nctn/ncorp data portal"
-  },
-  {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20reports%20March%202022.zip?api=v2\">Clinical reports March 2022.zip</a>: 2fb28c1b8a45cc329a5fb68b957b695e",
-    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
   },
   {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
@@ -187,9 +187,9 @@
     "Collection": "CDD-CESM",
     "DOI": "https://doi.org/10.7937/29kw-ae92",
     "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/109379611/Medical%20reports%20for%20cases%20.zip?api=v2\">Medical reports for cases .zip</a>: 31c83daaf88a5aa89cf6fa3cb28efdca",
-    "Notes": "a zip file with seperate docx format files, each containing a medical report for a different patient. Would take some work to get this in tabular format"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "a zip file with seperate docx format files, each containing a medical report for a different patient. Would take some work to get this in tabular format!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Ovarian Bevacizumab Response",
@@ -219,9 +219,9 @@
     "Collection": "NADT-Prostate",
     "DOI": "https://doi.org/10.7937/TCIA.JHQD-FR46",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357374/Biopsy%20Clinical%20Data.xlsx?version=3&modificationDate=1634850586960&api=v2\">Biopsy Clinical Data.xlsx</a>: a83309fa642172042177ced583721fce",
-    "Notes": "one xlsx file with clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "National Lung Screening Trial (NLST)",
