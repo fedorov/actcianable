@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "CancerType": "Various",
+    "Location": "Head, Chest, Abdomen",
+    "Species": "Human",
+    "Subjects": "299",
+    "ImageTypes": "CT",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2022-12-15"
+  },
+  {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "CancerType": "Diffuse Glioma",
@@ -358,19 +371,6 @@
     "Species": "Human",
     "Subjects": "544",
     "ImageTypes": "CR, CT, MR, PT, RTIMAGE, US",
-    "SupportingData": "Clinical",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2022-03-31"
-  },
-  {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "CancerType": "Various",
-    "Location": "Head, Chest, Abdomen",
-    "Species": "Human",
-    "Subjects": "299",
-    "ImageTypes": "CT",
     "SupportingData": "Clinical",
     "Access": "Limited",
     "Status": "Complete",
