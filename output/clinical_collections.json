@@ -810,10 +810,10 @@
   {
     "Collection": "SPIE-AAPM Lung CT Challenge",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "one file with clinical data!Run Time Error: Collection not scraped!"
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039197/TestSet_NoduleData_PublicRelease_wTruth.xlsx?version=1&modificationDate=1474635989693&api=v2\">TestSet_NoduleData_PublicRelease_wTruth.xlsx</a>: 8e3808a9603d447ea5a13358dbc2c74d",
+    "Notes": "one file with clinical data"
   },
   {
     "Collection": "ISPY1 (ACRIN 6657)",
