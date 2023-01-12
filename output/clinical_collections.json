@@ -1,19 +1,19 @@
 [
   {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20December%202022.zip?api=v2\">Clinical Reports December 2022.zip</a>: ddede5e77031e341d53bdc5b14707a49",
-    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
-  },
-  {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Wiki": true,
     "Format": ".csv",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119705830/UCSF-PDGM-metadata_v2.csv?api=v2\">UCSF-PDGM-metadata_v2.csv</a>: 76b88b77349ef68e69a22519ac027a5c",
     "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "Wiki": true,
+    "Format": ".zip",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20December%202022.zip?api=v2\">Clinical Reports December 2022.zip</a>: ddede5e77031e341d53bdc5b14707a49",
+    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
   },
   {
     "Collection": "UPENN-GBM",
