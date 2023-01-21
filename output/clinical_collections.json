@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
+    "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/112591753/TCIA_CCTH_Patient%20data_1.17.23.xlsx?api=v2\">TCIA_CCTH_Patient data_1.17.23.xlsx</a>: 3fa217a7dd58717ff1482b2db6da792a",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Wiki": true,
