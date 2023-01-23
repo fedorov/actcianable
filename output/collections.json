@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
+    "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
+    "CancerType": "Cervical Cancer",
+    "Location": "Cervix",
+    "Species": "Human",
+    "Subjects": "23",
+    "ImageTypes": "CT, MR, PT, REG, RTSTRUCT",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2023-01-20"
+  },
+  {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "CancerType": "Diffuse Glioma",
