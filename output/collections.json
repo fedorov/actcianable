@@ -28,15 +28,15 @@
   {
     "Collection": "APOLLO-5",
     "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "CancerType": "Breast Cancer, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Clear Cell Renal Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
-    "Location": "Bile duct, Breast, Colon, Esophagus, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Skin, Thymus, Thyroid, Uterine corpus",
+    "CancerType": "Breast Cancer, Bladder Urothelial Carcinoma, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Endocrine Miscellaneous,  Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Chromophobe, Kidney Clear Cell Renal Cell Carcinoma, Kidney Renal Papillary Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Major Salivary Gland, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Prostate Adenocarcinoma, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
+    "Location": "Bile duct, Bladder, Breast, Colon, Endocrine, Esophagus, GI, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Prostate, Skin, Soft Tissue, Thymus, Thyroid, Uterine corpus",
     "Species": "Human",
-    "Subjects": "176",
+    "Subjects": "218",
     "ImageTypes": "CT, MR, NM, PT, US, XA",
     "SupportingData": "",
     "Access": "Limited",
     "Status": "Ongoing",
-    "Updated": "2022-12-30"
+    "Updated": "2023-1-31"
   },
   {
     "Collection": "LDCT-and-Projection-data",
