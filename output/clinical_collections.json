@@ -4,16 +4,16 @@
     "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
     "Wiki": true,
     "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/112591753/TCIA_CCTH_Patient%20data_1.17.23.xlsx?api=v2\">TCIA_CCTH_Patient data_1.17.23.xlsx</a>: 3fa217a7dd58717ff1482b2db6da792a",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/112591753/TCIA_CCTH_Patient%20data_02.06.23.xlsx?api=v2\">TCIA_CCTH_Patient data_02.06.23.xlsx</a>: 1b599f28fb651fcae817416f376a0b93",
     "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119705830/UCSF-PDGM-metadata_v2.csv?api=v2\">UCSF-PDGM-metadata_v2.csv</a>: 76b88b77349ef68e69a22519ac027a5c",
-    "Notes": "collection not yet curated for idc"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "LDCT-and-Projection-data",
