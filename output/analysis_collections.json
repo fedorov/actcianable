@@ -1,5 +1,25 @@
 [
   {
+    "Collection": "Annotations for Combination Chemotherapy and Surgery in Treating Young Patients With Wilms Tumor (AREN0534-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/N930-BM78",
+    "CancerType": "Kidney",
+    "Location": "Lung, Kidney",
+    "Subjects": "239",
+    "Collections": "AREN0534",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-02-09"
+  },
+  {
+    "Collection": "Annotations for Vincristine, Dactinomycin, and Doxorubicin With or Without Radiation Therapy or Observation Only in Treating Younger Patients Who Are Undergoing Surgery for Newly Diagnosed Stage I, II, or III Wilms' Tumor (AREN0532-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/KJA4-1Z76",
+    "CancerType": "Kidney",
+    "Location": "Lung, Kidney",
+    "Subjects": "543",
+    "Collections": "AREN0532",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-02-09"
+  },
+  {
     "Collection": "Annotations for Combination Chemotherapy With or Without Radiation Therapy in Treating Young Patients With Newly Diagnosed Stage III or Stage IV Wilms Tumor (AREN0533-Tumor-Annotations)",
     "DOI": "https://doi.org/10.7937/WFCC-DA41",
     "CancerType": "Kidney",
