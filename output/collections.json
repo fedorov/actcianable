@@ -1,5 +1,44 @@
 [
   {
+    "Collection": "Meningioma-SEG-CLASS",
+    "DOI": "https://doi.org/10.7937/0TKV-1A36",
+    "CancerType": "Meningioma",
+    "Location": "Brain, Spinal Cord",
+    "Species": "Human",
+    "Subjects": "96",
+    "ImageTypes": "MR, RTSTRUCT",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2023-02-13"
+  },
+  {
+    "Collection": "A091105",
+    "DOI": "https://doi.org/10.7937/0WF5-SJ50",
+    "CancerType": "Non-Cancer",
+    "Location": "Various",
+    "Species": "Human",
+    "Subjects": "83",
+    "ImageTypes": "CT, MR",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2023-02-10"
+  },
+  {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "CancerType": "Breast Cancer, Bladder Urothelial Carcinoma, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Endocrine Miscellaneous,  Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Chromophobe, Kidney Clear Cell Renal Cell Carcinoma, Kidney Renal Papillary Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Major Salivary Gland, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Prostate Adenocarcinoma, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
+    "Location": "Bile duct, Bladder, Breast, Colon, Endocrine, Esophagus, GI, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Prostate, Skin, Soft Tissue, Thymus, Thyroid, Uterine corpus",
+    "Species": "Human",
+    "Subjects": "218",
+    "ImageTypes": "CT, MR, NM, PT, US, XA",
+    "SupportingData": "",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2023-1-31"
+  },
+  {
     "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
     "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
     "CancerType": "Cervical Cancer",
@@ -24,19 +63,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2023-01-11"
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "CancerType": "Breast Cancer, Bladder Urothelial Carcinoma, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Endocrine Miscellaneous,  Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Chromophobe, Kidney Clear Cell Renal Cell Carcinoma, Kidney Renal Papillary Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Major Salivary Gland, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Prostate Adenocarcinoma, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
-    "Location": "Bile duct, Bladder, Breast, Colon, Endocrine, Esophagus, GI, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Prostate, Skin, Soft Tissue, Thymus, Thyroid, Uterine corpus",
-    "Species": "Human",
-    "Subjects": "218",
-    "ImageTypes": "CT, MR, NM, PT, US, XA",
-    "SupportingData": "",
-    "Access": "Limited",
-    "Status": "Ongoing",
-    "Updated": "2023-1-31"
   },
   {
     "Collection": "LDCT-and-Projection-data",
