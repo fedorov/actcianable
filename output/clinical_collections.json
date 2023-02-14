@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "Meningioma-SEG-CLASS",
+    "DOI": "https://doi.org/10.7937/0TKV-1A36",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/133071972/Meningioma-SEG-Class%20Clinical%20Data.xlsx?api=v2\">Meningioma-SEG-Class Clinical Data.xlsx</a>: da011ea8de0393b8a3f3100241ece810",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "A091105",
+    "DOI": "https://doi.org/10.7937/0WF5-SJ50",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
     "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
     "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
     "Wiki": true,
