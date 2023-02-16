@@ -2,10 +2,10 @@
   {
     "Collection": "Meningioma-SEG-CLASS",
     "DOI": "https://doi.org/10.7937/0TKV-1A36",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/133071972/Meningioma-SEG-Class%20Clinical%20Data.xlsx?api=v2\">Meningioma-SEG-Class Clinical Data.xlsx</a>: da011ea8de0393b8a3f3100241ece810",
-    "Notes": "collection not yet curated for idc"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "A091105",
@@ -13,39 +13,39 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "collection not yet curated for idc"
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
     "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/112591753/TCIA_CCTH_Patient%20data_02.06.23.xlsx?api=v2\">TCIA_CCTH_Patient data_02.06.23.xlsx</a>: 1b599f28fb651fcae817416f376a0b93",
-    "Notes": "collection not yet curated for idc"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "UCSF-PDGM",
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119705830/UCSF-PDGM-metadata_v2.csv?api=v2\">UCSF-PDGM-metadata_v2.csv</a>: 76b88b77349ef68e69a22519ac027a5c",
-    "Notes": "collection not yet curated for idc"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20December%202022.zip?api=v2\">Clinical Reports December 2022.zip</a>: ddede5e77031e341d53bdc5b14707a49",
-    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet !Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "UPENN-GBM",
     "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.0.csv</a>: 775fe21d4495105c803ca42436fbfc0e",
-    "Notes": "one csv file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ARAR0331",
@@ -53,23 +53,23 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "collection not yet curated for idc"
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Hungarian-Colorectal-Screening",
     "DOI": "https://doi.org/10.7937/tcia.9cjf-0127",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357370/metadata_age_sex_icd10status.csv?version=1&modificationDate=1631736831200&api=v2\">metadata_age_sex_icd10status.csv</a>: 5fa6034f823f79586eb4b4d8104ee3aa",
-    "Notes": "one csv file with clinical data. Not yet in idc"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical data. Not yet in idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226903/Clinical_and_Other_Features.xlsx?api=v2\">Clinical_and_Other_Features.xlsx</a>: 13d3a4833d945ff843453f8138517f65",
-    "Notes": "one xlsx file with 3 sheets. The first has clinical data, the third has a template"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with 3 sheets. The first has clinical data, the third has a template!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CMB-LCA",
@@ -77,7 +77,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CMB-PCA",
@@ -85,7 +85,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CMB-CRC",
@@ -93,7 +93,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CMB-MEL",
@@ -101,15 +101,15 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "HCC-TACE-Seg",
     "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230229/HCC-TACE-Seg_clinical_data-V2.xlsx\">HCC-TACE-Seg_clinical_data-V2.xlsx</a>: 63af6363b9d0fe453c48e75402e9082c",
-    "Notes": "one xlsx file with clinical data and a glossary"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data and a glossary!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-521955-158-R4",
@@ -117,7 +117,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CMB-GEC",
@@ -125,7 +125,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CMB-MML",
@@ -133,7 +133,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "AHOD0831",
@@ -141,38 +141,38 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data href links to nctn/ncorp data portal"
+    "Notes": "clinical data href links to nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "FDG-PET-CT-Lesions",
     "DOI": "https://doi.org/10.7937/gkr0-xv29",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93258287/Clinical%20Metadata%20FDG%20PET_CT%20Lesions.csv?api=v2\">Clinical Metadata FDG PET_CT Lesions.csv</a>: 1629d4308c7856c93d04d27ebaa630d6",
-    "Notes": "collection is limited and not currently in IDC"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection is limited and not currently in IDC!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
     "DOI": "https://doi.org/10.7937/TCIA.KK02-6D95",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/50135447/Full%20Collection%20Ancillary%20Patient%20Information%20file.xlsx?api=v2\">Full Collection Ancillary Patient Information file.xlsx</a>: 33fc5e3943cbe0cb47682f52da05c2e5",
-    "Notes": "one xlsx file with clinical data. not in IDC yet"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data. not in IDC yet!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "I-SPY2 Trial",
     "DOI": "https://doi.org/10.7937/TCIA.D8Z0-9T85",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230072/ISPY2%20Imaging%20Cohort%201%20Clinical%20Data.xlsx?api=v2\">ISPY2 Imaging Cohort 1 Clinical Data.xlsx</a>: 6ac1440f0f4230018638ad153f9d89bf",
-    "Notes": "one xlsx file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "DLBCL-Morphology",
     "DOI": "https://doi.org/10.7937/NVA3-N783",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/column_description.csv?api=v2\">column_description.csv</a>: f62031f7d3d32aca24e00a11fcc3021c",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
     "Notes": "one csv file with clinical data. Not yet in IDC!Run Time Error: Collection not scraped!"
   },
   {
@@ -181,23 +181,23 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data href links to nctn/ncorp data portal"
+    "Notes": "clinical data href links to nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "https://doi.org/10.7937/Q1EE-J082",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225026/ACRIN%206667%20Contralateral%20Breast%20MRI%20Clinical%20Data%20Anonymized.zip?api=v2\">ACRIN 6667 Contralateral Breast MRI Clinical Data Anonymized.zip</a>: 0d651fcc0000d1a018e20a9ebe9162f7",
-    "Notes": "leads to a download of one zip file with several data files in csv format and a data dictionary in xlsx format. The data file names are a different format from all the other acrin collecitons. The file names include the id (6667) and the word 'reviewed'"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "leads to a download of one zip file with several data files in csv format and a data dictionary in xlsx format. The data file names are a different format from all the other acrin collecitons. The file names include the id (6667) and the word 'reviewed'!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "B-mode-and-CEUS-Liver",
     "DOI": "https://doi.org/10.7937/TCIA.2021.v4z7-tc39",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61080617/B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx?api=v2\">B-mode-and-CEUS-Liver_ReferenceStandards_v2_20220218.xlsx</a>: a493f7d889b6ce473e51ce789914d6a8",
-    "Notes": "one file with one sheet with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one file with one sheet with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "AREN0533",
@@ -205,31 +205,31 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data href links to nctn/ncorp data portal"
+    "Notes": "clinical data href links to nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CDD-CESM",
     "DOI": "https://doi.org/10.7937/29kw-ae92",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/109379611/Medical%20reports%20for%20cases%20.zip?api=v2\">Medical reports for cases .zip</a>: 31c83daaf88a5aa89cf6fa3cb28efdca",
-    "Notes": "a zip file with seperate docx format files, each containing a medical report for a different patient. Would take some work to get this in tabular format"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "a zip file with seperate docx format files, each containing a medical report for a different patient. Would take some work to get this in tabular format!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Ovarian Bevacizumab Response",
     "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20CA125%20data.xlsx?version=1&modificationDate=1635173486180&api=v2\">Final CA125 data.xlsx</a>: b02ace8bdd63da7ab0d6596b2617bc30, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93",
-    "Notes": "2 xlsx files with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "2 xlsx files with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52763679/ACRIN%206685%20HB%20HNSCC%20FDG%20PET_CT%20TCIA%20Reviewed.zip?api=v2\">ACRIN 6685 HB HNSCC FDG PET_CT TCIA Reviewed.zip</a>: fa2eb32881a5d2744e4d1aae09d82482, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52763679/ACRIN%206685%20HNSCC%20FDG%20PET_CT%20TCIA%20Anonymized.zip?api=v2\">ACRIN 6685 HNSCC FDG PET_CT TCIA Anonymized.zip</a>: 0ee46a3b83d06b66775504b9144d38eb",
-    "Notes": "same as acrin 6688"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "same as acrin 6688!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "AREN0534",
@@ -237,39 +237,39 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data href links to nctn/ncorp data portal"
+    "Notes": "clinical data href links to nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NADT-Prostate",
     "DOI": "https://doi.org/10.7937/TCIA.JHQD-FR46",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/91357374/Biopsy%20Clinical%20Data.xlsx?version=3&modificationDate=1634850586960&api=v2\">Biopsy Clinical Data.xlsx</a>: a83309fa642172042177ced583721fce",
-    "Notes": "one xlsx file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "National Lung Screening Trial (NLST)",
     "DOI": "https://doi.org/10.7937/TCIA.HMQ8-J677",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/5800702/package-nlst-780.2021-05-28.zip?version=1&modificationDate=1633562878492&api=v2\">package-nlst-780.2021-05-28.zip</a>: 53bae727195a21a8b359ce71cd459e88",
-    "Notes": "a zip file with many csv files with clinical data and rtf files with data dictionaries. This has not been parsed."
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "a zip file with many csv files with clinical data and rtf files with data dictionaries. This has not been parsed.!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "COVID-19-NY-SBU",
     "DOI": "https://doi.org/10.7937/TCIA.BBAG-2923",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv.template_20210806.csv</a>: 5bd199f8743d1ffd55dc67a0b2477560, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096912/deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv?api=v2\">deidentified_overlap_tcia.csv.cleaned.csv_20210806.csv</a>: bb5b4e606e63ac85de7d821c7ea7bda4",
-    "Notes": "one csv file with clinical information, one data dictionary or template"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical information, one data dictionary or template!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Prostate-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3277254/ProstateDiagnosis_metadata-05-07-2012.xlsx?version=1&modificationDate=1336416623725&api=v2\">ProstateDiagnosis_metadata-05-07-2012.xlsx</a>: bc5a4fede88789b4002a54640da5063a",
-    "Notes": "one xlsx file with clinical data."
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data.!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Breast Cancer Screening-DBT",
@@ -277,15 +277,15 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data may be available through doi.  Deep learning study"
+    "Notes": "clinical data may be available through doi.  Deep learning study!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Radiogenomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.7hs46erv",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/28672347/NSCLCR01Radiogenomic_DATA_LABELS_2018-05-22_1500-shifted.csv?version=1&modificationDate=1531967714295&api=v2\">NSCLCR01Radiogenomic_DATA_LABELS_2018-05-22_1500-shifted.csv</a>: f0f65ae858c3677432f3fcb99553b78a",
-    "Notes": "One csv file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One csv file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACNS0332",
@@ -293,15 +293,15 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data href links to nctn/ncorp data portal"
+    "Notes": "clinical data href links to nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CMMD",
     "DOI": "https://doi.org/10.7937/tcia.eqde-4b16",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230508/CMMD_clinicaldata_revision.xlsx?api=v2\">CMMD_clinicaldata_revision.xlsx</a>: 3ba151018efbc46e477eac9594c6a85c",
-    "Notes": "one file with one sheet with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one file with one sheet with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CALGB50303",
@@ -309,7 +309,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data href links to nctn/ncorp data portal"
+    "Notes": "clinical data href links to nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "AHEP0731",
@@ -317,15 +317,15 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data href links to nctn/ncorp data portal"
+    "Notes": "clinical data href links to nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "MIDRC-RICORD-1b",
     "DOI": "https://doi.org/10.7937/31V8-4A40",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/80969771/MIDRC-RICORD-1b%20Clinical%20Data%20Feb%202021.xlsx?api=v2\">MIDRC-RICORD-1b Clinical Data Feb 2021.xlsx</a>: 306dd01b3c494ca1ba4b0baaff0fa021",
-    "Notes": "One xlsx file, one sheet with clear clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file, one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-PDA",
@@ -333,7 +333,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-BRCA",
@@ -341,7 +341,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-COAD",
@@ -349,7 +349,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-OV",
@@ -357,7 +357,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-LSCC",
@@ -365,39 +365,39 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "MIDRC-RICORD-1c",
     "DOI": "https://doi.org/10.7937/91ah-v663",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230281/MIDRC-RICORD-1c%20Clinical%20Data%20Jan%2013%202021%20.xlsx?api=v2\">MIDRC-RICORD-1c Clinical Data Jan 13 2021 .xlsx</a>: 7937f6fa1e896e8f823fd9332f844be2",
-    "Notes": "One xlsx file, one sheet with clear clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file, one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "MIDRC-RICORD-1a",
     "DOI": "https://doi.org/10.7937/VTW4-X588",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/80969742/MIDRC-RICORD-1a%20Clinical%20Data%20Jan%2013%202021.xlsx?api=v2\">MIDRC-RICORD-1a Clinical Data Jan 13 2021.xlsx</a>: bc54fcc302f85750face74726ad44d46",
-    "Notes": "One xlsx file, one sheet with clear clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file, one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Lung-PET-CT-Dx",
     "DOI": "https://doi.org/10.7937/TCIA.2020.NNC2-0461",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70224216/statistics-clinical-20201221.xlsx?version=1&modificationDate=1608654729514&api=v2\">statistics-clinical-20201221.xlsx</a>: a73ebe83f7c9b7f4c762822e9aeef922",
-    "Notes": "One xlsx file with one sheet with clear clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Radiomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.PF0M9REI",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056854/NSCLC%20Radiomics%20Lung1.clinical-version3-Oct%202019.csv?version=1&modificationDate=1572013183040&api=v2\">NSCLC Radiomics Lung1.clinical-version3-Oct 2019.csv</a>: 2d2638a2ac1d34edc6535b59b6f71510",
-    "Notes": "One csv file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One csv file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-833975-119-R",
@@ -405,55 +405,55 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN-HeadNeck",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/6885289/Batch_01%20and%20Batch_02%20Clinical%20Data_aug242020.xlsx?api=v2\">Batch_01 and Batch_02 Clinical Data_aug242020.xlsx</a>: d4153ebae54461f4f27646d0f32d0db7",
-    "Notes": "one xlsx file with two sheets with similar clinical two for two patient sets"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with two sheets with similar clinical two for two patient sets!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)",
     "DOI": "https://doi.org/10.7937/tcia.2019.zr1pjf4i",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/50135264/ACRIN-DSC-MR-Brain-Full-Clinical.zip?api=v2\">ACRIN-DSC-MR-Brain-Full-Clinical.zip</a>: 59be600f22cfbed9eb6ab3ec1277a047",
-    "Notes": "Currently links to a zip file with two empty directories "
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Currently links to a zip file with two empty directories !Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CRC_FFPE-CODEX_CellNeighs",
     "DOI": "https://doi.org/10.7937/TCIA.2020.FQN0-0326",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70227790/CRC_TMAs_patient_annotations.xlsx?version=1&modificationDate=1596640684172&api=v2\">CRC_TMAs_patient_annotations.xlsx</a>: 9437a28a6e2811f6a8056e51673bcb42, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70227790/Multi-tumor_TMA_composition.xlsx?version=1&modificationDate=1596640676197&api=v2\">Multi-tumor_TMA_composition.xlsx</a>: 15116a8e2a4a1b653ddfe562d0d1396d",
-    "Notes": "2 xlsx files, one with clinical data, one with radiometric data that is not directly applicable to the clinical data format"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "2 xlsx files, one with clinical data, one with radiometric data that is not directly applicable to the clinical data format!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Radiomics-Interobserver1",
     "DOI": "https://doi.org/10.7937/tcia.2019.cwvlpd26",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52756590/Interobserver1.clinical_updated_released_2019-June-17.csv?version=1&modificationDate=1560796626334&api=v2\">Interobserver1.clinical_updated_released_2019-June-17.csv</a>: b14b7a077f995921c6874dacb5846eb7",
-    "Notes": "one csv file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Head-Neck-Radiomics-HN1",
     "DOI": "https://doi.org/10.7937/tcia.2019.8kap372n",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52762760/Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection%20July%2029%202020.zip?version=1&modificationDate=1596049703964&api=v2\">Clinical_Data_CSV_for_the_Head-Neck-Radiomics_collection July 29 2020.zip</a>: 763163e13605d970dac66360bbb19c2b",
-    "Notes": "zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "zip file with one csv file with clinical data. Data dictionary is provided in a separate download. NTS: download!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "COVID-19-AR",
     "DOI": "https://doi.org/10.7937/tcia.2020.py71-5978",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226443/COVID-19%20AR%20Clinical%20Correlates%20July202020.xlsx?version=1&modificationDate=1594659431356&api=v2\">COVID-19 AR Clinical Correlates July202020.xlsx</a>: 6f75681cca1fe7842f0c6832232b9b84",
-    "Notes": "one xls file with two sheets. Both have clinical data  for two attribute sets"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xls file with two sheets. Both have clinical data  for two attribute sets!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-CM",
@@ -461,7 +461,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-HNSCC",
@@ -469,15 +469,15 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "C4KC-KiTS",
     "DOI": "https://doi.org/10.7937/TCIA.2019.IX49E8NX",
-    "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/61081171/C4KC%20KiTS_Clinical%20Data_Version%201.csv?api=v2\">C4KC KiTS_Clinical Data_Version 1.csv</a>: 4849610af4f80bf6740d11a190364079",
-    "Notes": "one csv file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-425362-245-T",
@@ -485,7 +485,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-997537-175-T",
@@ -493,7 +493,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-292921-168-R",
@@ -501,7 +501,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-BLCA",
@@ -509,7 +509,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-THCA",
@@ -517,7 +517,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-BRCA",
@@ -525,7 +525,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-KIRP",
@@ -533,7 +533,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-SARC",
@@ -541,7 +541,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-READ",
@@ -549,7 +549,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-STAD",
@@ -557,7 +557,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-UCEC",
@@ -565,7 +565,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-COAD",
@@ -573,7 +573,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-LIHC",
@@ -581,7 +581,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-LUAD",
@@ -589,7 +589,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-LGG",
@@ -597,7 +597,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-HNSC",
@@ -605,7 +605,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-OV",
@@ -613,7 +613,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-GBM",
@@ -621,7 +621,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-CESC",
@@ -629,7 +629,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-LUSC",
@@ -637,7 +637,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-KIRC",
@@ -645,7 +645,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-ESCA",
@@ -653,7 +653,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-KICH",
@@ -661,7 +661,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-PRAD",
@@ -669,14 +669,14 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "HNSCC",
     "DOI": "https://doi.org/10.7937/k9/tcia.2020.a8sh-7363",
-    "Wiki": true,
-    "Format": ".xls, .xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Field%20Descriptions%20for%20Patient%20and%20Treatment%20Characteristics.xlsx?version=1&modificationDate=1531497124879&api=v2\">Field Descriptions for Patient and Treatment Characteristics.xlsx</a>: 4e2256214ff139b9f2eb860937037473, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24281354/Patient%20and%20Treatment%20Characteristics.xls?version=1&modificationDate=1531497278289&api=v2\">Patient and Treatment Characteristics.xls</a>: db5254d30ddb57e27ed7fc7d09875fb0",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
     "Notes": "An xls file, an xlsx file and a csv file. The xls file has one sheet and has clinical data. They have similar (but not identical) data for different (but overlapping) sets of patients. xlsx data has one sheet with a data dictionary for the xls file. The csv file was not downloaded automatically as the link leads to a preview. The csv is downloaded manually!Run Time Error: Collection not scraped!"
   },
   {
@@ -685,7 +685,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-UCEC",
@@ -693,7 +693,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-GBM",
@@ -701,7 +701,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-LUAD",
@@ -709,7 +709,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-SAR",
@@ -717,47 +717,47 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "OPC-Radiomics",
     "DOI": "https://doi.org/10.7937/tcia.2019.8dho2gls",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948764/Clinical%20data%20list_OPC%20%28606%29%20v3.xlsx?version=1&modificationDate=1581359182229&api=v2\">Clinical data list_OPC (606) v3.xlsx</a>: cc241ff6cc6ff89ca18cad8bc53256a2",
-    "Notes": "One xls file with one sheet with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xls file with one sheet with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-NSCLC-FDG-PET (ACRIN 6668)",
     "DOI": "https://doi.org/10.7937/tcia.2019.30ilqfcl",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879162/ACRIN%206668%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%201.zip?version=1&modificationDate=1590499820066&api=v2\">ACRIN 6668 NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 1.zip</a>: b34a9550c1c93fd7fb5d6fa487c5c9ee, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879162/ACRIN%206668HB%20NSCLC%20FDG%20PET%20-%20ACRIN%20Data%20TCIA%20Anonymized%20File%20set%202.zip?version=1&modificationDate=1590499781413&api=v2\">ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 2.zip</a>: c7134f971b2b797a7a2fe2a8245728c6",
-    "Notes": "Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2\">ACRIN-FLT-Breast 6688 Clinical Data.zip</a>: b656297b7608cb50e4a1edf9629e7705",
-    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN-Breast",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.21JUebH0",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/18513974/QIN-Breast_TreatmentResponse%282014-12-16%29.xlsx?version=1&modificationDate=1418736971268&api=v2\">QIN-Breast_TreatmentResponse(2014-12-16).xlsx</a>: 6e2c7768a0524d02b4633515903dcbf0",
-    "Notes": "one xls w treatments response"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xls w treatments response!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Lung Fused-CT-Pathology",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39878702/Lung%20Fused-CT-Pathology%20spreadsheet.xlsx?version=1&modificationDate=1532544176723&api=v2\">Lung Fused-CT-Pathology spreadsheet.xlsx</a>: 32c331abf73bd2cabf819fb06fdcbdcf",
-    "Notes": "One xlsx file with one sheet with clear clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-BL0293-F563",
@@ -765,7 +765,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "external only"
+    "Notes": "external only!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-CCRCC",
@@ -773,31 +773,31 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.vohlekok",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/33948305/ACRIN%20FMISO%20Brain%206684%20TCIA%20Anonymized.zip?version=1&modificationDate=1568654527692&api=v2\">ACRIN FMISO Brain 6684 TCIA Anonymized.zip</a>: 5f7938760dfd9ecdf637272c17344445",
-    "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Same as ACRIN-FLT-Breast (ACRIN 6688)!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN-BREAST-02",
     "DOI": "https://doi.org/10.7937/TCIA.2019.4cfm06rr",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52756887/QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx?version=1&modificationDate=1581525332526&api=v2\">QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx</a>: 5959ff5cf06287c6dfb1007b030c63a7",
-    "Notes": "one xlsx file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN Breast DCE-MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/18514286/QIN-Breast-DCE-MRI_Response.xlsx?version=1&modificationDate=1467916192583&api=v2\">QIN-Breast-DCE-MRI_Response.xlsx</a>: 64f51679891a4620ed89a0696a6ffdb5",
-    "Notes": "only binary data response vs non-complete response"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "only binary data response vs non-complete response!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Cetuximab (RTOG-0617)",
@@ -805,23 +805,23 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data at nctn/ncorp data portal"
+    "Notes": "clinical data at nctn/ncorp data portal!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "HNSCC-3DCT-RT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.13upr2xf",
-    "Wiki": true,
-    "Format": ".xlsb",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39879146/MDPA%20Patient%20Data%20Final%20-%20Accepted.xlsb?version=1&modificationDate=1549495716390&api=v2\">MDPA Patient Data Final - Accepted.xlsb</a>: fb78d68206332a4f5bb937ee0202eb8b",
-    "Notes": "One xlsb file.  8 sheets,  with different types of clinical data and CT data. "
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsb file.  8 sheets,  with different types of clinical data and CT data. !Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Head-Neck-PET-CT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.8oje5q00",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/24283867/INFOclinical_HN_Version2_30may2018.xlsx?version=1&modificationDate=1528212498494&api=v2\">INFOclinical_HN_Version2_30may2018.xlsx</a>: ab58a52284d45dc1cc644754bcf5b107",
-    "Notes": "One xlsx file with 5 sheets. Different patients, same clinical data on each"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with 5 sheets. Different patients, same clinical data on each!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "IvyGAP",
@@ -829,78 +829,78 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "not clinical data download links. Link resolve to portals. May be able to get data from there"
+    "Notes": "not clinical data download links. Link resolve to portals. May be able to get data from there!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "SPIE-AAPM Lung CT Challenge",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.UZLSU3FL",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039197/TestSet_NoduleData_PublicRelease_wTruth.xlsx?version=1&modificationDate=1474635989693&api=v2\">TestSet_NoduleData_PublicRelease_wTruth.xlsx</a>: 8e3808a9603d447ea5a13358dbc2c74d",
-    "Notes": "one file with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ISPY1 (ACRIN 6657)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.HdHpgJLK",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/20643859/I-SPY%201%20All%20Patient%20Clinical%20and%20Outcome%20Data.xlsx?version=1&modificationDate=1474583157883&api=v2\">I-SPY 1 All Patient Clinical and Outcome Data.xlsx</a>: 1dc4dd50a428d328b20f8af115eba5e6",
-    "Notes": "xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Breast-MRI-NACT-Pilot",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.QHSYHJKY",
-    "Wiki": true,
-    "Format": ".xls",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/22513764/SharedClinicalAndRFS.xls?version=2&modificationDate=1459899960400&api=v2\">SharedClinicalAndRFS.xls</a>: 6d25889fa3f410b16fcf73940d771cef",
-    "Notes": "one xls file with 3 sheets. One has clinical data, the others have supporting data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xls file with 3 sheets. One has clinical data, the others have supporting data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Soft-tissue-Sarcoma",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/21266533/INFOclinical_STS.xlsx?version=1&modificationDate=1452628070860&api=v2\">INFOclinical_STS.xlsx</a>: e91b7ca8d97139b8e9f7c2e76c179227",
-    "Notes": "One xlsx file with two sheets with complimentary data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with two sheets with complimentary data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "LungCT-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
-    "Wiki": true,
-    "Format": ".docx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039728/LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx?version=1&modificationDate=1451937423913&api=v2\">LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx</a>: 435a152e3ce0e70330cd4cd40dbdf9b3",
-    "Notes": "Clinical data in a doc file! Can be parsed manually"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Clinical data in a doc file! Can be parsed manually!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Radiomics-Genomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
-    "Wiki": true,
-    "Format": ".xls",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056856/Lung3.metadata.xls?version=1&modificationDate=1404237338168&api=v2\">Lung3.metadata.xls</a>: 615dcbbe21f1997c53075eda26d161e7",
-    "Notes": "One xls file with one sheet with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xls file with one sheet with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "LIDC-IDRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX",
-    "Wiki": true,
-    "Format": ".xls, .xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539039/lidc-idri%20nodule%20counts%20%286-23-2015%29.xlsx?version=1&modificationDate=1435085651880&api=v2\">lidc-idri nodule counts (6-23-2015).xlsx</a>: 8f62e25efdeab263c8443bc21fdf3488, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539039/tcia-diagnosis-data-2012-04-20.xls?version=1&modificationDate=1334930231098&api=v2\">tcia-diagnosis-data-2012-04-20.xls</a>: 00c00621419e16d96b92f19d63cd10f4",
-    "Notes": ""
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Breast Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
-    "Notes": "an xls file with one sheet with clinical data but is pivoted (organized in columns)"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "an xls file with one sheet with clinical data but is pivoted (organized in columns)!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "REMBRANDT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539229/clinical_2014-01-16.xlsx?version=2&modificationDate=1629237658680&api=v2\">clinical_2014-01-16.xlsx</a>: 425f1362f72fc34619c8166e13a7bdcb",
-    "Notes": "One xlsx file with one sheet with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with one sheet with clinical data!Run Time Error: Collection not scraped!"
   }
 ]
