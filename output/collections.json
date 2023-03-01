@@ -1,5 +1,122 @@
 [
   {
+    "Collection": "CPTAC-UCEC",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
+    "CancerType": "Corpus Endometrial Carcinoma",
+    "Location": "Uterus",
+    "Species": "Human",
+    "Subjects": "250",
+    "ImageTypes": "CT, MR, PT, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-GBM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "CancerType": "Glioblastoma Multiforme",
+    "Location": "Brain",
+    "Species": "Human",
+    "Subjects": "189",
+    "ImageTypes": "CT, MR, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-LSCC",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
+    "CancerType": "Squamous Cell Carcinoma",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "212",
+    "ImageTypes": "CT, PT, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-CCRCC",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
+    "CancerType": "Clear Cell Carcinoma",
+    "Location": "Kidney",
+    "Species": "Human",
+    "Subjects": "222",
+    "ImageTypes": "CT, MR, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-CM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
+    "CancerType": "Cutaneous Melanoma",
+    "Location": "Skin",
+    "Species": "Human",
+    "Subjects": "94",
+    "ImageTypes": "CT, MR, PT, Pathology",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-LUAD",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
+    "CancerType": "Adenocarcinoma",
+    "Location": "Lung",
+    "Species": "Human",
+    "Subjects": "244",
+    "ImageTypes": "CT, MR, PT, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-PDA",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
+    "CancerType": "Ductal Adenocarcinoma",
+    "Location": "Pancreas",
+    "Species": "Human",
+    "Subjects": "168",
+    "ImageTypes": "CT, MR, PT, US, Pathology",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-HNSCC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
+    "CancerType": "Head and Neck Cancer",
+    "Location": "Head-Neck",
+    "Species": "Human",
+    "Subjects": "112",
+    "ImageTypes": "CT, MR, PT, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "CancerType": "Sarcomas",
+    "Location": "Abdomen, Arm, Bladder, Chest, Head-Neck, Kidney, Leg, Retroperitoneum, Stomach, Uterus",
+    "Species": "Human",
+    "Subjects": "94",
+    "ImageTypes": "CT, MR, PT, Pathology",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-02-24"
+  },
+  {
     "Collection": "Meningioma-SEG-CLASS",
     "DOI": "https://doi.org/10.7937/0TKV-1A36",
     "CancerType": "Meningioma",
@@ -36,7 +153,7 @@
     "SupportingData": "",
     "Access": "Limited",
     "Status": "Ongoing",
-    "Updated": "2023-1-31"
+    "Updated": "2023-2-26"
   },
   {
     "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
@@ -728,19 +845,6 @@
     "Updated": "2021-02-05"
   },
   {
-    "Collection": "CPTAC-PDA",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
-    "CancerType": "Ductal Adenocarcinoma",
-    "Location": "Pancreas",
-    "Species": "Human",
-    "Subjects": "168",
-    "ImageTypes": "CR, CT, DX, MR, PT, RF, US, XA, Pathology",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2021-02-04"
-  },
-  {
     "Collection": "CPTAC-BRCA",
     "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
     "CancerType": "Breast Cancer",
@@ -791,19 +895,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2021-01-31"
-  },
-  {
-    "Collection": "CPTAC-LSCC",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
-    "CancerType": "Squamous Cell Carcinoma",
-    "Location": "Lung",
-    "Species": "Human",
-    "Subjects": "212",
-    "ImageTypes": "CT, CR, DX, NM, PT, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2021-01-23"
   },
   {
     "Collection": "MIDRC-RICORD-1c",
@@ -1012,32 +1103,6 @@
     "Access": "Public",
     "Status": "Ongoing",
     "Updated": "2020-07-15"
-  },
-  {
-    "Collection": "CPTAC-CM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
-    "CancerType": "Cutaneous Melanoma",
-    "Location": "Skin",
-    "Species": "Human",
-    "Subjects": "94",
-    "ImageTypes": "MR, CT, CR, PT, Pathology",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-06-30"
-  },
-  {
-    "Collection": "CPTAC-HNSCC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
-    "CancerType": "Head and Neck Cancer",
-    "Location": "Head-Neck",
-    "Species": "Human",
-    "Subjects": "112",
-    "ImageTypes": "CT, MR, SC, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Limited",
-    "Status": "Ongoing",
-    "Updated": "2020-06-30"
   },
   {
     "Collection": "C4KC-KiTS",
@@ -1417,58 +1482,6 @@
     "Updated": "2020-04-03"
   },
   {
-    "Collection": "CPTAC-UCEC",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
-    "CancerType": "Corpus Endometrial Carcinoma",
-    "Location": "Uterus",
-    "Species": "Human",
-    "Subjects": "250",
-    "ImageTypes": "CT, MR, PT, CR, DX, SR, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-03-31"
-  },
-  {
-    "Collection": "CPTAC-GBM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
-    "CancerType": "Glioblastoma Multiforme",
-    "Location": "Brain",
-    "Species": "Human",
-    "Subjects": "189",
-    "ImageTypes": "CT, CR, SC, MR, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Limited",
-    "Status": "Ongoing",
-    "Updated": "2020-03-31"
-  },
-  {
-    "Collection": "CPTAC-LUAD",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
-    "CancerType": "Adenocarcinoma",
-    "Location": "Lung",
-    "Species": "Human",
-    "Subjects": "244",
-    "ImageTypes": "CT, MR, PT, CR, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-03-31"
-  },
-  {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "CancerType": "Sarcomas",
-    "Location": "Abdomen, Arm, Bladder, Chest, Head-Neck, Kidney, Leg, Retroperitoneum, Stomach, Uterus",
-    "Species": "Human",
-    "Subjects": "94",
-    "ImageTypes": "CT, MR, PT, SR, Pathology",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2020-03-31"
-  },
-  {
     "Collection": "OPC-Radiomics",
     "DOI": "http://doi.org/10.7937/tcia.2019.8dho2gls",
     "CancerType": "Oropharyngeal",
@@ -1584,19 +1597,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2019-10-02"
-  },
-  {
-    "Collection": "CPTAC-CCRCC",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
-    "CancerType": "Clear Cell Carcinoma",
-    "Location": "Kidney",
-    "Species": "Human",
-    "Subjects": "222",
-    "ImageTypes": "CT, MR, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2019-09-30"
   },
   {
     "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",

@@ -1,5 +1,77 @@
 [
   {
+    "Collection": "CPTAC-UCEC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page"
+  },
+  {
+    "Collection": "CPTAC-GBM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-LSCC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-CCRCC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-CM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-LUAD",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-PDA",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-HNSCC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
     "Collection": "Meningioma-SEG-CLASS",
     "DOI": "https://doi.org/10.7937/0TKV-1A36",
     "Wiki": true,
@@ -328,14 +400,6 @@
     "Notes": "One xlsx file, one sheet with clear clinical data"
   },
   {
-    "Collection": "CPTAC-PDA",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "CPTAC-BRCA",
     "DOI": "https://doi.org/10.7937/TCIA.CAEM-YS80",
     "Wiki": false,
@@ -354,14 +418,6 @@
   {
     "Collection": "CPTAC-OV",
     "DOI": "https://doi.org/10.7937/TCIA.ZS4A-JD58",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "CPTAC-LSCC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
@@ -454,22 +510,6 @@
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226443/COVID-19%20AR%20Clinical%20Correlates%20July202020.xlsx?version=1&modificationDate=1594659431356&api=v2\">COVID-19 AR Clinical Correlates July202020.xlsx</a>: 6f75681cca1fe7842f0c6832232b9b84",
     "Notes": "one xls file with two sheets. Both have clinical data  for two attribute sets"
-  },
-  {
-    "Collection": "CPTAC-CM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "CPTAC-HNSCC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
     "Collection": "C4KC-KiTS",
@@ -688,38 +728,6 @@
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "CPTAC-UCEC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page"
-  },
-  {
-    "Collection": "CPTAC-GBM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "CPTAC-LUAD",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "OPC-Radiomics",
     "DOI": "https://doi.org/10.7937/tcia.2019.8dho2gls",
     "Wiki": true,
@@ -766,14 +774,6 @@
     "Format": "",
     "Filenames": "",
     "Notes": "external only"
-  },
-  {
-    "Collection": "CPTAC-CCRCC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
     "Collection": "ACRIN-FMISO-Brain (ACRIN 6684)",

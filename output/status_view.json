@@ -1,5 +1,77 @@
 [
   {
+    "Collection": "CPTAC-UCEC",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
+    "Access": "Public",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-GBM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "Access": "Limited",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-LSCC",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
+    "Access": "Public",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-CCRCC",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
+    "Access": "Public",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-CM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
+    "Access": "Public",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-LUAD",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
+    "Access": "Public",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-PDA",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
+    "Access": "Public",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-HNSCC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
+    "Access": "Limited",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "Access": "Public",
+    "Updated": "2023-02-24",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
     "Collection": "Meningioma-SEG-CLASS",
     "DOI": "https://doi.org/10.7937/0TKV-1A36",
     "Access": "Limited",
@@ -19,7 +91,7 @@
     "Collection": "APOLLO-5",
     "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
     "Access": "Limited",
-    "Updated": "2023-1-31",
+    "Updated": "2023-2-26",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -448,14 +520,6 @@
     "is_excluded": false
   },
   {
-    "Collection": "CPTAC-PDA",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
-    "Access": "Public",
-    "Updated": "2021-02-04",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
     "Collection": "CPTAC-BRCA",
     "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
     "Access": "Public",
@@ -485,14 +549,6 @@
     "Access": "Public",
     "Updated": "2021-01-31",
     "some_date": "2021-02-27",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-LSCC",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
-    "Access": "Public",
-    "Updated": "2021-01-23",
-    "some_date": "2021-02-25",
     "is_excluded": false
   },
   {
@@ -620,22 +676,6 @@
     "DOI": "http://doi.org/10.7937/tcia.2020.py71-5978",
     "Access": "Public",
     "Updated": "2020-07-15",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-CM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
-    "Access": "Public",
-    "Updated": "2020-06-30",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-HNSCC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.UW45NH81",
-    "Access": "Limited",
-    "Updated": "2020-06-30",
     "some_date": "2021-02-25",
     "is_excluded": false
   },
@@ -872,38 +912,6 @@
     "is_excluded": false
   },
   {
-    "Collection": "CPTAC-UCEC",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
-    "Access": "Public",
-    "Updated": "2020-03-31",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-GBM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
-    "Access": "Limited",
-    "Updated": "2020-03-31",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-LUAD",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
-    "Access": "Public",
-    "Updated": "2020-03-31",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "Access": "Public",
-    "Updated": "2020-03-31",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
     "Collection": "OPC-Radiomics",
     "DOI": "http://doi.org/10.7937/tcia.2019.8dho2gls",
     "Access": "Limited",
@@ -973,14 +981,6 @@
     "Access": "Public",
     "Updated": "2019-10-02",
     "some_date": "2021-02-26",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-CCRCC",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
-    "Access": "Public",
-    "Updated": "2019-09-30",
-    "some_date": "2021-02-25",
     "is_excluded": false
   },
   {
