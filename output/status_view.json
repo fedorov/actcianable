@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "Colorectal-Liver-Metastases",
+    "DOI": "http://doi.org/10.7937/QXK2-QG03",
+    "Access": "Public",
+    "Updated": "2023-03-01",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "Access": "Limited",
+    "Updated": "2023-2-26",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CPTAC-UCEC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
     "Access": "Public",
@@ -84,14 +100,6 @@
     "DOI": "https://doi.org/10.7937/0WF5-SJ50",
     "Access": "Limited",
     "Updated": "2023-02-10",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "Access": "Limited",
-    "Updated": "2023-2-26",
     "some_date": "n/a",
     "is_excluded": true
   },
@@ -616,12 +624,12 @@
     "is_excluded": false
   },
   {
-    "Collection": "QIN-HeadNeck",
+    "Collection": "QIN-HEADNECK",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
     "Access": "Limited",
     "Updated": "2020-09-16",
-    "some_date": "2020-06-01",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "ACRIN-DSC-MR-Brain (ACRIN 6677/RTOG 0625)",

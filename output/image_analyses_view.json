@@ -22,6 +22,17 @@
     "DICOMtarget": "SEG, SR TID1500/SEG"
   },
   {
+    "Collection": "QIN-HEADNECK",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
+    "Subjects": "279",
+    "Updated": "2020-09-16",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
+  },
+  {
     "Collection": "CRC_FFPE-CODEX_CellNeighs",
     "DOI": "http://doi.org/10.7937/TCIA.2020.FQN0-0326",
     "Subjects": "35",
