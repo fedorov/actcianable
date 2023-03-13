@@ -1,5 +1,31 @@
 [
   {
+    "Collection": "Colorectal-Liver-Metastases",
+    "DOI": "http://doi.org/10.7937/QXK2-QG03",
+    "CancerType": "Colorectal Cancer",
+    "Location": "Colon",
+    "Species": "Human",
+    "Subjects": "197",
+    "ImageTypes": "CT, SEG",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2023-03-01"
+  },
+  {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "CancerType": "Breast Cancer, Bladder Urothelial Carcinoma, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Endocrine Miscellaneous,  Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Chromophobe, Kidney Clear Cell Renal Cell Carcinoma, Kidney Renal Papillary Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Major Salivary Gland, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Prostate Adenocarcinoma, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
+    "Location": "Bile duct, Bladder, Breast, Colon, Endocrine, Esophagus, GI, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Prostate, Skin, Soft Tissue, Thymus, Thyroid, Uterine corpus",
+    "Species": "Human",
+    "Subjects": "218",
+    "ImageTypes": "CT, MR, NM, PT, US, XA",
+    "SupportingData": "",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2023-2-26"
+  },
+  {
     "Collection": "CPTAC-UCEC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
     "CancerType": "Corpus Endometrial Carcinoma",
@@ -141,19 +167,6 @@
     "Access": "Limited",
     "Status": "Complete",
     "Updated": "2023-02-10"
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "CancerType": "Breast Cancer, Bladder Urothelial Carcinoma, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Endocrine Miscellaneous,  Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Chromophobe, Kidney Clear Cell Renal Cell Carcinoma, Kidney Renal Papillary Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Major Salivary Gland, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Prostate Adenocarcinoma, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
-    "Location": "Bile duct, Bladder, Breast, Colon, Endocrine, Esophagus, GI, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Prostate, Skin, Soft Tissue, Thymus, Thyroid, Uterine corpus",
-    "Species": "Human",
-    "Subjects": "218",
-    "ImageTypes": "CT, MR, NM, PT, US, XA",
-    "SupportingData": "",
-    "Access": "Limited",
-    "Status": "Ongoing",
-    "Updated": "2023-2-26"
   },
   {
     "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
@@ -1001,7 +1014,7 @@
     "Updated": "2020-09-17"
   },
   {
-    "Collection": "QIN-HeadNeck",
+    "Collection": "QIN-HEADNECK",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
     "CancerType": "Head and Neck Carcinomas",
     "Location": "Head-Neck",
