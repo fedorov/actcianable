@@ -147,9 +147,9 @@
     "Collection": "Duke-Breast-Cancer-MRI",
     "DOI": "https://doi.org/10.7937/TCIA.e3sv-re93",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "one xlsx file with 3 sheets. The first has clinical data, the third has a template!Run Time Error: Collection not scraped!"
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226903/Clinical_and_Other_Features.xlsx?api=v2\">Clinical_and_Other_Features.xlsx</a>: 13d3a4833d945ff843453f8138517f65",
+    "Notes": "one xlsx file with 3 sheets. The first has clinical data, the third has a template"
   },
   {
     "Collection": "CMB-LCA",
@@ -227,9 +227,9 @@
     "Collection": "FDG-PET-CT-Lesions",
     "DOI": "https://doi.org/10.7937/gkr0-xv29",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "collection is limited and not currently in IDC!Run Time Error: Collection not scraped!"
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93258287/Clinical%20Metadata%20FDG%20PET_CT%20Lesions.csv?api=v2\">Clinical Metadata FDG PET_CT Lesions.csv</a>: 1629d4308c7856c93d04d27ebaa630d6",
+    "Notes": "collection is limited and not currently in IDC"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
@@ -803,9 +803,9 @@
     "Collection": "QIN Breast DCE-MRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "only binary data response vs non-complete response!Run Time Error: Collection not scraped!"
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/18514286/QIN-Breast-DCE-MRI_Response.xlsx?version=1&modificationDate=1467916192583&api=v2\">QIN-Breast-DCE-MRI_Response.xlsx</a>: 64f51679891a4620ed89a0696a6ffdb5",
+    "Notes": "only binary data response vs non-complete response"
   },
   {
     "Collection": "NSCLC-Cetuximab (RTOG-0617)",
@@ -867,9 +867,9 @@
     "Collection": "Soft-tissue-Sarcoma",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/21266533/INFOclinical_STS.xlsx?version=1&modificationDate=1452628070860&api=v2\">INFOclinical_STS.xlsx</a>: e91b7ca8d97139b8e9f7c2e76c179227",
-    "Notes": "One xlsx file with two sheets with complimentary data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with two sheets with complimentary data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "LungCT-Diagnosis",
