@@ -187,9 +187,9 @@
     "Collection": "HCC-TACE-Seg",
     "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230229/HCC-TACE-Seg_clinical_data-V2.xlsx\">HCC-TACE-Seg_clinical_data-V2.xlsx</a>: 63af6363b9d0fe453c48e75402e9082c",
-    "Notes": "one xlsx file with clinical data and a glossary"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data and a glossary!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-521955-158-R4",
@@ -227,9 +227,9 @@
     "Collection": "FDG-PET-CT-Lesions",
     "DOI": "https://doi.org/10.7937/gkr0-xv29",
     "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93258287/Clinical%20Metadata%20FDG%20PET_CT%20Lesions.csv?api=v2\">Clinical Metadata FDG PET_CT Lesions.csv</a>: 1629d4308c7856c93d04d27ebaa630d6",
-    "Notes": "collection is limited and not currently in IDC"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection is limited and not currently in IDC!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
@@ -299,9 +299,9 @@
     "Collection": "Ovarian Bevacizumab Response",
     "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20CA125%20data.xlsx?version=1&modificationDate=1635173486180&api=v2\">Final CA125 data.xlsx</a>: b02ace8bdd63da7ab0d6596b2617bc30, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93",
-    "Notes": "2 xlsx files with clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "2 xlsx files with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
@@ -867,9 +867,9 @@
     "Collection": "Soft-tissue-Sarcoma",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "One xlsx file with two sheets with complimentary data!Run Time Error: Collection not scraped!"
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/21266533/INFOclinical_STS.xlsx?version=1&modificationDate=1452628070860&api=v2\">INFOclinical_STS.xlsx</a>: e91b7ca8d97139b8e9f7c2e76c179227",
+    "Notes": "One xlsx file with two sheets with complimentary data"
   },
   {
     "Collection": "LungCT-Diagnosis",
