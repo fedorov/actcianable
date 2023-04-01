@@ -1,5 +1,37 @@
 [
   {
+    "Collection": "S0819",
+    "DOI": "https://doi.org/10.7937/DT39-JS04",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+  },
+  {
+    "Collection": "ExACT",
+    "DOI": "https://doi.org/10.7937/2023.na2x-j031",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+  },
+  {
+    "Collection": "Brain-TR-GammaKnife",
+    "DOI": "https://doi.org/10.7937/xb6d-py67",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+  },
+  {
+    "Collection": "PCa_Bx_3Dpathology",
+    "DOI": "https://doi.org/10.7937/44MA-GX21",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+  },
+  {
     "Collection": "Colorectal-Liver-Metastases",
     "DOI": "https://doi.org/10.7937/QXK2-QG03",
     "Wiki": true,
@@ -187,9 +219,9 @@
     "Collection": "HCC-TACE-Seg",
     "DOI": "https://doi.org/10.7937/TCIA.5FNA-0924",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "one xlsx file with clinical data and a glossary!Run Time Error: Collection not scraped!"
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70230229/HCC-TACE-Seg_clinical_data-V2.xlsx\">HCC-TACE-Seg_clinical_data-V2.xlsx</a>: 63af6363b9d0fe453c48e75402e9082c",
+    "Notes": "one xlsx file with clinical data and a glossary"
   },
   {
     "Collection": "PDMR-521955-158-R4",
@@ -227,9 +259,9 @@
     "Collection": "FDG-PET-CT-Lesions",
     "DOI": "https://doi.org/10.7937/gkr0-xv29",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "collection is limited and not currently in IDC!Run Time Error: Collection not scraped!"
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93258287/Clinical%20Metadata%20FDG%20PET_CT%20Lesions.csv?api=v2\">Clinical Metadata FDG PET_CT Lesions.csv</a>: 1629d4308c7856c93d04d27ebaa630d6",
+    "Notes": "collection is limited and not currently in IDC"
   },
   {
     "Collection": "ACRIN 6698/I-SPY2 Breast DWI",
@@ -299,9 +331,9 @@
     "Collection": "Ovarian Bevacizumab Response",
     "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "2 xlsx files with clinical data!Run Time Error: Collection not scraped!"
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20CA125%20data.xlsx?version=1&modificationDate=1635173486180&api=v2\">Final CA125 data.xlsx</a>: b02ace8bdd63da7ab0d6596b2617bc30, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93",
+    "Notes": "2 xlsx files with clinical data"
   },
   {
     "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
