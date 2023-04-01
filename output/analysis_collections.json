@@ -1,5 +1,25 @@
 [
   {
+    "Collection": "Annotations for Rituximab and Combination Chemotherapy in Treating Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma (CALGB50303-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/9JER-G980",
+    "CancerType": "Lymphoma",
+    "Location": "Various",
+    "Subjects": "155",
+    "Collections": "CALGB50303",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-03-30"
+  },
+  {
+    "Collection": "Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET (ACNS0332-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/D8A8-6252",
+    "CancerType": "Medulloblastoma",
+    "Location": "Head",
+    "Subjects": "85",
+    "Collections": "ACNS0332",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-03-21"
+  },
+  {
     "Collection": "Annotations for Combination Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed Hodgkin Lymphoma (AHOD0831-Tumor-Annotations)",
     "DOI": "https://doi.org/10.7937/4qad-4280",
     "CancerType": "Hodgkin Lymphoma",
@@ -38,16 +58,6 @@
     "Collections": "AREN0533",
     "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
     "Updated": "2023-01-31"
-  },
-  {
-    "Collection": "Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET (ACNS0332-Tumor-Annotations)",
-    "DOI": "https://doi.org/10.7937/D8A8-6252",
-    "CancerType": "Medulloblastoma",
-    "Location": "Head",
-    "Subjects": "85",
-    "Collections": "ACNS0332",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
-    "Updated": "2022-10-05"
   },
   {
     "Collection": "Expert tumor annotations and radiomic features for the ISPY1/ACRIN 6657 trial data collection (ISPY1-Tumor-SEG-Radiomics)",

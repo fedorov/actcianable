@@ -1,5 +1,45 @@
 [
   {
+    "Collection": "CT Lymph Nodes",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
+    "Access": "Public",
+    "Updated": "2023-03-31",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "S0819",
+    "DOI": "http://doi.org/10.7937/DT39-JS04",
+    "Access": "Limited",
+    "Updated": "2023-03-30",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "ExACT",
+    "DOI": "https://doi.org/10.7937/2023.na2x-j031",
+    "Access": "Limited",
+    "Updated": "2023-03-30",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Brain-TR-GammaKnife",
+    "DOI": "https://doi.org/10.7937/xb6d-py67",
+    "Access": "Limited",
+    "Updated": "2023-03-21",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "PCa_Bx_3Dpathology",
+    "DOI": "http://doi.org/10.7937/44MA-GX21",
+    "Access": "Public",
+    "Updated": "2023-03-21",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "Colorectal-Liver-Metastases",
     "DOI": "http://doi.org/10.7937/QXK2-QG03",
     "Access": "Public",
@@ -1301,14 +1341,6 @@
     "Access": "Public",
     "Updated": "2015-03-30",
     "some_date": "2021-02-26",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CT Lymph Nodes",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
-    "Access": "Public",
-    "Updated": "2015-03-16",
-    "some_date": "2021-02-25",
     "is_excluded": false
   },
   {
