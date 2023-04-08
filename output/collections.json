@@ -1,5 +1,18 @@
 [
   {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "CancerType": "Various",
+    "Location": "Head, Chest, Abdomen",
+    "Species": "Human",
+    "Subjects": "299",
+    "ImageTypes": "CT",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2023-04-03"
+  },
+  {
     "Collection": "CT Lymph Nodes",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
     "CancerType": "Lymphadenopathy (non-cancer)",
@@ -258,19 +271,6 @@
     "Access": "Public",
     "Status": "Complete",
     "Updated": "2023-01-11"
-  },
-  {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "CancerType": "Various",
-    "Location": "Head, Chest, Abdomen",
-    "Species": "Human",
-    "Subjects": "299",
-    "ImageTypes": "CT",
-    "SupportingData": "Clinical",
-    "Access": "Limited",
-    "Status": "Complete",
-    "Updated": "2022-12-15"
   },
   {
     "Collection": "UPENN-GBM",
