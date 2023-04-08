@@ -1,11 +1,19 @@
 [
   {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "Wiki": true,
+    "Format": ".zip",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20data%20Mar%202023.zip?api=v2\">Clinical data Mar 2023.zip</a>: cb9b8f2cb9d8667a228d08aa7e29ed07",
+    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
+  },
+  {
     "Collection": "S0819",
     "DOI": "https://doi.org/10.7937/DT39-JS04",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "ExACT",
@@ -13,23 +21,23 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "Brain-TR-GammaKnife",
     "DOI": "https://doi.org/10.7937/xb6d-py67",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+    "Wiki": true,
+    "Format": ".docx, .xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/145753093/Brain-TR-GammaKnife%20Clinical%20Information.xlsx?api=v2\">Brain-TR-GammaKnife Clinical Information.xlsx</a>: c34cc0ab86e2f0a9916fb35078f802e7, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/145753093/Brain-TR-GammaKnife%20Column%20Description.docx?api=v2\">Brain-TR-GammaKnife Column Description.docx</a>: 45a81ac889f420e457b0b79a046188c6, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/145753093/Brain-TR-GammaKnife%20Name%20Glossary%20v1.docx?api=v2\">Brain-TR-GammaKnife Name Glossary v1.docx</a>: aec9b907956a594f311d584470fb1d8e",
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "PCa_Bx_3Dpathology",
     "DOI": "https://doi.org/10.7937/44MA-GX21",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/145754446/Biopsy%20list%20with%20BCR%20outcomes%20and%20cancer-enriched%20coordinates.xlsx?api=v2\">Biopsy list with BCR outcomes and cancer-enriched coordinates.xlsx</a>: 40f9e2298ebea90baddedfe3b7db16fa",
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "Colorectal-Liver-Metastases",
@@ -140,24 +148,16 @@
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Wiki": true,
     "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119705830/UCSF-PDGM-metadata_v2.csv?api=v2\">UCSF-PDGM-metadata_v2.csv</a>: 76b88b77349ef68e69a22519ac027a5c",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119705830/UCSF-PDGM-metadata_glossary.csv?api=v2\">UCSF-PDGM-metadata_glossary.csv</a>: 269e0fb64f752bef6985daf8373b858e, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119705830/UCSF-PDGM-metadata_v2.csv?api=v2\">UCSF-PDGM-metadata_v2.csv</a>: 76b88b77349ef68e69a22519ac027a5c",
     "Notes": "collection not yet curated for idc"
-  },
-  {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20Reports%20December%202022.zip?api=v2\">Clinical Reports December 2022.zip</a>: ddede5e77031e341d53bdc5b14707a49",
-    "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
   },
   {
     "Collection": "UPENN-GBM",
     "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
     "Wiki": true,
-    "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.0.csv</a>: 775fe21d4495105c803ca42436fbfc0e",
-    "Notes": "one csv file with clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one csv file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "ARAR0331",
@@ -803,9 +803,9 @@
     "Collection": "Lung Fused-CT-Pathology",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/39878702/Lung%20Fused-CT-Pathology%20spreadsheet.xlsx?version=1&modificationDate=1532544176723&api=v2\">Lung Fused-CT-Pathology spreadsheet.xlsx</a>: 32c331abf73bd2cabf819fb06fdcbdcf",
-    "Notes": "One xlsx file with one sheet with clear clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "PDMR-BL0293-F563",

@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "LDCT-and-Projection-data",
+    "DOI": "https://doi.org/10.7937/9npb-2637",
+    "Access": "Limited",
+    "Updated": "2023-04-03",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CT Lymph Nodes",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
     "Access": "Public",
@@ -156,14 +164,6 @@
     "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
     "Access": "Public",
     "Updated": "2023-01-11",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "LDCT-and-Projection-data",
-    "DOI": "https://doi.org/10.7937/9npb-2637",
-    "Access": "Limited",
-    "Updated": "2022-12-15",
     "some_date": "n/a",
     "is_excluded": true
   },
