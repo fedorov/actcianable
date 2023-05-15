@@ -1,5 +1,37 @@
 [
   {
+    "Collection": "CPTAC-GBM",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "Colorectal-Liver-Metastases",
+    "DOI": "https://doi.org/10.7937/QXK2-QG03",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096268/Colorectal%20Liver%20Metastases%20Clinical%20data%20April%202023.xlsx?api=v2\">Colorectal Liver Metastases Clinical data April 2023.xlsx</a>: b61c3d4be2f7dcc6861adadb582e9d63",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "Burdenko-GBM-Progression",
+    "DOI": "https://doi.org/10.7937/E1QP-D183",
+    "Wiki": true,
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/133073470/Burdenko%20GBM%20clinical%20data.csv?api=v2\">Burdenko GBM clinical data.csv</a>: e04a77726f6a6086e0b213d4e125350e",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Wiki": true,
@@ -40,28 +72,12 @@
     "Notes": "collection not yet curated for idc"
   },
   {
-    "Collection": "Colorectal-Liver-Metastases",
-    "DOI": "https://doi.org/10.7937/QXK2-QG03",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/89096268/Colorectal%20Liver%20Metastases%20Clinical%20data%20October%202022.xlsx?api=v2\">Colorectal Liver Metastases Clinical data October 2022.xlsx</a>: e4feee2befb0c1febce994a7404ee1b9",
-    "Notes": "collection not yet curated for idc"
-  },
-  {
     "Collection": "CPTAC-UCEC",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table. The CPTAC pages in the TCIA wiki were recently changed but the link for CPTAC-UCEC was not updated in the collections list page"
-  },
-  {
-    "Collection": "CPTAC-GBM",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
     "Collection": "CPTAC-LSCC",
@@ -112,14 +128,6 @@
     "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "CPTAC collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
     "Collection": "Meningioma-SEG-CLASS",
     "DOI": "https://doi.org/10.7937/0TKV-1A36",
     "Wiki": true,
@@ -136,7 +144,7 @@
     "Notes": "collection not yet curated for idc"
   },
   {
-    "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
+    "Collection": "CC-Tumor Heterogeneity",
     "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
     "Wiki": true,
     "Format": ".xlsx",
@@ -155,9 +163,9 @@
     "Collection": "UPENN-GBM",
     "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "one csv file with clinical data!Run Time Error: Collection not scraped!"
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.0.csv</a>: 775fe21d4495105c803ca42436fbfc0e",
+    "Notes": "one csv file with clinical data"
   },
   {
     "Collection": "ARAR0331",
@@ -332,16 +340,16 @@
     "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
     "Wiki": true,
     "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20CA125%20data.xlsx?version=1&modificationDate=1635173486180&api=v2\">Final CA125 data.xlsx</a>: b02ace8bdd63da7ab0d6596b2617bc30, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/new_CA125%20data_20230207.xlsx?api=v2\">new_CA125 data_20230207.xlsx</a>: 95f7e5089000f09efce9b41bdfd887a4",
     "Notes": "2 xlsx files with clinical data"
   },
   {
-    "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
+    "Collection": "ACRIN-HNSCC-FDG-PET-CT (ACRIN 6685)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
     "Wiki": true,
     "Format": ".zip",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52763679/ACRIN%206685%20HB%20HNSCC%20FDG%20PET_CT%20TCIA%20Reviewed.zip?api=v2\">ACRIN 6685 HB HNSCC FDG PET_CT TCIA Reviewed.zip</a>: fa2eb32881a5d2744e4d1aae09d82482, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52763679/ACRIN%206685%20HNSCC%20FDG%20PET_CT%20TCIA%20Anonymized.zip?api=v2\">ACRIN 6685 HNSCC FDG PET_CT TCIA Anonymized.zip</a>: 0ee46a3b83d06b66775504b9144d38eb",
-    "Notes": "same as acrin 6688"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "AREN0534",
@@ -384,12 +392,12 @@
     "Notes": "one xlsx file with clinical data."
   },
   {
-    "Collection": "Breast Cancer Screening-DBT",
+    "Collection": "Breast-Cancer-Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "clinical data may be available through doi.  Deep learning study"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "NSCLC-Radiogenomics",
@@ -800,14 +808,6 @@
     "Notes": "one xls w treatments response"
   },
   {
-    "Collection": "Lung Fused-CT-Pathology",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
-    "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "One xlsx file with one sheet with clear clinical data!Run Time Error: Collection not scraped!"
-  },
-  {
     "Collection": "PDMR-BL0293-F563",
     "DOI": "https://doi.org/10.7937/tcia.2019.b6u7wmqw",
     "Wiki": false,
@@ -928,12 +928,12 @@
     "Notes": ""
   },
   {
-    "Collection": "Breast Diagnosis",
+    "Collection": "BREAST-DIAGNOSIS",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
     "Wiki": true,
     "Format": ".xlsx",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
-    "Notes": "an xls file with one sheet with clinical data but is pivoted (organized in columns)"
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "REMBRANDT",
