@@ -1,5 +1,45 @@
 [
   {
+    "Collection": "CPTAC-GBM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "Access": "Limited",
+    "Updated": "2023-05-10",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "Access": "Public",
+    "Updated": "2023-05-10",
+    "some_date": "2021-02-25",
+    "is_excluded": false
+  },
+  {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "Access": "Limited",
+    "Updated": "2023-04-30",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Colorectal-Liver-Metastases",
+    "DOI": "http://doi.org/10.7937/QXK2-QG03",
+    "Access": "Public",
+    "Updated": "2023-04-25",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Burdenko-GBM-Progression",
+    "DOI": "https://doi.org/10.7937/E1QP-D183",
+    "Access": "Limited",
+    "Updated": "2023-04-10",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "Access": "Limited",
@@ -48,33 +88,9 @@
     "is_excluded": true
   },
   {
-    "Collection": "Colorectal-Liver-Metastases",
-    "DOI": "http://doi.org/10.7937/QXK2-QG03",
-    "Access": "Public",
-    "Updated": "2023-03-01",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "Access": "Limited",
-    "Updated": "2023-2-26",
-    "some_date": "n/a",
-    "is_excluded": true
-  },
-  {
     "Collection": "CPTAC-UCEC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
     "Access": "Public",
-    "Updated": "2023-02-24",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
-    "Collection": "CPTAC-GBM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
-    "Access": "Limited",
     "Updated": "2023-02-24",
     "some_date": "2021-02-25",
     "is_excluded": false
@@ -128,14 +144,6 @@
     "is_excluded": false
   },
   {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "Access": "Public",
-    "Updated": "2023-02-24",
-    "some_date": "2021-02-25",
-    "is_excluded": false
-  },
-  {
     "Collection": "Meningioma-SEG-CLASS",
     "DOI": "https://doi.org/10.7937/0TKV-1A36",
     "Access": "Limited",
@@ -152,7 +160,7 @@
     "is_excluded": true
   },
   {
-    "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
+    "Collection": "CC-Tumor Heterogeneity",
     "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
     "Access": "Public",
     "Updated": "2023-01-20",
@@ -240,7 +248,7 @@
     "is_excluded": true
   },
   {
-    "Collection": "CT vs PET Ventilation Imaging",
+    "Collection": "CT-vs-PET-Ventilation-Imaging",
     "DOI": "https://doi.org/10.7937/3ppx-7s22",
     "Access": "Public",
     "Updated": "2022-08-25",
@@ -360,7 +368,7 @@
     "is_excluded": true
   },
   {
-    "Collection": "Stage II-Colorectal-CT",
+    "Collection": "StageII-Colorectal-CT",
     "DOI": "https://doi.org/10.7937/p5k5-tg43",
     "Access": "Public",
     "Updated": "2022-04-11",
@@ -448,7 +456,7 @@
     "is_excluded": true
   },
   {
-    "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
+    "Collection": "ACRIN-HNSCC-FDG-PET-CT (ACRIN 6685)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
     "Access": "Limited",
     "Updated": "2021-11-23",
@@ -496,12 +504,12 @@
     "is_excluded": true
   },
   {
-    "Collection": "Breast Cancer Screening-DBT",
+    "Collection": "Breast-Cancer-Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "Access": "Public",
     "Updated": "2021-06-08",
-    "some_date": "2021-02-25",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "NSCLC-Radiogenomics",
@@ -569,7 +577,7 @@
   },
   {
     "Collection": "CPTAC-BRCA",
-    "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
+    "DOI": "https://doi.org/10.7937/TCIA.CAEM-YS80",
     "Access": "Public",
     "Updated": "2021-02-02",
     "some_date": "n/a",
@@ -577,7 +585,7 @@
   },
   {
     "Collection": "CPTAC-COAD",
-    "DOI": "http://doi.org/10.7937/TCIA.YZWQ-ZZ63",
+    "DOI": "https://doi.org/10.7937/TCIA.YZWQ-ZZ63",
     "Access": "Public",
     "Updated": "2021-02-02",
     "some_date": "n/a",
@@ -585,7 +593,7 @@
   },
   {
     "Collection": "CPTAC-OV",
-    "DOI": "http://doi.org/10.7937/TCIA.ZS4A-JD58",
+    "DOI": "https://doi.org/10.7937/TCIA.ZS4A-JD58",
     "Access": "Public",
     "Updated": "2021-02-02",
     "some_date": "n/a",
@@ -697,7 +705,7 @@
   },
   {
     "Collection": "HNSCC-mIF-mIHC-comparison",
-    "DOI": "http://doi.org/10.7937/TCIA.2020.T90F-WB82",
+    "DOI": "https://doi.org/10.7937/TCIA.2020.T90F-WB82",
     "Access": "Public",
     "Updated": "2020-07-31",
     "some_date": "n/a",
@@ -712,12 +720,12 @@
     "is_excluded": false
   },
   {
-    "Collection": "AAPM RT-MAC Grand Challenge 2019",
+    "Collection": "AAPM-RT-MAC Grand Challenge 2019",
     "DOI": "http://doi.org/10.7937/tcia.2019.bcfjqfqb",
     "Access": "Limited",
     "Updated": "2020-07-21",
-    "some_date": "2021-02-24",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "COVID-19-AR",
@@ -937,19 +945,19 @@
   },
   {
     "Collection": "CPTAC-AML",
-    "DOI": "http://doi.org/10.7937/tcia.2019.b6foe619",
+    "DOI": "https://doi.org/10.7937/tcia.2019.b6foe619",
     "Access": "Public",
     "Updated": "2020-04-28",
     "some_date": "n/a",
     "is_excluded": true
   },
   {
-    "Collection": "DRO Toolkit",
+    "Collection": "DRO-Toolkit",
     "DOI": "https://doi.org/10.7937/t062-8262",
     "Access": "Public",
     "Updated": "2020-04-13",
-    "some_date": "2021-02-25",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "QIN GBM Treatment Response",
@@ -1000,12 +1008,12 @@
     "is_excluded": true
   },
   {
-    "Collection": "Lung Fused-CT-Pathology",
+    "Collection": "Lung-Fused-CT-Pathology",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
     "Access": "Public",
     "Updated": "2019-11-15",
-    "some_date": "2021-02-26",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "AML-Cytomorphology_LMU",
@@ -1112,12 +1120,12 @@
     "is_excluded": false
   },
   {
-    "Collection": "Anti-PD-1 Lung",
+    "Collection": "Anti-PD-1_Lung",
     "DOI": "http://doi.org/10.7937/tcia.2019.zjjwb9ip",
     "Access": "Public",
     "Updated": "2019-04-19",
-    "some_date": "2021-02-25",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "QIN Breast DCE-MRI",
@@ -1464,12 +1472,12 @@
     "is_excluded": false
   },
   {
-    "Collection": "Breast Diagnosis",
+    "Collection": "BREAST-DIAGNOSIS",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
     "Access": "Public",
     "Updated": "2011-11-09",
-    "some_date": "2021-02-25",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "RIDER Breast MRI",
@@ -1488,12 +1496,12 @@
     "is_excluded": false
   },
   {
-    "Collection": "CT Colonography (ACRIN 6664)",
+    "Collection": "CT COLONOGRAPHY (ACRIN 6664)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
     "Access": "Public",
     "Updated": "2011-10-31",
-    "some_date": "2021-02-25",
-    "is_excluded": false
+    "some_date": "n/a",
+    "is_excluded": true
   },
   {
     "Collection": "Prostate-MRI",

@@ -231,6 +231,17 @@
     "DICOMtarget": "SR TID2005?"
   },
   {
+    "Collection": "BREAST-DIAGNOSIS",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
+    "Subjects": "88",
+    "Updated": "2011-11-09",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
+  },
+  {
     "Collection": "REMBRANDT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
     "Subjects": "130",
@@ -275,17 +286,6 @@
     "DICOMtarget": "REG, SR TID1500/point?, Surface SEG, STL?"
   },
   {
-    "Collection": "HNSCC-mIF-mIHC-comparison",
-    "DOI": "http://doi.org/10.7937/TCIA.2020.T90F-WB82",
-    "Subjects": "8",
-    "Updated": "2020-07-31",
-    "Format": "n/a",
-    "DICOMstatus": "n/a",
-    "Comment": "There appear to be no analysis results. The collection contains pathology images for multiplex immunofluorescence assay (mIF) using multispectral microscopy and multiplex immunohistochemistry assay (mIHC).",
-    "CollectionType": "original",
-    "DICOMtarget": ""
-  },
-  {
     "Collection": "Lung Fused-CT-Pathology",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
     "Subjects": "6",
@@ -295,6 +295,17 @@
     "Comment": "Radiology analysis refers to some segmentations, but those appear not to be linked from the wiki page. Submitted issue https://help.cancerimagingarchive.net/servicedesk/customer/portal/1/TH-47044. Pathology annotations are saved in TIFF.",
     "CollectionType": "original",
     "DICOMtarget": "SEG?, Sup222?"
+  },
+  {
+    "Collection": "Lung-Fused-CT-Pathology",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
+    "Subjects": "6",
+    "Updated": "2019-11-15",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
   },
   {
     "Collection": "AML-Cytomorphology_LMU",
@@ -581,6 +592,17 @@
     "Comment": "Slice number with polyps identified. Disclaimer included: WARNING: NCI cannot assure archive users of error-free validity of the XL polyp location data since NCI did not itself perform the clinical study or its analysis.",
     "CollectionType": "original",
     "DICOMtarget": "SR?"
+  },
+  {
+    "Collection": "CT COLONOGRAPHY (ACRIN 6664)",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
+    "Subjects": "825",
+    "Updated": "2011-10-31",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
   },
   {
     "Collection": "MIDRC-RICORD-1a",

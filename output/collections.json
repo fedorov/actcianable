@@ -1,5 +1,70 @@
 [
   {
+    "Collection": "CPTAC-GBM",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
+    "CancerType": "Glioblastoma Multiforme",
+    "Location": "Brain",
+    "Species": "Human",
+    "Subjects": "178",
+    "ImageTypes": "CT, MR, Pathology",
+    "SupportingData": "Clinical, Genomics, Proteomics",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2023-05-10"
+  },
+  {
+    "Collection": "CPTAC-SAR",
+    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
+    "CancerType": "Sarcomas",
+    "Location": "Abdomen, Arm, Bladder, Chest, Head-Neck, Kidney, Leg, Retroperitoneum, Stomach, Uterus",
+    "Species": "Human",
+    "Subjects": "87",
+    "ImageTypes": "CT, MR, PT, Pathology",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Ongoing",
+    "Updated": "2023-05-10"
+  },
+  {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "CancerType": "Breast Cancer, Bladder Urothelial Carcinoma, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Endocrine Miscellaneous,  Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head and Neck Squamous Cell Carcinoma, Kidney Chromophobe, Kidney Clear Cell Renal Cell Carcinoma, Kidney Renal Papillary Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Major Salivary Gland, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Prostate Adenocarcinoma, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
+    "Location": "Bile duct, Bladder, Breast, Colon, Endocrine, Esophagus, GI, Head-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Prostate, Skin, Soft Tissue, Thymus, Thyroid, Uterine corpus",
+    "Species": "Human",
+    "Subjects": "225",
+    "ImageTypes": "CT, MR, NM, PT, US, XA",
+    "SupportingData": "",
+    "Access": "Limited",
+    "Status": "Ongoing",
+    "Updated": "2023-04-30"
+  },
+  {
+    "Collection": "Colorectal-Liver-Metastases",
+    "DOI": "http://doi.org/10.7937/QXK2-QG03",
+    "CancerType": "Colorectal Cancer",
+    "Location": "Colon",
+    "Species": "Human",
+    "Subjects": "197",
+    "ImageTypes": "CT, SEG",
+    "SupportingData": "Clinical",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2023-04-25"
+  },
+  {
+    "Collection": "Burdenko-GBM-Progression",
+    "DOI": "https://doi.org/10.7937/E1QP-D183",
+    "CancerType": "Glioblastoma",
+    "Location": "Brain",
+    "Species": "Human",
+    "Subjects": "180",
+    "ImageTypes": "CT, MRI, RTSTRUCT, RTDOSE, RTPLAN",
+    "SupportingData": "Clinical, Genomics",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2023-04-10"
+  },
+  {
     "Collection": "LDCT-and-Projection-data",
     "DOI": "https://doi.org/10.7937/9npb-2637",
     "CancerType": "Various",
@@ -78,32 +143,6 @@
     "Updated": "2023-03-21"
   },
   {
-    "Collection": "Colorectal-Liver-Metastases",
-    "DOI": "http://doi.org/10.7937/QXK2-QG03",
-    "CancerType": "Colorectal Cancer",
-    "Location": "Colon",
-    "Species": "Human",
-    "Subjects": "197",
-    "ImageTypes": "CT, SEG",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Complete",
-    "Updated": "2023-03-01"
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "CancerType": "Breast Cancer, Bladder Urothelial Carcinoma, Cholangiocarcinoma, Colon adenocarcinoma, Cutaneous Melanoma, Endocrine Miscellaneous,  Esophageal Carcinoma, Gastrointestinal Stromal Tumor, Head And Neck Squamous Cell Carcinoma, Kidney Chromophobe, Kidney Clear Cell Renal Cell Carcinoma, Kidney Renal Papillary Cell Carcinoma, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Other, Lung Squamous Cell Carcinoma, Major Salivary Gland, Miscellaneous, Neuroendocrine Tumors (all sites), Ovarian Cancer, Pancreatic adenocarcinoma, Pathologically Benign, Prostate Adenocarcinoma, Soft Tissue, Thymoma, Thyroid Carcinoma, Uterine Corpus Endometrial Carcinoma",
-    "Location": "Bile duct, Bladder, Breast, Colon, Endocrine, Esophagus, GI, Head-and-Neck, Kidney, Liver, Lung, Ovary, Pancreas, Prostate, Skin, Soft Tissue, Thymus, Thyroid, Uterine corpus",
-    "Species": "Human",
-    "Subjects": "218",
-    "ImageTypes": "CT, MR, NM, PT, US, XA",
-    "SupportingData": "",
-    "Access": "Limited",
-    "Status": "Ongoing",
-    "Updated": "2023-2-26"
-  },
-  {
     "Collection": "CPTAC-UCEC",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
     "CancerType": "Corpus Endometrial Carcinoma",
@@ -113,19 +152,6 @@
     "ImageTypes": "CT, MR, PT, Pathology",
     "SupportingData": "Clinical, Genomics, Proteomics",
     "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2023-02-24"
-  },
-  {
-    "Collection": "CPTAC-GBM",
-    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
-    "CancerType": "Glioblastoma Multiforme",
-    "Location": "Brain",
-    "Species": "Human",
-    "Subjects": "189",
-    "ImageTypes": "CT, MR, Pathology",
-    "SupportingData": "Clinical, Genomics, Proteomics",
-    "Access": "Limited",
     "Status": "Ongoing",
     "Updated": "2023-02-24"
   },
@@ -208,19 +234,6 @@
     "Updated": "2023-02-24"
   },
   {
-    "Collection": "CPTAC-SAR",
-    "DOI": "https://doi.org/10.7937/TCIA.2019.9bt23r95",
-    "CancerType": "Sarcomas",
-    "Location": "Abdomen, Arm, Bladder, Chest, Head-Neck, Kidney, Leg, Retroperitoneum, Stomach, Uterus",
-    "Species": "Human",
-    "Subjects": "94",
-    "ImageTypes": "CT, MR, PT, Pathology",
-    "SupportingData": "Clinical",
-    "Access": "Public",
-    "Status": "Ongoing",
-    "Updated": "2023-02-24"
-  },
-  {
     "Collection": "Meningioma-SEG-CLASS",
     "DOI": "https://doi.org/10.7937/0TKV-1A36",
     "CancerType": "Meningioma",
@@ -247,7 +260,7 @@
     "Updated": "2023-02-10"
   },
   {
-    "Collection": "Cervical Cancer \u2013 Tumor Heterogeneity",
+    "Collection": "CC-Tumor Heterogeneity",
     "DOI": "https://doi.org/10.7937/ERZ5-QZ59 ",
     "CancerType": "Cervical Cancer",
     "Location": "Cervix",
@@ -390,7 +403,7 @@
     "Updated": "2022-08-29"
   },
   {
-    "Collection": "CT vs PET Ventilation Imaging",
+    "Collection": "CT-vs-PET-Ventilation-Imaging",
     "DOI": "https://doi.org/10.7937/3ppx-7s22",
     "CancerType": "Lung Cancer",
     "Location": "Lung",
@@ -585,7 +598,7 @@
     "Updated": "2022-04-28"
   },
   {
-    "Collection": "Stage II-Colorectal-CT",
+    "Collection": "StageII-Colorectal-CT",
     "DOI": "https://doi.org/10.7937/p5k5-tg43",
     "CancerType": "Colorectal Cancer",
     "Location": "Abdomen, Pelvis",
@@ -728,7 +741,7 @@
     "Updated": "2021-12-06"
   },
   {
-    "Collection": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685)",
+    "Collection": "ACRIN-HNSCC-FDG-PET-CT (ACRIN 6685)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.JQEJZZNG",
     "CancerType": "Head and Neck Squamous Cell Carcinoma",
     "Location": "Head-Neck",
@@ -806,7 +819,7 @@
     "Updated": "2021-08-09"
   },
   {
-    "Collection": "Breast Cancer Screening-DBT",
+    "Collection": "Breast-Cancer-Screening-DBT",
     "DOI": "https://doi.org/10.7937/e4wt-cd02",
     "CancerType": "Breast Cancer",
     "Location": "Breast",
@@ -924,7 +937,7 @@
   },
   {
     "Collection": "CPTAC-BRCA",
-    "DOI": "http://doi.org/10.7937/TCIA.CAEM-YS80",
+    "DOI": "https://doi.org/10.7937/TCIA.CAEM-YS80",
     "CancerType": "Breast Cancer",
     "Location": "Breast",
     "Species": "Human",
@@ -937,7 +950,7 @@
   },
   {
     "Collection": "CPTAC-COAD",
-    "DOI": "http://doi.org/10.7937/TCIA.YZWQ-ZZ63",
+    "DOI": "https://doi.org/10.7937/TCIA.YZWQ-ZZ63",
     "CancerType": "Colon Cancer",
     "Location": "Colon",
     "Species": "Human",
@@ -950,7 +963,7 @@
   },
   {
     "Collection": "CPTAC-OV",
-    "DOI": "http://doi.org/10.7937/TCIA.ZS4A-JD58",
+    "DOI": "https://doi.org/10.7937/TCIA.ZS4A-JD58",
     "CancerType": "Ovarian Cancer",
     "Location": "Ovary",
     "Species": "Human",
@@ -1132,7 +1145,7 @@
   },
   {
     "Collection": "HNSCC-mIF-mIHC-comparison",
-    "DOI": "http://doi.org/10.7937/TCIA.2020.T90F-WB82",
+    "DOI": "https://doi.org/10.7937/TCIA.2020.T90F-WB82",
     "CancerType": "Head and Neck Cancer",
     "Location": "Head-Neck",
     "Species": "Human",
@@ -1157,7 +1170,7 @@
     "Updated": "2020-07-29"
   },
   {
-    "Collection": "AAPM RT-MAC Grand Challenge 2019",
+    "Collection": "AAPM-RT-MAC Grand Challenge 2019",
     "DOI": "http://doi.org/10.7937/tcia.2019.bcfjqfqb",
     "CancerType": "Head and Neck Cancer",
     "Location": "Head-Neck",
@@ -1522,7 +1535,7 @@
   },
   {
     "Collection": "CPTAC-AML",
-    "DOI": "http://doi.org/10.7937/tcia.2019.b6foe619",
+    "DOI": "https://doi.org/10.7937/tcia.2019.b6foe619",
     "CancerType": "Acute Myeloid Leukemia",
     "Location": "Marrow, Blood",
     "Species": "Human",
@@ -1534,7 +1547,7 @@
     "Updated": "2020-04-28"
   },
   {
-    "Collection": "DRO Toolkit",
+    "Collection": "DRO-Toolkit",
     "DOI": "https://doi.org/10.7937/t062-8262",
     "CancerType": "Phantom",
     "Location": "Phantom",
@@ -1625,7 +1638,7 @@
     "Updated": "2020-01-10"
   },
   {
-    "Collection": "Lung Fused-CT-Pathology",
+    "Collection": "Lung-Fused-CT-Pathology",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
     "CancerType": "Lung Cancer",
     "Location": "Lung",
@@ -1807,7 +1820,7 @@
     "Updated": "2019-05-08"
   },
   {
-    "Collection": "Anti-PD-1 Lung",
+    "Collection": "Anti-PD-1_Lung",
     "DOI": "http://doi.org/10.7937/tcia.2019.zjjwb9ip",
     "CancerType": "Lung Cancer",
     "Location": "Lung",
@@ -1926,9 +1939,9 @@
   {
     "Collection": "MRI-DIR",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3f08iejt",
-    "CancerType": "Squamous Cell Carcinoma",
-    "Location": "Head-Neck",
-    "Species": "Human",
+    "CancerType": "Head and Neck Squamous Cell Carcinoma",
+    "Location": "Head-Neck, Phantom",
+    "Species": "Phantom",
     "Subjects": "9",
     "ImageTypes": "MR, CT, RTSTRUCT",
     "SupportingData": "Image Registrations",
@@ -2379,7 +2392,7 @@
     "Updated": "2011-11-25"
   },
   {
-    "Collection": "Breast Diagnosis",
+    "Collection": "BREAST-DIAGNOSIS",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
     "CancerType": "Breast Cancer",
     "Location": "Breast",
@@ -2418,7 +2431,7 @@
     "Updated": "2011-11-03"
   },
   {
-    "Collection": "CT Colonography (ACRIN 6664)",
+    "Collection": "CT COLONOGRAPHY (ACRIN 6664)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
     "CancerType": "Colon Cancer",
     "Location": "Colon",
