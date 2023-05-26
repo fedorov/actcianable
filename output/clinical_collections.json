@@ -1,5 +1,29 @@
 [
   {
+    "Collection": "S0819",
+    "DOI": "https://doi.org/10.7937/DT39-JS04",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "TCGA-HNSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+  },
+  {
+    "Collection": "Adrenal-ACC-Ki67-Seg",
+    "DOI": "https://doi.org/10.7937/1FPG-VM46",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93257945/Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx?api=v2\">Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx</a>: 737169a8f8876c5f7d425b964aba815b",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
     "Collection": "CPTAC-GBM",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
     "Wiki": false,
@@ -38,14 +62,6 @@
     "Format": ".zip",
     "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52758026/Clinical%20data%20Mar%202023.zip?api=v2\">Clinical data Mar 2023.zip</a>: cb9b8f2cb9d8667a228d08aa7e29ed07",
     "Notes": "A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet "
-  },
-  {
-    "Collection": "S0819",
-    "DOI": "https://doi.org/10.7937/DT39-JS04",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "ExACT",
@@ -682,14 +698,6 @@
   {
     "Collection": "TCGA-LGG",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
-  },
-  {
-    "Collection": "TCGA-HNSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
     "Wiki": false,
     "Format": "",
     "Filenames": "",

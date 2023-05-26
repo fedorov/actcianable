@@ -665,5 +665,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "Adrenal-ACC-Ki67-Seg",
+    "DOI": "https://doi.org/10.7937/1FPG-VM46",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
