@@ -1,5 +1,15 @@
 [
   {
+    "Collection": "QIBA VolCT Group 1B Round 2 No Change Size Measurements (QIBA-VolCT-1B)",
+    "DOI": "https://doi.org/10.7937/tcia.2020.1c3h-vp70",
+    "CancerType": "Lung cancer",
+    "Location": "Lung",
+    "Subjects": "40",
+    "Collections": "RIDER Lung CT, RIDER Pilot",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, image features",
+    "Updated": "2023-05-24"
+  },
+  {
     "Collection": "Annotations for Rituximab and Combination Chemotherapy in Treating Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma (CALGB50303-Tumor-Annotations)",
     "DOI": "https://doi.org/10.7937/9JER-G980",
     "CancerType": "Lymphoma",

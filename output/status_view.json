@@ -1,5 +1,45 @@
 [
   {
+    "Collection": "S0819",
+    "DOI": "http://doi.org/10.7937/DT39-JS04",
+    "Access": "Limited",
+    "Updated": "2023-05-24",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "TCGA-HNSC",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
+    "Access": "Limited",
+    "Updated": "2023-05-24",
+    "some_date": "2020-06-01",
+    "is_excluded": false
+  },
+  {
+    "Collection": "RIDER Pilot",
+    "DOI": "https://doi.org/10.7937/m87f-mz83",
+    "Access": "Public",
+    "Updated": "2023-05-24",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Adrenal-ACC-Ki67-Seg",
+    "DOI": "https://doi.org/10.7937/1FPG-VM46",
+    "Access": "Public",
+    "Updated": "2023-05-22",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "Prostate-Anatomical-Edge-Cases",
+    "DOI": "https://doi.org/10.7937/QSTF-ST65",
+    "Access": "Public",
+    "Updated": "2023-05-18",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CPTAC-GBM",
     "DOI": "http://doi.org/10.7937/K9/TCIA.2018.3RJE41Q1",
     "Access": "Limited",
@@ -54,14 +94,6 @@
     "Updated": "2023-03-31",
     "some_date": "2021-02-25",
     "is_excluded": false
-  },
-  {
-    "Collection": "S0819",
-    "DOI": "http://doi.org/10.7937/DT39-JS04",
-    "Access": "Limited",
-    "Updated": "2023-03-30",
-    "some_date": "n/a",
-    "is_excluded": true
   },
   {
     "Collection": "ExACT",
@@ -858,14 +890,6 @@
   {
     "Collection": "TCGA-LGG",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2016.L4LTD3TK",
-    "Access": "Limited",
-    "Updated": "2020-05-29",
-    "some_date": "2020-06-01",
-    "is_excluded": false
-  },
-  {
-    "Collection": "TCGA-HNSC",
-    "DOI": "https://doi.org/10.7937/K9/TCIA.2016.LXKQ47MS",
     "Access": "Limited",
     "Updated": "2020-05-29",
     "some_date": "2020-06-01",
