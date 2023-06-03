@@ -1,5 +1,13 @@
 [
   {
+    "Collection": "CODEX imaging of HCC",
+    "DOI": "https://doi.org/10.7937/BH0R-Y074",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/140313174/CODEX%20imaging%20of%20HCC_Clinical%20data%20%2B%20Key.xlsx?api=v2\">CODEX imaging of HCC_Clinical data + Key.xlsx</a>: e76bddff794daaa8ecba9e3dabc18f10",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
     "Collection": "S0819",
     "DOI": "https://doi.org/10.7937/DT39-JS04",
     "Wiki": false,
@@ -19,9 +27,9 @@
     "Collection": "Adrenal-ACC-Ki67-Seg",
     "DOI": "https://doi.org/10.7937/1FPG-VM46",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93257945/Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx?api=v2\">Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx</a>: 737169a8f8876c5f7d425b964aba815b",
-    "Notes": "collection not yet curated for idc"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "CPTAC-GBM",

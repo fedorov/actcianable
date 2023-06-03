@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "CODEX imaging of HCC",
+    "DOI": "http://doi.org/10.7937/BH0R-Y074",
+    "Access": "Public",
+    "Updated": "2023-05-30",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "APOLLO-5",
+    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
+    "Access": "Limited",
+    "Updated": "2023-05-27",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "S0819",
     "DOI": "http://doi.org/10.7937/DT39-JS04",
     "Access": "Limited",
@@ -54,14 +70,6 @@
     "Updated": "2023-05-10",
     "some_date": "2021-02-25",
     "is_excluded": false
-  },
-  {
-    "Collection": "APOLLO-5",
-    "DOI": "https://wiki.cancerimagingarchive.net/x/bITuBw",
-    "Access": "Limited",
-    "Updated": "2023-04-30",
-    "some_date": "n/a",
-    "is_excluded": true
   },
   {
     "Collection": "Colorectal-Liver-Metastases",
