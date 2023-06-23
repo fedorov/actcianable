@@ -1,5 +1,75 @@
 [
   {
+    "Collection": "QIBA VolCT Group 1B Round 2 No Change Size Measurements (QIBA-VolCT-1B)",
+    "DOI": "https://doi.org/10.7937/tcia.2020.1c3h-vp70",
+    "CancerType": "Lung cancer",
+    "Location": "Lung",
+    "Subjects": "40",
+    "Collections": "RIDER Lung CT, RIDER Pilot",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, image features",
+    "Updated": "2023-05-24"
+  },
+  {
+    "Collection": "Annotations for Rituximab and Combination Chemotherapy in Treating Patients With Diffuse Large B-Cell Non-Hodgkin's Lymphoma (CALGB50303-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/9JER-G980",
+    "CancerType": "Lymphoma",
+    "Location": "Various",
+    "Subjects": "155",
+    "Collections": "CALGB50303",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-03-30"
+  },
+  {
+    "Collection": "Annotations for Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed, Previously Untreated, High-Risk Medulloblastoma/PNET (ACNS0332-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/D8A8-6252",
+    "CancerType": "Medulloblastoma",
+    "Location": "Head",
+    "Subjects": "85",
+    "Collections": "ACNS0332",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-03-21"
+  },
+  {
+    "Collection": "Annotations for Combination Chemotherapy and Radiation Therapy in Treating Young Patients With Newly Diagnosed Hodgkin Lymphoma (AHOD0831-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/4qad-4280",
+    "CancerType": "Hodgkin Lymphoma",
+    "Location": "Various",
+    "Subjects": "165",
+    "Collections": "AHOD0831",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-02-10"
+  },
+  {
+    "Collection": "Annotations for Combination Chemotherapy and Surgery in Treating Young Patients With Wilms Tumor (AREN0534-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/N930-BM78",
+    "CancerType": "Wilms Tumor",
+    "Location": "Kidney",
+    "Subjects": "239",
+    "Collections": "AREN0534",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-02-09"
+  },
+  {
+    "Collection": "Annotations for Vincristine, Dactinomycin, and Doxorubicin With or Without Radiation Therapy or Observation Only in Treating Younger Patients Who Are Undergoing Surgery for Newly Diagnosed Stage I, II, or III Wilms' Tumor (AREN0532-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/KJA4-1Z76",
+    "CancerType": "Wilms Tumor",
+    "Location": "Kidney",
+    "Subjects": "543",
+    "Collections": "AREN0532",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-02-09"
+  },
+  {
+    "Collection": "Annotations for Combination Chemotherapy With or Without Radiation Therapy in Treating Young Patients With Newly Diagnosed Stage III or Stage IV Wilms Tumor (AREN0533-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/WFCC-DA41",
+    "CancerType": "Wilms Tumor",
+    "Location": "Kidney",
+    "Subjects": "294",
+    "Collections": "AREN0533",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "Updated": "2023-01-31"
+  },
+  {
     "Collection": "Expert tumor annotations and radiomic features for the ISPY1/ACRIN 6657 trial data collection (ISPY1-Tumor-SEG-Radiomics)",
     "DOI": "https://doi.org/10.7937/TCIA.XC7A-QT20",
     "CancerType": "Breast",

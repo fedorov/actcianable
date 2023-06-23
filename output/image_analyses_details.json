@@ -611,5 +611,68 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "UCSF-PDGM",
+    "DOI": "https://doi.org/10.7937/tcia.bdgf-8v37",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "QIN-HEADNECK",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.K0F5CGLI",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Brain-TR-GammaKnife",
+    "DOI": "https://doi.org/10.7937/xb6d-py67",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Lung-Fused-CT-Pathology",
+    "DOI": "http://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "BREAST-DIAGNOSIS",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "CT COLONOGRAPHY (ACRIN 6664)",
+    "DOI": "https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
+  },
+  {
+    "Collection": "Adrenal-ACC-Ki67-Seg",
+    "DOI": "https://doi.org/10.7937/1FPG-VM46",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
