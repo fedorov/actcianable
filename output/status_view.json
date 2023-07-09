@@ -1,5 +1,29 @@
 [
   {
+    "Collection": "RADCURE",
+    "DOI": "https://doi.org/10.7937/J47W-NM11",
+    "Access": "Limited",
+    "Updated": "2023-06-14",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "PDMR-Texture-Analysis",
+    "DOI": "https://doi.org/10.7937/3KQ0-YK19",
+    "Access": "Public",
+    "Updated": "2023-06-14",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
+    "Collection": "RHUH-GBM",
+    "DOI": "https://doi.org/10.7937/4545-c905",
+    "Access": "Limited",
+    "Updated": "2023-06-09",
+    "some_date": "n/a",
+    "is_excluded": true
+  },
+  {
     "Collection": "CODEX imaging of HCC",
     "DOI": "http://doi.org/10.7937/BH0R-Y074",
     "Access": "Public",
