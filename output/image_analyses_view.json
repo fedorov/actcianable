@@ -812,5 +812,16 @@
     "Comment": "",
     "CollectionType": "original",
     "DICOMtarget": ""
+  },
+  {
+    "Collection": "RHUH-GBM",
+    "DOI": "https://doi.org/10.7937/4545-c905",
+    "Subjects": "40",
+    "Updated": "2023-06-09",
+    "Format": "",
+    "DICOMstatus": "",
+    "Comment": "",
+    "CollectionType": "original",
+    "DICOMtarget": ""
   }
 ]

@@ -1,5 +1,44 @@
 [
   {
+    "Collection": "RADCURE",
+    "DOI": "https://doi.org/10.7937/J47W-NM11",
+    "CancerType": "Oropharyngeal",
+    "Location": "Head Neck",
+    "Species": "Human",
+    "Subjects": "3346",
+    "ImageTypes": "CT, RTSTRUCT",
+    "SupportingData": "Clinical",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2023-06-14"
+  },
+  {
+    "Collection": "PDMR-Texture-Analysis",
+    "DOI": "https://doi.org/10.7937/3KQ0-YK19",
+    "CancerType": "Neuroendocrine Cancer, NOS Urothelial/Bladder Cancer, NOS Adenocarcinoma-Pancreas Adenocarcinoma-Colon Ewing sarcoma/Peripheral PNET Melanoma Osteosarcoma Squamous Cell Lung Carcinoma Adenocarcinoma-Rectum Squamous Cell Carcinoma-Anus Adenocarcinoma-Colon",
+    "Location": "Arm, Bladder, Buttock, Colon, Liver, Myometrium, Pancreas, Rectum, Shoulder, Scapula",
+    "Species": "Mouse",
+    "Subjects": "175",
+    "ImageTypes": "MR, SR",
+    "SupportingData": "",
+    "Access": "Public",
+    "Status": "Complete",
+    "Updated": "2023-06-14"
+  },
+  {
+    "Collection": "RHUH-GBM",
+    "DOI": "https://doi.org/10.7937/4545-c905",
+    "CancerType": "Astrocytoma",
+    "Location": "Head",
+    "Species": "Human",
+    "Subjects": "40",
+    "ImageTypes": "MR",
+    "SupportingData": "Clinical, Image Analyses",
+    "Access": "Limited",
+    "Status": "Complete",
+    "Updated": "2023-06-09"
+  },
+  {
     "Collection": "CODEX imaging of HCC",
     "DOI": "http://doi.org/10.7937/BH0R-Y074",
     "CancerType": "Hepatocellular carcinoma",

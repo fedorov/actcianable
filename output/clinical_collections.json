@@ -1,5 +1,21 @@
 [
   {
+    "Collection": "RADCURE",
+    "DOI": "https://doi.org/10.7937/J47W-NM11",
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70226325/RADCURE_TCIA_Clinical%20June%2013%202023.xlsx?api=v2\">RADCURE_TCIA_Clinical June 13 2023.xlsx</a>: 41af4edcd3f4cb17679c50ea9dadaed8",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
+    "Collection": "RHUH-GBM",
+    "DOI": "https://doi.org/10.7937/4545-c905",
+    "Wiki": true,
+    "Format": ".csv",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/145755234/clinical_data_TCIA_RHUH-GBM.csv?api=v2\">clinical_data_TCIA_RHUH-GBM.csv</a>: 5135a756ad5e828fbb58a4d131acc243",
+    "Notes": "collection not yet curated for idc"
+  },
+  {
     "Collection": "CODEX imaging of HCC",
     "DOI": "https://doi.org/10.7937/BH0R-Y074",
     "Wiki": true,
@@ -27,9 +43,9 @@
     "Collection": "Adrenal-ACC-Ki67-Seg",
     "DOI": "https://doi.org/10.7937/1FPG-VM46",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/93257945/Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx?api=v2\">Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx</a>: 737169a8f8876c5f7d425b964aba815b",
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "CPTAC-GBM",
@@ -331,9 +347,9 @@
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "https://doi.org/10.7937/Q1EE-J082",
     "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225026/ACRIN%206667%20Contralateral%20Breast%20MRI%20Clinical%20Data%20Anonymized.zip?api=v2\">ACRIN 6667 Contralateral Breast MRI Clinical Data Anonymized.zip</a>: 0d651fcc0000d1a018e20a9ebe9162f7",
-    "Notes": "leads to a download of one zip file with several data files in csv format and a data dictionary in xlsx format. The data file names are a different format from all the other acrin collecitons. The file names include the id (6667) and the word 'reviewed'"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "leads to a download of one zip file with several data files in csv format and a data dictionary in xlsx format. The data file names are a different format from all the other acrin collecitons. The file names include the id (6667) and the word 'reviewed'!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "B-mode-and-CEUS-Liver",
@@ -364,7 +380,7 @@
     "DOI": "https://doi.org/10.7937/TCIA.985G-EY35",
     "Wiki": true,
     "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/new_CA125%20data_20230207.xlsx?api=v2\">new_CA125 data_20230207.xlsx</a>: 95f7e5089000f09efce9b41bdfd887a4",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/Final%20patient_list.xlsx?version=1&modificationDate=1635347941808&api=v2\">Final patient_list.xlsx</a>: befeda12e0365138a9ab3a12be595d93, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/83593077/new_CA125%20data_20230207.xlsx?version=2&amp;modificationDate=1686851166874&amp;api=v2\">new_CA125 data_20230207.xlsx</a>: fdd756f02ef592e230d502c147f4030b",
     "Notes": "2 xlsx files with clinical data"
   },
   {
@@ -507,9 +523,9 @@
     "Collection": "MIDRC-RICORD-1a",
     "DOI": "https://doi.org/10.7937/VTW4-X588",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/80969742/MIDRC-RICORD-1a%20Clinical%20Data%20Jan%2013%202021.xlsx?api=v2\">MIDRC-RICORD-1a Clinical Data Jan 13 2021.xlsx</a>: bc54fcc302f85750face74726ad44d46",
-    "Notes": "One xlsx file, one sheet with clear clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file, one sheet with clear clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "Lung-PET-CT-Dx",
@@ -709,7 +725,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "TCGA-OV",
@@ -811,9 +827,9 @@
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
     "Wiki": true,
-    "Format": ".zip",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2\">ACRIN-FLT-Breast 6688 Clinical Data.zip</a>: b656297b7608cb50e4a1edf9629e7705",
-    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN-Breast",
@@ -931,32 +947,32 @@
     "Collection": "NSCLC-Radiomics-Genomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
     "Wiki": true,
-    "Format": ".xls",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056856/Lung3.metadata.xls?version=1&modificationDate=1404237338168&api=v2\">Lung3.metadata.xls</a>: 615dcbbe21f1997c53075eda26d161e7",
-    "Notes": "One xls file with one sheet with clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xls file with one sheet with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "LIDC-IDRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX",
-    "Wiki": true,
-    "Format": ".xls, .xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539039/lidc-idri%20nodule%20counts%20%286-23-2015%29.xlsx?version=1&modificationDate=1435085651880&api=v2\">lidc-idri nodule counts (6-23-2015).xlsx</a>: 8f62e25efdeab263c8443bc21fdf3488, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539039/tcia-diagnosis-data-2012-04-20.xls?version=1&modificationDate=1334930231098&api=v2\">tcia-diagnosis-data-2012-04-20.xls</a>: 00c00621419e16d96b92f19d63cd10f4",
-    "Notes": ""
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "BREAST-DIAGNOSIS",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
-    "Notes": "collection not yet curated for idc"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "REMBRANDT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
-    "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539229/clinical_2014-01-16.xlsx?version=2&modificationDate=1629237658680&api=v2\">clinical_2014-01-16.xlsx</a>: 425f1362f72fc34619c8166e13a7bdcb",
-    "Notes": "One xlsx file with one sheet with clinical data"
+    "Wiki": false,
+    "Format": "",
+    "Filenames": "",
+    "Notes": "One xlsx file with one sheet with clinical data!Run Time Error: Collection not scraped!"
   }
 ]
