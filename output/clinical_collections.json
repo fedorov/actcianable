@@ -204,7 +204,7 @@
     "DOI": "https://doi.org/10.7937/TCIA.709X-DN49",
     "Wiki": true,
     "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.0.csv?api=v2\">UPENN-GBM_clinical_info_v1.0.csv</a>: 775fe21d4495105c803ca42436fbfc0e",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225642/UPENN-GBM_clinical_info_v1.1.csv?api=v2\">UPENN-GBM_clinical_info_v1.1.csv</a>: 2df31ca5353bcccb5bc4baf2159eaafa",
     "Notes": "one csv file with clinical data"
   },
   {
@@ -332,8 +332,8 @@
     "DOI": "https://doi.org/10.7937/NVA3-N783",
     "Wiki": true,
     "Format": ".csv",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/column_description.csv?api=v2\">column_description.csv</a>: f62031f7d3d32aca24e00a11fcc3021c",
-    "Notes": "one csv file with clinical data. Not yet in IDC!Run Time Error: Collection not scraped!"
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/clinical_data_cleaned.csv?api=v2\">clinical_data_cleaned.csv</a>: 9be9d237c49506db16d3c3b53825f827, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/119702520/column_description.csv?api=v2\">column_description.csv</a>: f62031f7d3d32aca24e00a11fcc3021c",
+    "Notes": "one csv file with clinical data. Not yet in IDC"
   },
   {
     "Collection": "AREN0532",
@@ -347,9 +347,9 @@
     "Collection": "ACRIN-Contralateral-Breast-MR (ACRIN 6667)",
     "DOI": "https://doi.org/10.7937/Q1EE-J082",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "leads to a download of one zip file with several data files in csv format and a data dictionary in xlsx format. The data file names are a different format from all the other acrin collecitons. The file names include the id (6667) and the word 'reviewed'!Run Time Error: Collection not scraped!"
+    "Format": ".zip",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70225026/ACRIN%206667%20Contralateral%20Breast%20MRI%20Clinical%20Data%20Anonymized.zip?api=v2\">ACRIN 6667 Contralateral Breast MRI Clinical Data Anonymized.zip</a>: 0d651fcc0000d1a018e20a9ebe9162f7",
+    "Notes": "leads to a download of one zip file with several data files in csv format and a data dictionary in xlsx format. The data file names are a different format from all the other acrin collecitons. The file names include the id (6667) and the word 'reviewed'"
   },
   {
     "Collection": "B-mode-and-CEUS-Liver",
@@ -523,9 +523,9 @@
     "Collection": "MIDRC-RICORD-1a",
     "DOI": "https://doi.org/10.7937/VTW4-X588",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "One xlsx file, one sheet with clear clinical data!Run Time Error: Collection not scraped!"
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/80969742/MIDRC-RICORD-1a%20Clinical%20Data%20Jan%2013%202021.xlsx?api=v2\">MIDRC-RICORD-1a Clinical Data Jan 13 2021.xlsx</a>: bc54fcc302f85750face74726ad44d46",
+    "Notes": "One xlsx file, one sheet with clear clinical data"
   },
   {
     "Collection": "Lung-PET-CT-Dx",
@@ -572,8 +572,8 @@
     "DOI": "https://doi.org/10.7937/TCIA.2020.FQN0-0326",
     "Wiki": true,
     "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70227790/CRC_TMAs_patient_annotations.xlsx?version=1&modificationDate=1596640684172&api=v2\">CRC_TMAs_patient_annotations.xlsx</a>: 9437a28a6e2811f6a8056e51673bcb42, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70227790/Multi-tumor_TMA_composition.xlsx?version=1&modificationDate=1596640676197&api=v2\">Multi-tumor_TMA_composition.xlsx</a>: 15116a8e2a4a1b653ddfe562d0d1396d",
-    "Notes": "2 xlsx files, one with clinical data, one with radiometric data that is not directly applicable to the clinical data format"
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/70227790/Multi-tumor_TMA_composition.xlsx?version=1&modificationDate=1596640676197&api=v2\">Multi-tumor_TMA_composition.xlsx</a>: 15116a8e2a4a1b653ddfe562d0d1396d",
+    "Notes": "2 xlsx files, one with clinical data, one with radiometric data that is not directly applicable to the clinical data format!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Radiomics-Interobserver1",
@@ -725,7 +725,7 @@
     "Wiki": false,
     "Format": "",
     "Filenames": "",
-    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table!Run Time Error: Collection not scraped!"
+    "Notes": "TCGA collection clinical data to be sourced from ISB-CGC BQ table"
   },
   {
     "Collection": "TCGA-OV",
@@ -827,9 +827,9 @@
     "Collection": "ACRIN-FLT-Breast (ACRIN 6688)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2017.ol20zmxg",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file!Run Time Error: Collection not scraped!"
+    "Format": ".zip",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/30671268/ACRIN-FLT-Breast%206688%20Clinical%20Data.zip?api=v2\">ACRIN-FLT-Breast 6688 Clinical Data.zip</a>: b656297b7608cb50e4a1edf9629e7705",
+    "Notes": "Leads to a download of one zip file with several csv files with clinical data and a data dictionary in an xlsx file"
   },
   {
     "Collection": "QIN-Breast",
@@ -859,9 +859,9 @@
     "Collection": "QIN-BREAST-02",
     "DOI": "https://doi.org/10.7937/TCIA.2019.4cfm06rr",
     "Wiki": true,
-    "Format": ".xlsx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/52756887/QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx?version=1&modificationDate=1581525332526&api=v2\">QIN-BREAST-02_clinicalData-Transformed-20191022-Revised20200210.xlsx</a>: 5959ff5cf06287c6dfb1007b030c63a7",
-    "Notes": "one xlsx file with clinical data"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "one xlsx file with clinical data!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "QIN Breast DCE-MRI",
@@ -939,38 +939,38 @@
     "Collection": "LungCT-Diagnosis",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
     "Wiki": true,
-    "Format": ".docx",
-    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/19039728/LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx?version=1&modificationDate=1451937423913&api=v2\">LungCT-Diagnosis_SurvivalData_journal.pone.0118261.s010.docx</a>: 435a152e3ce0e70330cd4cd40dbdf9b3",
-    "Notes": "Clinical data in a doc file! Can be parsed manually"
+    "Format": "",
+    "Filenames": "",
+    "Notes": "Clinical data in a doc file! Can be parsed manually!Run Time Error: Collection not scraped!"
   },
   {
     "Collection": "NSCLC-Radiomics-Genomics",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
     "Wiki": true,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "One xls file with one sheet with clinical data!Run Time Error: Collection not scraped!"
+    "Format": ".xls",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/16056856/Lung3.metadata.xls?version=1&modificationDate=1404237338168&api=v2\">Lung3.metadata.xls</a>: 615dcbbe21f1997c53075eda26d161e7",
+    "Notes": "One xls file with one sheet with clinical data"
   },
   {
     "Collection": "LIDC-IDRI",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "!Run Time Error: Collection not scraped!"
+    "Wiki": true,
+    "Format": ".xls, .xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539039/lidc-idri%20nodule%20counts%20%286-23-2015%29.xlsx?version=1&modificationDate=1435085651880&api=v2\">lidc-idri nodule counts (6-23-2015).xlsx</a>: 8f62e25efdeab263c8443bc21fdf3488, <a href=\"https://wiki.cancerimagingarchive.net/download/attachments/3539039/tcia-diagnosis-data-2012-04-20.xls?version=1&modificationDate=1334930231098&api=v2\">tcia-diagnosis-data-2012-04-20.xls</a>: 00c00621419e16d96b92f19d63cd10f4",
+    "Notes": ""
   },
   {
     "Collection": "BREAST-DIAGNOSIS",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
-    "Wiki": false,
-    "Format": "",
-    "Filenames": "",
-    "Notes": "collection not yet curated for idc!Run Time Error: Collection not scraped!"
+    "Wiki": true,
+    "Format": ".xlsx",
+    "Filenames": "<a href=\"https://wiki.cancerimagingarchive.net/download/attachments/2621477/TCIA%20Breast%20clinical%20data%20public%207_16_11.xlsx?api=v2\">TCIA Breast clinical data public 7_16_11.xlsx</a>: 3c5d2380868aa540f6a415d5af223146",
+    "Notes": "collection not yet curated for idc"
   },
   {
     "Collection": "REMBRANDT",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2015.588OZUZB",
-    "Wiki": false,
+    "Wiki": true,
     "Format": "",
     "Filenames": "",
     "Notes": "One xlsx file with one sheet with clinical data!Run Time Error: Collection not scraped!"
