@@ -21,9 +21,9 @@
   "ACRIN-NSCLC-FDG-PET (ACRIN 6668)":{"notes":"Same as ACRIN-NSCLC-FDG-PET (ACRIN 6668), but in this case there are two zip files with a 75/25 random data set", "uzip":["ACRIN 6668 NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 1.zip","ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized File set 2.zip"], "udir":["ACRIN 6668 NSCLC FDG PET - ACRIN Data TCIA Anonymized","ACRIN 6668HB NSCLC FDG PET - ACRIN Data TCIA Anonymized" ],"spec":"acrin", "idc_webapp":"acrin_nsclc_fdg_pet", "case_id":"acrin format", "tcia_api":"ACRIN-NSCLC-FDG-PET"},
 
 
- "Adrenal-ACC-Ki67-Seg":{"notes":"one xlsx file. 1st sheet with clinical data, the 2nd with a glossary", "srcs":[[{"filenm":"Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx","sheet":0}]], "dict":[{"filenm":"Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx", "sheet":1, "use":false, "nohead":true, "form":"adrenal"}], "case_id":"same"},
+ "Adrenal-ACC-Ki67-Seg":{"notes":"one xlsx file. 1st sheet with clinical data, the 2nd with a glossary", "srcs":[[{"filenm":"Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx","sheet":0}]], "dict":[{"filenm":"Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx", "sheet":1, "use":true, "nohead":true, "form":"adrenal"}], "case_id":"same"},
 
-  "AHEP0731":{"notes":"clinical data href links to nctn/ncorp data portal"},
+  "AHEP0731":{"notes":"clinical data href links to nctn/ncorp data portal"},"Adrenal-ACC-Ki67-Seg":{"notes":"one xlsx file. 1st sheet with clinical data, the 2nd with a glossary", "srcs":[[{"filenm":"Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx","sheet":0}]], "dict":[{"filenm":"Adrenal-ACC-Ki67-Seg_SupportingData_20230522.xlsx", "sheet":1, "use":true, "nohead":true, "form":"adrenal"}], "case_id":"same"},
 
   "AHOD0831":{"notes":"clinical data href links to nctn/ncorp data portal"},
 
@@ -52,8 +52,7 @@
   "CALGB50303":{"notes":"clinical data href links to nctn/ncorp data portal"},
 
 
-  "CC-Tumor Heterogeneity":{"notes":"one file with one sheet with clinical data", "srcs":[[{"filenm":"TCIA_CCTH_Patient data_02.06.23.xlsx", "sheet":0,   "maxRow":26, "skipRows":[1]}  ]]},
-
+"CC-Tumor Heterogeneity":{"notes":"one file with one sheet with clinical data", "srcs":[[{"filenm":"TCIA_CCTH_Patient data_02.06.23.xlsx", "sheet":0,   "maxRow":24, "skipRows":[1]}  ]], "case_id":"cc"},
 
   "CDD-CESM":{"notes":"a zip file with seperate docx format files, each containing a medical report for a different patient. Would take some work to get this in tabular format"},
 
@@ -73,7 +72,7 @@
 
   "CODEX imaging of HCC":{"notes":"one xls file with clinical data", "srcs":[[{"filenm":"CODEX imaging of HCC_Clinical data + Key.xlsx", "sheet":0,"maxRow":16 }]] },
 
-"Colorectal-Liver-Metastases":{"notes":"one xlsx file with clinical data and a data dictionary","srcs":[[ {"filenm":"Colorectal Liver Metastases Clinical data April 2023.xlsx","sheet":0 }  ]], "dict":[{"filenm":"Colorectal Liver Metastases Clinical data April 2023.xlsx","use":"true", "sheet":1, "form":"colorectal"  }]},
+"Colorectal-Liver-Metastases":{"notes":"one xlsx file with clinical data and a data dictionary","srcs":[[ {"filenm":"Colorectal Liver Metastases Clinical data April 2023.xlsx","sheet":0 }  ]], "dict":[{"filenm":"Colorectal Liver Metastases Clinical data April 2023.xlsx","use":"true", "sheet":1, "form":"colorectal"  }], "case_id":"same"},
 
   "COVID-19-AR":{"notes":"one xls file with two sheets. Both have clinical data  for two attribute sets", "tabletypes":[{"clinical":"clinical data"},{"imaging":"imaging data"} ], "srcs":[  [ {"filenm":"COVID-19 AR Clinical Correlates July202020.xlsx","sheet":0,"headrows":[1]} ], [{"filenm":"COVID-19 AR Clinical Correlates July202020.xlsx","sheet":1,"headrows":[1]}  ]], "case_id":"same"  },
 
@@ -120,7 +119,7 @@
 
 
 "Duke-Breast-Cancer-MRI":{"notes":"one xlsx file with 3 sheets. The first has clinical data, the third has a template", "srcs":[[{"filenm":"Clinical_and_Other_Features.xlsx","sheet":0, "headrows":[0,1,2], "specAttr":"duke",  "skipCols":[67]} ]],
-"dict":[{"filenm":"Clinical_and_Other_Features.xlsx", "sheet":0, "use":true, "nohead":false, "form":"duke"}]  },
+"dict":[{"filenm":"Clinical_and_Other_Features.xlsx", "sheet":0, "use":true, "nohead":false, "form":"duke"}], "case_id":"same"},
 
 
   "ExACT":{"notes":"clinical data is 'TCIA restricted'?"},
@@ -143,7 +142,18 @@
   "HNSCC-3DCT-RT": {"notes":"One xlsb file.  8 sheets,  with different types of clinical data and CT data. Limited data -now removed",  "tabletypes":[{"demographics":"demographics data"},{"dose":"dose data"},{"outcome":"outcome data"},{"weight":"weight data"}],
                      "srcs":[ [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":1 }], [ {"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":5 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":6 }], [{"filenm":"MDPA Patient Data Final - Accepted.xlsb", "sheet":7}]  ] , "case_id":"3DCT-RT", "spec":"ignore"},
 
+
+  "HTAN-HMS":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"HTAN", "srcs":[{"table":"isb-cgc-bq.HTAN.clinical_tier1_demographics_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_diagnosis_current", "patientIdCol":"HTAN_Participant_ID"},  {"table":"isb-cgc-bq.HTAN.clinical_tier1_exposure_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_familyhistory_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_followup_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_moleculartest_current", "patientIdCol":"HTAN_Participant_ID"},{"table":"isb-cgc-bq.HTAN.clinical_tier1_therapy_current", "patientIdCol":"HTAN_Participant_ID"}], "case_id":"same", "tabletypes":[{"demographics":"demographics", "diagnosis":"diagnosis", "exposure":"exposure", "familyhistory":"familyhistory", "followup":"followup", "moleculartest":"moleculartest", "therapy":"therapy"}]},
+
+
+"HTAN-OHSU":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"HTAN", "srcs":[{"table":"isb-cgc-bq.HTAN.clinical_tier1_demographics_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_diagnosis_current", "patientIdCol":"HTAN_Participant_ID"},  {"table":"isb-cgc-bq.HTAN.clinical_tier1_exposure_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_familyhistory_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_followup_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_moleculartest_current", "patientIdCol":"HTAN_Participant_ID"},{"table":"isb-cgc-bq.HTAN.clinical_tier1_therapy_current", "patientIdCol":"HTAN_Participant_ID"}], "case_id":"same", "tabletypes":[{"demographics":"demographics", "diagnosis":"diagnosis", "exposure":"exposure", "familyhistory":"familyhistory", "followup":"followup", "moleculartest":"moleculartest", "therapy":"therapy"}]},
+
+ "HTAN-WUSTL":{"notes":"TCGA collection clinical data to be sourced from ISB-CGC BQ table","spec":"HTAN", "srcs":[{"table":"isb-cgc-bq.HTAN.clinical_tier1_demographics_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_diagnosis_current", "patientIdCol":"HTAN_Participant_ID"},  {"table":"isb-cgc-bq.HTAN.clinical_tier1_exposure_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_familyhistory_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_followup_current", "patientIdCol":"HTAN_Participant_ID"}, {"table":"isb-cgc-bq.HTAN.clinical_tier1_moleculartest_current", "patientIdCol":"HTAN_Participant_ID"},{"table":"isb-cgc-bq.HTAN.clinical_tier1_therapy_current", "patientIdCol":"HTAN_Participant_ID"}], "case_id":"same", "tabletypes":[{"demographics":"demographics", "diagnosis":"diagnosis", "exposure":"exposure", "familyhistory":"familyhistory", "followup":"followup", "moleculartest":"moleculartest", "therapy":"therapy"}]},
+
+
+
  "Hungarian-Colorectal-Screening":{"notes":"one csv file with clinical data. Not yet in idc"}, "srcs":[[{"filenm":"metadata_age_sex_icd10status.csv"}]],
+
 
 
   "ISPY1 (ACRIN 6657)":{"notes":"xlsx file with 4 sheers. Two are  clinical data sheets, two others are data dictionaries. There are Excell formulas in the clinical data sheets that are not resolved by my parser", "tabletypes":[{"clinical":"clinical"}, {"outcome":"patient outcomes"}],"srcs":[[ {"filenm":"I-SPY 1 All Patient Clinical and Outcome Data.xlsx","sheet":1} ], [{"filenm":"I-SPY 1 All Patient Clinical and Outcome Data.xlsx","sheet":3}]], "dict":[["I-SPY 1 All Patient Clinical and Outcome Data.xlsx",0],["I-SPY 1 All Patient Clinical and Outcome Data.xlsx",2]], "case_id":"ispy" },
@@ -153,13 +163,13 @@
   "IvyGAP":{"notes":"not clinical data download links. Link resolve to portals. May be able to get data from there. Limited access - not to be included"},
 
 
-  "LDCT-and-Projection-data":{"notes":"A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet. Limited access - not included in IDC ", "uzip":"Clinical Reports March 2022.zip","srcs":[ [  {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Abdomen_v3/Abdomen_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] }, {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Chest_v3/Chest_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] }, {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Head_v3/Neuro_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] } ]], "dict":[{ "filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Abdomen_v3/Abdomen_v6.xlsx", "sheet":1,"col":0, "id":1, "value":2, "rows":[1,25] }], "case_id":"same" },
+  "LDCT-and-Projection-data":{"notes":"A zip directory with several files, including jpgs. Only one, Abdomen_v5.xlsx has data in 1st sheet. Dicitonary in 2nd sheet. Limited access - not included in IDC ", "uzip":"Clinical Reports March 2022.zip","srcs":[ [  {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Abdomen_v3/Abdomen_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] }, {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Chest_v3/Chest_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] }, {"filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Head_v3/Neuro_v6.xlsx", "headrows":[1], "archive":["Clinical Reports March 2022.zip"] } ]], "dict":[{ "filenm":"PKG - LDCT-and-projection-data clinical reports/CR_Abdomen_v3/Abdomen_v6.xlsx", "sheet":1,"col":0, "id":1, "value":2, "rows":[1,25] }], "case_id":"same", "spec":"ignore" },
 
 
 "LIDC-IDRI":{"notes":"", "alternate":["Nodule Counts by Patient (XLS)","Patient Diagnoses (XLS)"], "srcs":[[{"filenm":"tcia-diagnosis-data-2012-04-20.xls", "sheet":0, "headerformatspec":"lidc"}]], "case_id":"same",  "dict":[{"filenm":"tcia-diagnosis-data-2012-04-20.xls", "sheet":0, "use":true, "form":"lidc"}] },
 
 
-  "Lung Fused-CT-Pathology":{"notes":"One xlsx file with one sheet with clear clinical data","srcs":[ [{"filenm":"Lung Fused-CT-Pathology spreadsheet.xlsx","sheet":0,"headrows":[1], "maxRow":7 }] ], "case_id":"same" },
+  "Lung-Fused-CT-Pathology":{"notes":"One xlsx file with one sheet with clear clinical data","srcs":[ [{"filenm":"Lung Fused-CT-Pathology spreadsheet.xlsx","sheet":0,"headrows":[1], "maxRow":7 }] ], "case_id":"same" },
 
   "Lung-PET-CT-Dx":{"notes":"One xlsx file with one sheet with clear clinical data", "srcs":[ [{"filenm":"statistics-clinical-20201221.xlsx","sheet":0, "patientIdRow":1 }]   ], "case_id":"lung_pt" },
 
@@ -175,7 +185,7 @@
 
   "NADT-Prostate":{"notes":"one xlsx file with clinical data", "srcs":[[{"filenm":"Biopsy Clinical Data.xlsx","sheet":0, "patientIdRow":1}]]},
 
-  "National Lung Screening Trial (NLST)":{"notes":"isds", "tabletypes":[{"clinical":"clinical data"},{"ctab":"CT abnormaliy"},{"ctabc":"CT abnormality comparison"}, {"prsn":"presrceen"}, {"screen":"screen"}],"srcs":[[{"filenm":"./nlst_780/nlst_780_canc_idc_20210527.csv" }],[{"filenm":"./nlst_780/nlst_780_ctab_idc_20210527.csv"}],[{"filenm":"./nlst_780/nlst_780_ctabc_idc_20210527.csv"}],[{"filenm":"./nlst_780/nlst_780_prsn_idc_20210527.csv"}],[{"filenm":"./nlst_780/nlst_780_screen_idc_20210527.csv"}]] ,"dict":[{"filenm":"./NLST_dicts_xls/dictionary_idc_canc_idc.xlsx", "use":true, "form":"nlst", "sheet":2},{"filenm":"./NLST_dicts_xls/dictionary_idc_ctab_idc.xlsx", "use":true, "form":"nlst", "sheet":1}, {"filenm":"./NLST_dicts_xls/dictionary_idc_ctabc_idc.xlsx", "use":true, "form":"nlst", "sheet":2}, {"filenm":"./NLST_dicts_xls/dictionary_idc_prsn_idc.xlsx", "use":true, "form":"nlst2", "sheet":[2,3,4,5]},{"filenm":"./NLST_dicts_xls/dictionary_idc_screen_idc.xlsx", "use":true, "form":"nlst", "sheet":2} ] },
+"National Lung Screening Trial (NLST)":{"notes":"isds", "tabletypes":[{"clinical":"clinical data"},{"ctab":"CT abnormaliy"},{"ctabc":"CT abnormality comparison"}, {"prsn":"presrceen"}, {"screen":"screen"}],"srcs":[[{"filenm":"./nlst_780/nlst_780_canc_idc_20210527.csv", "archive":["NLST_dicts_xls.zip"] }],[{"filenm":"./nlst_780/nlst_780_ctab_idc_20210527.csv","patientIdRow":10, "archive":["NLST_dicts_xls.zip"]}],[{"filenm":"./nlst_780/nlst_780_ctabc_idc_20210527.csv", "patientIdRow":2,"archive":["NLST_dicts_xls.zip"]}],[{"filenm":"./nlst_780/nlst_780_prsn_idc_20210527.csv", "patientIdRow":31, "archive":["NLST_dicts_xls.zip"]}],[{"filenm":"./nlst_780/nlst_780_screen_idc_20210527.csv", "patientIdRow":0, "archive":["NLST_dicts_xls.zip"]}]] ,"dict":[{"filenm":"./NLST_dicts_xls/dictionary_idc_canc_idc.xlsx", "use":true, "form":"nlst", "sheet":2},{"filenm":"./NLST_dicts_xls/dictionary_idc_ctab_idc.xlsx", "use":true, "form":"nlst", "sheet":1}, {"filenm":"./NLST_dicts_xls/dictionary_idc_ctabc_idc.xlsx", "use":true, "form":"nlst", "sheet":2}, {"filenm":"./NLST_dicts_xls/dictionary_idc_prsn_idc.xlsx", "use":true, "form":"nlst2", "sheet":[2,3,4,5]},{"filenm":"./NLST_dicts_xls/dictionary_idc_screen_idc.xlsx", "use":true, "form":"nlst", "sheet":2} ], "case_id":"same" },
 
 
   "NSCLC-Radiomics": {"notes":"One csv file with clinical data", "srcs":[ [ {"filenm":"NSCLC Radiomics Lung1.clinical-version3-Oct 2019.csv","sheet":0} ] ], "case_id":"same" },
@@ -186,13 +196,44 @@
 
   "NSCLC-Radiomics-Interobserver1":{"notes":"one csv file with clinical data", "srcs":[ [ {"filenm":"Interobserver1.clinical_updated_released_2019-June-17.csv"}] ], "case_id":"same"},
 
-  "National Lung Screening Trial (NLST)":{"special":"NLST","notes":"a zip file with many csv files with clinical data and rtf files with data dictionaries. This has not been parsed."},
 
   "NSCLC-Cetuximab (RTOG-0617)":{"notes":"clinical data at nctn/ncorp data portal"},
 
   "OPC-Radiomics":{"notes":"One xls file with one sheet with clinical data. Limited access - now removed","srcs":[ [ {"filenm":"Clinical data list_OPC (606) v3.xlsx","sheet":0,"headrows":[0], "skipRows":[1]}] ], "case_id":"same", "spec":"ignore"},
 
   "PCa_Bx_3Dpathology":{"notes":"one xlsx file with one sheet with clinical data. Not yet included in IDC", "srcs":[[{"filenm":"Biopsy list with BCR outcomes and cancer-enriched coordinates.xlsx", "sheet":0}]], "spec":"PCa"},
+
+"PROSTATEx":{"notes":"","archive":["ProstateX-TrainingLesionInformationv2.zip"] ,"srcs":[
+
+[{"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-Findings-Train.csv","archive":["ProstateX-TrainingLesionInformationv2.zip"],"patientIdRow":0}, {"filenm":"ProstateX-TestLesionInformation/ProstateX-Findings-Test.csv", "patientIdRow":0,  "archive":["ProstateX-TestLesionInformation.zip"]}],
+
+[{"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-Images-Train.csv", "archive":["ProstateX-TrainingLesionInformationv2.zip"]}, {"filenm":"ProstateX-TestLesionInformation/ProstateX-Images-Test.csv", "archive":["ProstateX-TestLesionInformation.zip"]}],
+
+[{"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-Images-KTrans-Train.csv", "archive":["ProstateX-TrainingLesionInformationv2.zip"]}, {"filenm":"ProstateX-TestLesionInformation/ProstateX-Images-KTrans-Test.csv", "archive":["ProstateX-TestLesionInformation.zip"]}],
+
+
+[{"filenm":"ProstateX2-DataInfo-Train/ProstateX-2-Findings-Train.csv","archive":["ProstateX2-DataInfo-Train.zip"],"patientIdRow":0}, {"filenm":"ProstateX2-DataInfo-Test/ProstateX-2-Findings-Test.csv", "archive":["ProstateX2-DataInfo-Test.zip"], "patientIdRow":0}],
+
+[{"filenm":"ProstateX2-DataInfo-Train/ProstateX-2-Images-Train.csv","archive":["ProstateX2-DataInfo-Train.zip"],"patientIdRow":0}, {"filenm":"ProstateX2-DataInfo-Test/ProstateX-2-Images-Test.csv", "archive":["ProstateX2-DataInfo-Test.zip"], "patientIdRow":0}]
+
+
+ ],
+
+"dict":[ {"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-DataInfo-Train.docx", "filenm2":"ProstateX-TestLesionInformation/ProstateX-DataInfo-Test.docx", "form":"PROSTATEx", "use":"true"},
+ {"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-DataInfo-Train.docx", "filenm2":"ProstateX-TestLesionInformation/ProstateX-DataInfo-Test.docx", "form":"PROSTATEx", "use":"true"},
+
+ {"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-DataInfo-Train.docx", "filenm2":"ProstateX-TestLesionInformation/ProstateX-DataInfo-Test.docx", "form":"PROSTATEx", "use":"true"},
+
+{"filenm":"ProstateX2-DataInfo-Train/ProstateX2-Datainfo-Train.docx", "filenm2":"ProstateX2-DataInfo-Test/ProstateX2-DataInfo-Test.docx", "form":"PROSTATEx", "use":"true"},
+
+{"filenm":"ProstateX2-DataInfo-Train/ProstateX2-Datainfo-Train.docx", "filenm2":"ProstateX2-DataInfo-Test/ProstateX2-DataInfo-Test.docx", "form":"PROSTATEx", "use":"true"}
+
+
+],
+
+"tabletypes":[ {"findings":"findings for training and test sets for original challenge"}, {"images":"image data for training set for original challenge"}, {"ktrans":"ktrans image data for training set for original challenge"}, {"findings2":"findings for training and test sets for second challenge"}, {"images2":"image data for training set for second challenge"}], "case_id":"same"
+},
+
 
   "Ovarian Bevacizumab Response":{"notes":"2 xlsx files with clinical data","srcs":[ [{"filenm":"Final patient_list.xlsx","sheet":0, "patientIdRow":1, "skipRows":[1],"skipCols":[5] }], [ {"filenm":"Final CA125 data.xlsx","sheet":0,"patientIdRow":1, "reindex":{"needed":true, "uniques":[2,4,5]}}, {"filenm":"Final CA125 data.xlsx","sheet":1,"patientIdRow":1, "reindex":{"needed":true, "uniques":[2,4,5]}} ]  ], "spec":"ignore" },
 
@@ -210,7 +251,6 @@
 
   "Prostate-Diagnosis":{"notes":"one xlsx file with clinical data.","srcs":[ [ {"filenm":"ProstateDiagnosis_metadata-05-07-2012.xlsx","sheet":0,"pivot":true} ] ], "case_id":"same"},
 
-  "PROSTATEx":{"notes":"","archive":["ProstateX-TrainingLesionInformationv2.zip"] ,"srcs":[[{"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-Findings-Train.csv","archive":["ProstateX-TrainingLesionInformationv2.zip"],"patientIdRow":0}, {"filenm":"ProstateX-Findings-Test.csv", "skipCols":[0], "patientIdRow":0}], [{"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-Images-Train.csv", "archive":["ProstateX-TrainingLesionInformationv2.zip"]}],[{"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-Images-KTrans-Train.csv", "archive":["ProstateX-TrainingLesionInformationv2.zip"]}], [{"filenm":"ProstateX-2-Findings-Train.csv", "patientIdRow":0, "archive":["ProstateX2-DataInfo-Train.zip"]}], [{"filenm":"ProstateX-2-Images-Train.csv", "patientIdRow":0, "archive":["ProstateX2-DataInfo-Train.zip"]}] ], "tabletypes":[ {"findings":"findings for training and test sets for original challenge"}, {"images":"image data for training set for original challenge"}, {"ktrans":"ktrans image data for training set for original challenge"}, {"findings2":"findings for training set for the 2nd challenge"}, {"images2":"image data for training set for the 2nd chalenge"}], "case_id":"same", "dict":[ {"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-DataInfo-Train.docx", "form":"PROSTATEx", "use":"true"}, {"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-DataInfo-Train.docx", "form":"PROSTATEx", "use":"true"},{"filenm":"ProstateX-TrainingLesionInformationv2/ProstateX-DataInfo-Train.docx", "form":"PROSTATEx", "use":"true"}, {"filenm":"ProstateX2-DataInfo-Train.docx", "form":"PROSTATEx", "use":"true"}, {"filenm":"ProstateX2-DataInfo-Train.docx", "form":"PROSTATEx", "use":"true"}] },
 
   "QIN-Breast":{"notes":"one xls w treatments response","alternate":["QIN-Breast Treatment Response (XLS)"], "srcs":[[{"filenm":"QIN-Breast_TreatmentResponse(2014-12-16).xlsx","sheet":0}]], "case_id":"same"},
 
@@ -220,6 +260,8 @@
   "QIN Breast DCE-MRI":{"notes":"only binary data response vs non-complete response", "spec":"QIN-Breast-DCE-MRI_Response.xlsx","alternate":["Pathological Response (XLS)"],"srcs":[[{"filenm":"QIN-Breast-DCE-MRI_Response.xlsx","sheet":0 }]], "case_id":"same"},
 
   "QIN-HEADNECK":{"notes":"one xlsx file with two sheets with similar clinical two for two patient sets. Limited access - now removed", "srcs":[ [ {"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":0,"headrows":[0,1]},{"filenm":"Batch_01 and Batch_02 Clinical Data_aug242020.xlsx","sheet":1,"headrows":[0,1]} ]  ], "case_id":"same", "spec":"ignore" },
+
+"RMS-Mutation-Prediction":{"notes":"", "tcia_api":"rms","idc_webapp":"rms_mutation_prediction","srcs":[ [{"filenm": "CCDI_Submission_Template_v1.0.1_DM_v2.2023-02-17.xlsx", "sheet":3, "patientIdRow":0}], [{"filenm": "CCDI_Submission_Template_v1.0.1_DM_v2.2023-02-17.xlsx", "sheet":5, "patientIdRow":0, "skipCols":[0,1,5]}], [{"filenm": "CCDI_Submission_Template_v1.0.1_DM_v2.2023-02-17.xlsx", "sheet":7, "patientIdRow":0, "skipCols":[0,1] }] ], "case_id":"same", "tabletypes":[{"diagnosis":"diagnosis"},{"demographics":"demographics"},{"sample":"sample"}] },
 
   "REMBRANDT":{"notes":"One xlsx file with one sheet with clinical data. Limited access - now removed", "srcs":[ [ { "filenm":"clinical_2014-01-16.xlsx", "sheet":0 } ]  ], "case_id":"same", "spec":"ignore"},
 
