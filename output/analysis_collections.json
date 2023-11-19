@@ -1,8 +1,98 @@
 [
   {
+    "Collection": "Annotations for Radiation Therapy, Amifostine, and Chemotherapy in Treating Young Patients With Newly Diagnosed Nasopharyngeal Cancer Collection (ARAR0331-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.25737/H65S-8F58",
+    "CancerType": "Nasopharyngeal",
+    "Location": "Head",
+    "Subjects": "108",
+    "Collections": "ARAR0331",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, Seed points",
+    "Updated": "2023-11-14"
+  },
+  {
+    "Collection": "Annotations for Sorafenib Tosylate in Treating Patients With Desmoid Tumors or Aggressive Fibromatosis (A091105-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/T8RN-J447",
+    "CancerType": "Non-Cancer",
+    "Location": "Various",
+    "Subjects": "83",
+    "Collections": "A091105",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, Seed points",
+    "Updated": "2023-11-13"
+  },
+  {
+    "Collection": "Annotations for ACRIN-HNSCC-FDG-PET/CT Collection (ACRIN 6685-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/JVGC-AQ36",
+    "CancerType": "Head and Neck Squamous Cell Carcinoma",
+    "Location": "Head-Neck",
+    "Subjects": "258",
+    "Collections": "ACRIN-HNSCC-FDG-PET-CT",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, Seed points",
+    "Updated": "2023-11-13"
+  },
+  {
+    "Collection": " SAROS - A large, heterogeneous, and sparsely annotated segmentation dataset on CT imaging data (SAROS)",
+    "DOI": "https://doi.org/10.25737/SZ96-ZG60",
+    "CancerType": "Adenocarcinoma, Breast, Corpus Endometrial Carcinoma, COVID-19(non-cancer), Cutaneous Melanoma, Ductal Adenocarcinoma, Head and Neck Carcinomas, Head and Neck Squamous Cell Carcinoma, Healthy Controls (non-cancer), Kidney Cancer, Liver Hepatocellular Carcinoma, Lung Adenocarcinoma, Lung Cancer, Lung Squamous Cell Carcinoma, Melanoma, Non-small Cell Lung Cancer, Soft-tissue Sarcoma, Squamous Cell Carcinoma, Stomach Adenocarcinoma, Uterine Corpus Endometrial Carcinoma",
+    "Location": "Breast, Chest, Extremities, Head-Neck, Kidney, Liver, Lung, Pancreas, Skin, Stomach, Uterus",
+    "Subjects": "882",
+    "Collections": "ACRIN-FLT-Breast,ACRIN-HNSCC-FDG-PET/CT,ACRIN-NSCLC-FDG-PET,Anti-PD-1_Lung,Anti-PD-1_MELANOMA,C4KC-KiTS,COVID-19-NY-SBU,CPTAC-CM,CPTAC-LSCC,CPTAC-LUAD,CPTAC-PDA,CPTAC-UCEC,HNSCC,Head-Neck Cetuximab,LIDC-IDRI,Lung-PET-CT-Dx,NSCLC Radiogenomics,NSCLC-Radiomics,NSCLC-Radiomics-Genomics,Pancreas-CT,QIN-HEADNECK,Soft-tissue-Sarcoma,TCGA-HNSC,TCGA-LIHC,TCGA-LUAD,TCGA-LUSC,TCGA-STAD,TCGA-UCECACRIN-HNSCC-FDG-PET/CT, \nACRIN-NSCLC-FDG-PET, \nAnti-PD-1_Lung, \nAnti-PD-1_MELANOMA, \nC4KC-KiTS, \nCOVID-19-NY-SBU, \nCPTAC-CM, \nCPTAC-LSCC, \nCPTAC-LUAD, \nCPTAC-PDA, \nCPTAC-UCEC, \nHNSCC, \nHead-Neck Cetuximab,\nLIDC-IDRI,\nLung-PET-CT-Dx,\nNSCLC Radiogenomics,\nNSCLC-Radiomics,\nNSCLC-Radiomics-Genomics,\nPancreas-CT,\nQIN-HEADNECK,\nSoft-tissue-Sarcoma,\nTCGA-HNSC,\nTCGA-LIHC,\nTCGA-LUAD,\nTCGA-LUSC,\nTCGA-STAD,\nTCGA-UCEC",
+    "AnalysisArtifactsonTCIA": "Segmentations",
+    "Updated": "2023-09-28"
+  },
+  {
+    "Collection": "RSNA-ASNR-MICCAI-BraTS-2021",
+    "DOI": "https://doi.org/10.7937/jc8x-9874",
+    "CancerType": "Glioma",
+    "Location": "Brain",
+    "Subjects": "1,480",
+    "Collections": "CPTAC-GBM, TCGA-GBM, TCGA-LGG, ACRIN-FMISO-Brain (ACRIN 6684), IvyGAP, UPENN-GBM, UCSF-PDGM",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations",
+    "Updated": "2023-08-25"
+  },
+  {
+    "Collection": "Annotations for The Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma Collection (CPTAC-UCEC-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/89m3-kq43",
+    "CancerType": "Corpus Endometrial Carcinoma",
+    "Location": "Uterus",
+    "Subjects": "72",
+    "Collections": "CPTAC-UCEC",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
+    "Updated": "2023-07-24"
+  },
+  {
+    "Collection": "Annotations for The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/skq4-qx48",
+    "CancerType": "Clear Cell Carcinoma",
+    "Location": "Kidney",
+    "Subjects": "60",
+    "Collections": "CPTAC-CCRCC",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
+    "Updated": "2023-07-24"
+  },
+  {
+    "Collection": "Annotations for The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/bw9v-bx61",
+    "CancerType": "Ductal Adenocarcinoma",
+    "Location": "Pancreas",
+    "Subjects": "103",
+    "Collections": "CPTAC-PDA",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
+    "Updated": "2023-07-24"
+  },
+  {
+    "Collection": "Annotations for The Clinical Proteomic Tumor Analysis Consortium Head and Neck Squamous Cell Collection (CPTAC-HNSCC-Tumor-Annotations)",
+    "DOI": "https://doi.org/10.7937/pfec-t641",
+    "CancerType": "Head and Neck Squamous Cell Carcinoma",
+    "Location": "Head-Neck",
+    "Subjects": "101",
+    "Collections": "CPTAC-HNSCC",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
+    "Updated": "2023-07-24"
+  },
+  {
     "Collection": "QIBA VolCT Group 1B Round 2 No Change Size Measurements (QIBA-VolCT-1B)",
     "DOI": "https://doi.org/10.7937/tcia.2020.1c3h-vp70",
-    "CancerType": "Lung cancer",
+    "CancerType": "Lung",
     "Location": "Lung",
     "Subjects": "40",
     "Collections": "RIDER Lung CT, RIDER Pilot",
@@ -16,7 +106,7 @@
     "Location": "Various",
     "Subjects": "155",
     "Collections": "CALGB50303",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
     "Updated": "2023-03-30"
   },
   {
@@ -26,7 +116,7 @@
     "Location": "Head",
     "Subjects": "85",
     "Collections": "ACNS0332",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
     "Updated": "2023-03-21"
   },
   {
@@ -36,7 +126,7 @@
     "Location": "Various",
     "Subjects": "165",
     "Collections": "AHOD0831",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
     "Updated": "2023-02-10"
   },
   {
@@ -46,7 +136,7 @@
     "Location": "Kidney",
     "Subjects": "239",
     "Collections": "AREN0534",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
     "Updated": "2023-02-09"
   },
   {
@@ -56,7 +146,7 @@
     "Location": "Kidney",
     "Subjects": "543",
     "Collections": "AREN0532",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
     "Updated": "2023-02-09"
   },
   {
@@ -66,7 +156,7 @@
     "Location": "Kidney",
     "Subjects": "294",
     "Collections": "AREN0533",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and seed points",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Seed points",
     "Updated": "2023-01-31"
   },
   {
@@ -76,7 +166,7 @@
     "Location": "Breast",
     "Subjects": "163",
     "Collections": "ISPY1",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and Radiomic Features",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations,  Radiomic Features",
     "Updated": "2022-01-06"
   },
   {
@@ -86,7 +176,7 @@
     "Location": "Prostate",
     "Subjects": "98",
     "Collections": "SPIE-AAPM-NCI PROSTATEx Challenges (Prostate-X-Challenge)",
-    "AnalysisArtifactsonTCIA": "Prostate Segmentations",
+    "AnalysisArtifactsonTCIA": "Organ Segmentations",
     "Updated": "2020-11-30"
   },
   {
@@ -96,7 +186,7 @@
     "Location": "Brain",
     "Subjects": "37",
     "Collections": "Ivy GAP ",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and Radiomic Features",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, Radiomic Features",
     "Updated": "2020-10-30"
   },
   {
@@ -106,7 +196,7 @@
     "Location": "Prostate",
     "Subjects": "66",
     "Collections": "SPIE-AAPM-NCI PROSTATEx Challenges (Prostate-X-Challenge)",
-    "AnalysisArtifactsonTCIA": "Prostate segmentations",
+    "AnalysisArtifactsonTCIA": "Organ segmentations",
     "Updated": "2020-09-22"
   },
   {
@@ -122,7 +212,7 @@
   {
     "Collection": "MRQy quality measures for TCIA MRI datasets (MRQy-Quality-Measures)",
     "DOI": "https://doi.org/10.7937/K9/TCIA.2020.JHZ2-T694",
-    "CancerType": "Glioblastoma, Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma",
+    "CancerType": "Glioblastoma, Cervical Squamous Cell Carcinoma, Endocervical Adenocarcinoma",
     "Location": "Brain, Cervix",
     "Subjects": "233",
     "Collections": "TCGA-GBM, CPTAC-GBM, TCGA-CESC",
@@ -174,7 +264,7 @@
     "DOI": "https://doi.org/10.7937/TCIA.2018.h7umfurq",
     "CancerType": "Lung",
     "Location": "Chest",
-    "Subjects": "1,010",
+    "Subjects": "875",
     "Collections": "LIDC-IDRI",
     "AnalysisArtifactsonTCIA": "Tumor segmentations, image features",
     "Updated": "2020-03-26"
@@ -192,7 +282,7 @@
   {
     "Collection": "Dataset of Segmented Nuclei in Hematoxylin and Eosin Stained Histopathology Images (Pan-Cancer-Nuclei-Seg)",
     "DOI": "https://doi.org/10.7937/tcia.2019.4a4dkp9u",
-    "CancerType": "Bladder Urothelial Carcinoma, Breast Invasive Carcinoma, Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma, Glioblastoma Multiforme, Lung Adenocarcinoma, Lung Squamous Cell Carcinoma, Pancreatic Adenocarcinoma, Prostate Adenocarcinoma, Skin Cutaneous Melanoma, Uterine Corpus Endometrial Carcinoma, Colon Adenocarcinoma, Rectal Adenocarcinoma, Stomach Adenocarcinoma, Uveal Melanoma",
+    "CancerType": "Bladder Urothelial Carcinoma, Breast Invasive Carcinoma, Cervical Squamous Cell Carcinoma,  Endocervical Adenocarcinoma, Glioblastoma Multiforme, Lung Adenocarcinoma, Lung Squamous Cell Carcinoma, Pancreatic Adenocarcinoma, Prostate Adenocarcinoma, Skin Cutaneous Melanoma, Uterine Corpus Endometrial Carcinoma, Colon Adenocarcinoma, Rectal Adenocarcinoma, Stomach Adenocarcinoma, Uveal Melanoma",
     "Location": "Bladder, Brain, Breast, Colon, Eye, Lung, Pancreas, Prostate, Rectum, Stomach, Uterus, Endometrium",
     "Subjects": "",
     "Collections": "TCGA-BLCA, TCGA-BRCA, TCGA-CESC, TCGA-COAD, TCGA-GBM, TCGA-LUAD, TCGA-LUSC, TCGA-PAAD, TCGA-PRAD, TCGA-READ, TCGA-SKCM, TCGA-STAD, TCGA-UCEC, TCGA-UVM",
@@ -242,7 +332,7 @@
   {
     "Collection": "Tumor-Infiltrating Lymphocytes Maps from TCGA H&E Whole Slide Pathology Images (TIL-WSI-TCGA)",
     "DOI": "https://doi.org/10.7937/k9/tcia.2018.y75f9w1",
-    "CancerType": "Bladder Urothelial Carcinoma, Breast Invasive Carcinoma, Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma, Colon Adenocarcinoma, Lung Adenocarcinoma, Lung Squamous Cell Carcinoma, Pancreatic Adenocarcinoma, Prostate Adenocarcinoma, Rectum Adenocarcinoma, Skin Cutaneous Melanoma, Stomach Adenocarcinoma, Uterine Corpus Endometrial Carcinoma, Uveal Melanoma",
+    "CancerType": "Bladder Urothelial Carcinoma, Breast Invasive Carcinoma, Cervical Squamous Cell Carcinoma, Endocervical Adenocarcinoma, Colon Adenocarcinoma, Lung Adenocarcinoma, Lung Squamous Cell Carcinoma, Pancreatic Adenocarcinoma, Prostate Adenocarcinoma, Rectum Adenocarcinoma, Skin Cutaneous Melanoma, Stomach Adenocarcinoma, Uterine Corpus Endometrial Carcinoma, Uveal Melanoma",
     "Location": "Bladder, Breast, Pelvic Cervix, Chest, Colon, Eye, Lung, Pancreas, Prostate, Rectum, Skin, Stomach, Uterus",
     "Subjects": "4,759",
     "Collections": "TCGA-BLCA, TCGA-BRCA, TCGA-CESC, TCGA-COAD, TCGA-LUAD, TCGA-LUSC, TCGA-PAAD, TCGA-PRAD, TCGA-READ, TCGA-SKCM, TCGA-STAD, TCGA-UCEC, TCGA-UVM",
@@ -256,7 +346,7 @@
     "Location": "Breast",
     "Subjects": "84",
     "Collections": "TCGA-BRCA",
-    "AnalysisArtifactsonTCIA": "Radiologist assessments of image features, lesion segmentations, radiomic features, and multi-gene assays",
+    "AnalysisArtifactsonTCIA": "Radiologist assessments of image features, Tumor segmentations, radiomic features, multi-gene assays",
     "Updated": "2018-09-04"
   },
   {
@@ -276,7 +366,7 @@
     "Location": "Chest",
     "Subjects": "40",
     "Collections": "LungCT-Diagnosis, QIN LUNG CT",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and radiomic image features",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, radiomic image features",
     "Updated": "2017-08-11"
   },
   {
@@ -286,7 +376,7 @@
     "Location": "Brain",
     "Subjects": "135",
     "Collections": "TCGA-GBM",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and radiomic image features",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, radiomic image features",
     "Updated": "2017-07-17"
   },
   {
@@ -296,7 +386,7 @@
     "Location": "Brain",
     "Subjects": "108",
     "Collections": "TCGA-LGG",
-    "AnalysisArtifactsonTCIA": "Tumor segmentations and radiomic image features",
+    "AnalysisArtifactsonTCIA": "Tumor segmentations, radiomic image features",
     "Updated": "2017-07-17"
   },
   {
@@ -306,7 +396,7 @@
     "Location": "Brain",
     "Subjects": "188",
     "Collections": "TCGA-LGG",
-    "AnalysisArtifactsonTCIA": "Radiologist assessments of image features, tumor segmentations",
+    "AnalysisArtifactsonTCIA": "Radiologist assessments of image features, Tumor segmentations",
     "Updated": "2017-03-17"
   },
   {
