@@ -683,5 +683,14 @@
     "DICOMstatus": "",
     "DICOMtarget": "",
     "Comment": ""
+  },
+  {
+    "Collection": "CT-Phantom4Radiomics",
+    "DOI": "https://doi.org/10.7937/a1v1-rc66",
+    "Format": "",
+    "CollectionType": "original",
+    "DICOMstatus": "",
+    "DICOMtarget": "",
+    "Comment": ""
   }
 ]
